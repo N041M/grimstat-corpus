@@ -1,0 +1,256 @@
+{
+  "format": "grimstat-corpus",
+  "version": 1,
+  "generatedAt": "2026-09-11T22:38:47.354Z",
+  "source": {
+    "id": "minihq",
+    "name": "MiniHeadQuarters",
+    "url": "https://miniheadquarters.com",
+    "publication": "miniheadquarters.com",
+    "attribution": "Army lists published by their players and tournament organisers on MiniHeadQuarters (miniheadquarters.com)"
+  },
+  "files": [
+    {
+      "name": "lists-2026-09.json",
+      "month": "2026-09",
+      "lists": 66,
+      "tournaments": 2
+    },
+    {
+      "name": "lists-2026-08.json",
+      "month": "2026-08",
+      "lists": 164,
+      "tournaments": 9
+    },
+    {
+      "name": "lists-2026-07.json",
+      "month": "2026-07",
+      "lists": 194,
+      "tournaments": 10
+    },
+    {
+      "name": "lists-2026-06.json",
+      "month": "2026-06",
+      "lists": 92,
+      "tournaments": 6
+    }
+  ],
+  "tournaments": [
+    {
+      "slug": "les-strateges-d-ambre-le-retour-2026-09-05",
+      "name": "Les stratèges d ambre le retour",
+      "date": "2026-09-05",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/les-strateges-d-ambre-le-retour-2026-09-05",
+      "lists": 36,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "tournoi-de-dinan-2026-09-05",
+      "name": "Tournoi de Dinan",
+      "date": "2026-09-05",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-de-dinan-2026-09-05",
+      "lists": 30,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "tactical-squad-baston-2026-08-30",
+      "name": "Tactical Squad Baston",
+      "date": "2026-08-30",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tactical-squad-baston-2026-08-30",
+      "lists": 11,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "cland5-2026-08-29",
+      "name": "Cland5",
+      "date": "2026-08-29",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/cland5-2026-08-29",
+      "lists": 16,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "tournoi-wh40k-1v1-2000pts-le-vieux-monde-290826-2026-08-29",
+      "name": "Tournoi wh40k 1v1 2000PTS le vieux monde 29/08/26",
+      "date": "2026-08-29",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-wh40k-1v1-2000pts-le-vieux-monde-290826-2026-08-29",
+      "lists": 13,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "terra-nid-de-cultiste-2026-08-23",
+      "name": "Terra, Nid de Cultiste",
+      "date": "2026-08-23",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/terra-nid-de-cultiste-2026-08-23",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "full-melta-jacket-2026-08-22",
+      "name": "Full Melta Jacket",
+      "date": "2026-08-22",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/full-melta-jacket-2026-08-22",
+      "lists": 28,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fwc-warhammer-40000-n82-solo-2000-points-2026-08-22",
+      "name": "FWC Warhammer 40000 - n82 - solo 2000 points",
+      "date": "2026-08-22",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n82-solo-2000-points-2026-08-22",
+      "lists": 32,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "ligue-nwa-aout-2026-2026-08-16",
+      "name": "Ligue NWA Août 2026",
+      "date": "2026-08-16",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/ligue-nwa-aout-2026-2026-08-16",
+      "lists": 10,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fwc-gt-warhammer-40000-gt-n80-solo-2000-points-2026-08-08",
+      "name": "FWC GT Warhammer 40000 GT - n80 - solo 2000 points",
+      "date": "2026-08-08",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-gt-warhammer-40000-gt-n80-solo-2000-points-2026-08-08",
+      "lists": 19,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "les-ducs-dete-v11-2026-08-08",
+      "name": "Les DUCS d'été V11",
+      "date": "2026-08-08",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/les-ducs-dete-v11-2026-08-08",
+      "lists": 28,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fwc-warhammer-40000-n79-solo-2000-points-2026-07-26",
+      "name": "FWC Warhammer 40000 - n79 - solo 2000 points",
+      "date": "2026-07-26",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n79-solo-2000-points-2026-07-26",
+      "lists": 30,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "tournoi-de-warhammer-40k-en-1v1-2000pts-le-vieux-monde-250726-2026-07-25",
+      "name": "Tournoi de warhammer 40k en 1v1 2000PTS le vieux monde 25/07/26",
+      "date": "2026-07-25",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-de-warhammer-40k-en-1v1-2000pts-le-vieux-monde-250726-2026-07-25",
+      "lists": 16,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "canicule-sur-cadia-2026-07-18",
+      "name": "Canicule sur Cadia",
+      "date": "2026-07-18",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/canicule-sur-cadia-2026-07-18",
+      "lists": 20,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "larene-de-lalliance-solo-1ere-edition-2026-07-18",
+      "name": "L'Arène de l'Alliance - solo - 1ère édition",
+      "date": "2026-07-18",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/larene-de-lalliance-solo-1ere-edition-2026-07-18",
+      "lists": 12,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "occi-bash-2026-07-18",
+      "name": "Occi-Bash",
+      "date": "2026-07-18",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/occi-bash-2026-07-18",
+      "lists": 29,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "fwc-warhammer-40000-n78-solo-1000-points-2026-07-12",
+      "name": "FWC Warhammer 40000 - n78 - solo 1000 points",
+      "date": "2026-07-12",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n78-solo-1000-points-2026-07-12",
+      "lists": 16,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "tournoi-de-warhammer-40k-en-1v1-2000pts-le-vieux-monde-110726-2026-07-11",
+      "name": "Tournoi de warhammer 40k en 1v1 2000PTS le vieux monde 11/07/26",
+      "date": "2026-07-11",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-de-warhammer-40k-en-1v1-2000pts-le-vieux-monde-110726-2026-07-11",
+      "lists": 8,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "namur-en-force-xxi-2026-07-05",
+      "name": "Namur En Force XXI",
+      "date": "2026-07-05",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/namur-en-force-xxi-2026-07-05",
+      "lists": 16,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "fwc-gt-warhammer-40000-gt-n77-solo-2000-points-2026-07-04",
+      "name": "FWC GT Warhammer 40000 GT - n77 - solo 2000 points",
+      "date": "2026-07-04",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-gt-warhammer-40000-gt-n77-solo-2000-points-2026-07-04",
+      "lists": 21,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "tournoi-des-gobyzz-adios-la-v10-2026-07-04",
+      "name": "Tournoi des Gobyzz Adios la V10",
+      "date": "2026-07-04",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-des-gobyzz-adios-la-v10-2026-07-04",
+      "lists": 26,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "fwc-warhammer-40000-n76-solo-1000-points-2026-06-21",
+      "name": "FWC Warhammer 40000 - n76 - solo 1000 points",
+      "date": "2026-06-28",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n76-solo-1000-points-2026-06-21",
+      "lists": 17,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "armageddon-2026-06-27",
+      "name": "Armageddon !!",
+      "date": "2026-06-27",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/armageddon-2026-06-27",
+      "lists": 18,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "bouvron-games-3-by-les-desluminatis-40k-solo-2026-06-27",
+      "name": "Bouvr'On Games 3 by Les Dés'Luminatis 40k solo",
+      "date": "2026-06-27",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/bouvron-games-3-by-les-desluminatis-40k-solo-2026-06-27",
+      "lists": 9,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "fwc-warhammer-40000-n75-solo-2000-points-2026-06-27",
+      "name": "FWC Warhammer 40000 - n75 - solo 2000 points",
+      "date": "2026-06-27",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n75-solo-2000-points-2026-06-27",
+      "lists": 22,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "tournoi-narratif-le-vieux-monde-warhammer-40k-2000pts-27062026-2026-06-27",
+      "name": "Tournoi V11 Le Vieux Monde Warhammer 40k 2000pts 27/06/2026",
+      "date": "2026-06-27",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-narratif-le-vieux-monde-warhammer-40k-2000pts-27062026-2026-06-27",
+      "lists": 10,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "derniere-croisade-2026-06-13",
+      "name": "Dernière Croisade",
+      "date": "2026-06-13",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/derniere-croisade-2026-06-13",
+      "lists": 16,
+      "file": "lists-2026-06.json"
+    }
+  ]
+}
