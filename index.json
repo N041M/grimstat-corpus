@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-09-11T22:38:47.354Z",
+  "generatedAt": "2026-09-14T09:53:52.271Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-09.json",
       "month": "2026-09",
-      "lists": 66,
-      "tournaments": 2
+      "lists": 75,
+      "tournaments": 3
     },
     {
       "name": "lists-2026-08.json",
@@ -36,6 +36,14 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "la-ligue-nwa-le-retour-2026-09-13",
+      "name": "La ligue NWA (le retour)",
+      "date": "2026-09-13",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/la-ligue-nwa-le-retour-2026-09-13",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
     {
       "slug": "les-strateges-d-ambre-le-retour-2026-09-05",
       "name": "Les stratèges d ambre le retour",
