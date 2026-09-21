@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-09-14T09:53:52.271Z",
+  "generatedAt": "2026-09-21T09:58:16.187Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-09.json",
       "month": "2026-09",
-      "lists": 75,
-      "tournaments": 3
+      "lists": 151,
+      "tournaments": 5
     },
     {
       "name": "lists-2026-08.json",
@@ -36,6 +36,22 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "fwc-warhammer-40000-n85-solo-2000-points-2026-09-20",
+      "name": "FWC Warhammer 40000 - n85 - solo 2000 points",
+      "date": "2026-09-20",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n85-solo-2000-points-2026-09-20",
+      "lists": 28,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "la-grande-castagne-ardechoise-2026-2026-09-19",
+      "name": "La Grande Castagne Ardéchoise 2026",
+      "date": "2026-09-19",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/la-grande-castagne-ardechoise-2026-2026-09-19",
+      "lists": 48,
+      "file": "lists-2026-09.json"
+    },
     {
       "slug": "la-ligue-nwa-le-retour-2026-09-13",
       "name": "La ligue NWA (le retour)",
