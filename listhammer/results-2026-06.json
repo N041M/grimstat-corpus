@@ -1,0 +1,5845 @@
+{
+  "format": "grimstat-event-results",
+  "version": 1,
+  "generatedAt": "2026-09-23T21:12:06.469Z",
+  "events": [
+    {
+      "slug": "0a59cf2d4cc8b0df9c",
+      "name": "Treasure Trove Games - Warhammer 40k Cherry City GT 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/0a59cf2d4cc8b0df9c",
+      "rounds": 5,
+      "players": 32,
+      "standings": [
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [
+            "Needgaârd Oathband",
+            "Hearthguard Covenant"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Dread Mob",
+            "More Dakka"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Starshatter Arsenal"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Blade of Ultramar"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Fellhammer Siege-host",
+            "Cabal of Chaos"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [
+            "Banishers",
+            "Argent Assault"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "12c6f5bb3a48b39081",
+      "name": "Hellpit Grand Tournament 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/12c6f5bb3a48b39081",
+      "rounds": 5,
+      "players": 34,
+      "standings": [
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Advanced Acquisition Cadre",
+            "Kauyon"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [
+            "Dark Age Arsenal",
+            "Company of Hunters"
+          ],
+          "disposition": "Disruption",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Bully Boyz",
+            "Rollin' Deff"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [
+            "Needgaârd Oathband",
+            "Armoured Trailblazers"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Librarius Conclave",
+            "Forgefather's Seekers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Taktikal Brigade",
+            "Green Tide"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Renegade Raiders"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Deathwatch",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Hurons Marauders"
+          ],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        }
+      ]
+    },
+    {
+      "slug": "238fcdf07df1a2c500",
+      "name": "EI Commencing Armageddon: 11th Ed Kickoff GT",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/238fcdf07df1a2c500",
+      "rounds": 5,
+      "players": 30,
+      "standings": [
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Librarius Conclave",
+            "Hammer of Avernii"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [
+            "Designation Force",
+            "Mechanised Assault"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Skysplinter Assault",
+            "Exhibition of Slaughter"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [
+            "Plague Legion",
+            "Warptide"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Ritual of Regeneration",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 0,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "dropped": true
+        }
+      ]
+    },
+    {
+      "slug": "259ae8a5c54cfb1d4f",
+      "name": "The Circuit Breaker - A 40k GT",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/259ae8a5c54cfb1d4f",
+      "rounds": 6,
+      "players": 50,
+      "standings": [
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Synaptic Nexus",
+            "Talons of the Norn Queen"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor",
+            "Might of the Moritoi"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Librarius Conclave",
+            "Forgefather's Seekers"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Gate Warden Lance",
+            "Dominus Foebreakers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Taktikal Brigade",
+            "Green Tide"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "29a06d5457aacd6e70",
+      "name": "The PNW Warlord's TACOMA OPEN PREP GT",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/29a06d5457aacd6e70",
+      "rounds": 5,
+      "players": 22,
+      "standings": [
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Da Big Hunt",
+            "Rollin' Deff"
+          ],
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Talons of the Norn Queen",
+            "Assimilation Swarm"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "wins": 2,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "3a1ea48d8027cb5a1e",
+      "name": "Indy Open GT 2026: 11th Ed 40k",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/3a1ea48d8027cb5a1e",
+      "rounds": 5,
+      "players": 31,
+      "standings": [
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "The Phaeron's Armoury",
+            "Cursed Legion"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Blade of Ultramar"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Fulguris Task Force",
+            "Forgefather's Seekers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [
+            "Banishers",
+            "Argent Assault"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "More Dakka",
+            "Green Tide"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [
+            "Plague Legion",
+            "Warptide"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "5c82fa00e68a16a189",
+      "name": "Second City Games Anniversary GT June 2026 ( 11th ed)",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/5c82fa00e68a16a189",
+      "rounds": 5,
+      "players": 44,
+      "standings": [
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Ambush Predators",
+            "Vanguard Onslaught"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Mont'ka"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Changehost of Deceit",
+            "Sekhetar Cohort"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Soulforged Warpack",
+            "Cabal of Chaos"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Gate Warden Lance",
+            "Dominus Foebreakers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [
+            "Xenocreed Congregation",
+            "Xenocult Masses"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "6719ec8be33a16f316",
+      "name": "Dawn of 11th: Vår has passed",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/6719ec8be33a16f316",
+      "rounds": 5,
+      "players": 50,
+      "standings": [
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Retaliation Cadre",
+            "Advanced Acquisition Cadre"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "War Horde"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Librarius Conclave",
+            "Forgefather's Seekers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Crusher Stampede",
+            "Talons of the Norn Queen"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Awakened Dynasty"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Gate Warden Lance",
+            "Dominus Foebreakers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [
+            "Shadow Legion",
+            "Cavalcade of Chaos"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Vanguard Onslaught",
+            "Warrior Bioform Onslaught"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Agents",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 2,
+          "draws": 1,
+          "dropped": true
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "dropped": true
+        }
+      ]
+    },
+    {
+      "slug": "6fcabe00a35bef228f",
+      "name": "II Iberian Open La Rioja",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/6fcabe00a35bef228f",
+      "rounds": 5,
+      "players": 34,
+      "standings": [
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Mont'ka"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Hypercrypt Legion"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Freeblade Company"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor",
+            "Might of the Moritoi"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Fulguris Task Force",
+            "Hammer of Avernii"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Talons of the Norn Queen",
+            "Assimilation Swarm"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "7329182110b988832b",
+      "name": "Battle For The Capital GT 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/7329182110b988832b",
+      "rounds": 5,
+      "players": 50,
+      "standings": [
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [
+            "Hallowed Martyrs"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor",
+            "Silent Hunters"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [
+            "Needgaârd Oathband",
+            "Hearthguard Covenant"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Spectacle of Slaughter",
+            "Peerless Bladesmen"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Blade of Ultramar"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Subterranean Assault"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Librarius Conclave",
+            "Ironstorm Spearhead"
+          ],
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Freeblade Company"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Cursed Legion",
+            "Skyshroud Spearhead"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Agents",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        }
+      ]
+    },
+    {
+      "slug": "7c53d287a06f99169f",
+      "name": "New Dawn GT 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/7c53d287a06f99169f",
+      "rounds": 5,
+      "players": 15,
+      "rtt": true,
+      "standings": [
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "ba8a2cd4cd6657ea63",
+      "name": "WH40K SWC: Qualifier 4 - June",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/ba8a2cd4cd6657ea63",
+      "rounds": 5,
+      "players": 30,
+      "standings": [
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Warpforged Cabal"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Murdertalon Raiders",
+            "Soulforged Warpack"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Warpforged Cabal"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [
+            "Stormlance Task Force",
+            "The Living Miracle"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [
+            "Librarius Conclave",
+            "Fulguris Task Force",
+            "Darkflight Pursuit"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Retaliation Cadre",
+            "Advanced Acquisition Cadre"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "e825d5bd28b4000336",
+      "name": "Hour Zero 3: Dawn of Heroes",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/e825d5bd28b4000336",
+      "rounds": 5,
+      "players": 29,
+      "standings": [
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Mont'ka"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "More Dakka",
+            "Bully Boyz"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "More Dakka",
+            "Freebooter Krew"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Liberator Assault Group"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Pactbound Zealots"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "73687ebbcedbca99a7",
+      "name": "Mistrzostwa Radomia 2026 by Boarderline ",
+      "date": "2026-06-26",
+      "url": "https://listhammer.info/events/73687ebbcedbca99a7",
+      "rounds": 5,
+      "players": 50,
+      "standings": [
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Liberator Assault Group"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Frenzied Host",
+            "Peerless Bladesmen"
+          ],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Starshatter Arsenal"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Contagion Engines",
+            "Death Lord's Chosen"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Awakened Dynasty"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [
+            "Shadow Legion",
+            "Cavalcade of Chaos"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 0,
+          "draws": 2
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Retaliation Cadre",
+            "Auxiliary Cadre"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Deathwatch",
+          "detachments": [
+            "Librarius Conclave",
+            "Bastion Task Force"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Retaliation Cadre",
+            "Advanced Acquisition Cadre"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Awakened Dynasty"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [
+            "Steel Hammer",
+            "Abhuman Auxiliaries"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Carnival of Excess"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [
+            "Scintillating Legion",
+            "Lords of the Warp"
+          ],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor",
+            "Might of the Moritoi"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 1,
+          "draws": 2
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Gate Warden Lance",
+            "Dominus Foebreakers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Kabalite Cartel",
+            "Tools of Torment"
+          ],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 1,
+          "draws": 2
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Tallyband Summoners",
+            "Contagion Engines"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Skysplinter Assault",
+            "Exhibition of Slaughter"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [
+            "Lords of the Forge",
+            "Rad-Zone Corps"
+          ],
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor",
+            "Silent Hunters"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Imperial Agents",
+          "detachments": [
+            "Imperialis Fleet"
+          ],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 2,
+          "draws": 2
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Shield Host",
+            "Tharanatoi Hammerblow"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Rage-cursed Onslaught"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Liberator Assault Group"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Liberator Assault Group"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Awakened Dynasty"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Ceramite Sentinels"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 2,
+          "draws": 2
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Ceramite Sentinels"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Spectacle of Slaughter",
+            "Court of the Phoenician"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Flyblown Host",
+            "Shamblerot Vectorium"
+          ],
+          "wins": 1,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [
+            "Corsair Coterie",
+            "Path of the Outcast"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 1,
+          "draws": 2
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [
+            "Path of the Outcast",
+            "Seer Council"
+          ],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Devotees of Destruction",
+            "Warpstrike Champions"
+          ],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Creations of Bile"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Warpforged Cabal"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [
+            "Companions of Vehemence",
+            "Wrathful Procession"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Starshatter Arsenal"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Armoured Speartip"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 2,
+          "draws": 2
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Sekhetar Cohort",
+            "Hexwarp Thrallband"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Crusher Stampede",
+            "Talons of the Norn Queen"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [
+            "Darkflight Pursuit",
+            "Lion's Blade Task Force",
+            "Lions Blade Task Force"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Kabalite Agonysts",
+            "Skysplinter Assault"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 0,
+          "losses": 2,
+          "draws": 3
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "War Horde"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [
+            "Sacred Champions",
+            "Army of Faith"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Pactbound Zealots"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 3,
+          "draws": 2
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Gate Warden Lance",
+            "Dominus Foebreakers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Soulforged Warpack",
+            "Cabal of Chaos"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Ritual of Regeneration",
+            "Warpforged Cabal"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        }
+      ]
+    },
+    {
+      "slug": "d59780b01f5782f73e",
+      "name": "3.Sinsheimer GT",
+      "date": "2026-06-26",
+      "url": "https://listhammer.info/events/d59780b01f5782f73e",
+      "rounds": 6,
+      "players": 40,
+      "standings": [
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [
+            "Skitarii Hunter Cohort"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Crusher Stampede"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Frenzied Host",
+            "Carnival of Excess"
+          ],
+          "disposition": "Disruption",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Cursed Legion",
+            "Skyshroud Spearhead"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Hexwarp Thrallband"
+          ],
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [
+            "Aspect Host"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Crusher Stampede"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Paragons of Putrescence"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Skysplinter Assault"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [
+            "Cohort Cybernetica"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Skysplinter Assault"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Ragecursed Onslaught"
+          ],
+          "wins": 3,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [
+            "Needgaard Oathband"
+          ],
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [
+            "Pactbound Zealots"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Awakened Dynasty"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Kult of Speed"
+          ],
+          "disposition": "Disruption",
+          "wins": 2,
+          "losses": 2,
+          "draws": 2
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Ragecursed Onslaught"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Assimilation Swarm"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [
+            "Argent Assault"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Montka"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Death Lords Chosen"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 2,
+          "draws": 2
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Ceramite Sentinels"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [
+            "Legion of Excess"
+          ],
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Virulent Vectorium"
+          ],
+          "wins": 2,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Changehost of Deceit"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [
+            "Gladius Task Force"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [
+            "Lords of the Forge"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [
+            "Hallowed Martyrs"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor"
+          ],
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [
+            "Possessed Slaughterband"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Hexwarp Thrallband"
+          ],
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [
+            "Grizzled Company"
+          ],
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Ragecursed Onslaught"
+          ],
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Dominus Foebreakers"
+          ],
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [
+            "Paragons of Putrescence"
+          ],
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Hypercrypt Legion"
+          ],
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [
+            "Cryptek Conclave"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [
+            "Dread Mob"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Freeblade Company"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [
+            "Blade of Ultramar"
+          ],
+          "disposition": "Priority Assets",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [
+            "Montka"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Aeldari",
+          "detachments": [
+            "Corsair Coterie"
+          ],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "detachments": [],
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "cfc4883767dba0d1c8",
+      "name": "Skull Crusher 2026",
+      "date": "2026-06-25",
+      "url": "https://listhammer.info/events/cfc4883767dba0d1c8",
+      "rounds": 5,
+      "players": 10,
+      "rtt": true,
+      "standings": [
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [
+            "Helhunt Lance",
+            "Iconoclast Fiefdom"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Deathwatch",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "230c17bfcc0bfa577e",
+      "name": "Major Warfare: Road to Nova",
+      "date": "2026-06-20",
+      "url": "https://listhammer.info/events/230c17bfcc0bfa577e",
+      "rounds": 5,
+      "players": 26,
+      "standings": [
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [
+            "Lions of the Emperor",
+            "Might of the Moritoi"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Adepta Sororitas",
+          "detachments": [
+            "Chorus of Condemnation",
+            "Army of Faith"
+          ],
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [
+            "Stormlance Task Force",
+            "Legacy of Grace"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [
+            "Skysplinter Assault",
+            "Exhibition of Slaughter"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Crusher Stampede",
+            "Warrior Bioform Onslaught"
+          ],
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Astra Militarum",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "slug": "2b0e5b1837ff6741b8",
+      "name": "Summercon 40k Open 11th Gold Ticket",
+      "date": "2026-06-20",
+      "url": "https://listhammer.info/events/2b0e5b1837ff6741b8",
+      "rounds": 5,
+      "players": 26,
+      "standings": [
+        {
+          "faction": "Leagues of Votann",
+          "detachments": [
+            "Hearthguard Covenant",
+            "Mercenary Oathband"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [
+            "Banishers",
+            "Argent Assault"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [
+            "Freeblade Company"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Hexwarp Thrallband",
+            "Sekhetar Cohort"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Mechanicus",
+          "detachments": [],
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Death Guard",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "wins": 3,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "wins": 2,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Blood Angels",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Chaos Knights",
+          "detachments": [],
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        }
+      ]
+    },
+    {
+      "slug": "c7c744facfc9eb59c8",
+      "name": "GDG Summer Ruin II Warhammer 40K GT (11th Edition) ",
+      "date": "2026-06-20",
+      "url": "https://listhammer.info/events/c7c744facfc9eb59c8",
+      "rounds": 5,
+      "players": 30,
+      "standings": [
+        {
+          "faction": "Thousand Sons",
+          "detachments": [
+            "Hexwarp Thrallband",
+            "Sekhetar Cohort"
+          ],
+          "disposition": "Take and Hold",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [
+            "Darkflight Pursuit",
+            "Company of Hunters"
+          ],
+          "disposition": "Reconnaissance",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [
+            "Coterie of the Conceited"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Tyranids",
+          "detachments": [
+            "Subterranean Assault"
+          ],
+          "disposition": "Disruption",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [
+            "Librarius Conclave",
+            "Forgefather's Seekers"
+          ],
+          "disposition": "Purge the Foe",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "faction": "Necrons",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Dark Angels",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Drukhari",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Genestealer Cult",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Chaos Daemons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Space Wolves",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Reconnaissance",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Orks",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Thousand Sons",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "T'au Empire",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Adeptus Custodes",
+          "detachments": [],
+          "disposition": "Take and Hold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Black Templars",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Grey Knights",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Imperial Knights",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Disruption",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Priority Assets",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "World Eaters",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "faction": "Space Marines",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "dropped": true
+        },
+        {
+          "faction": "Emperor's Children",
+          "detachments": [],
+          "disposition": "Purge the Foe",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}

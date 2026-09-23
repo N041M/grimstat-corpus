@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-09-21T09:58:16.187Z",
+  "generatedAt": "2026-09-23T19:40:50.992Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -31,8 +31,8 @@
     {
       "name": "lists-2026-06.json",
       "month": "2026-06",
-      "lists": 92,
-      "tournaments": 6
+      "lists": 179,
+      "tournaments": 10
     }
   ],
   "tournaments": [
@@ -273,6 +273,38 @@
       "name": "Dernière Croisade",
       "date": "2026-06-13",
       "url": "https://miniheadquarters.com/tournaments/individual/army-lists/derniere-croisade-2026-06-13",
+      "lists": 16,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "fwc-warhammer-40k-n74-solo-1000-points-2026-05-24",
+      "name": "FWC Warhammer 40K - n74 - Solo 1000 points",
+      "date": "2026-06-07",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40k-n74-solo-1000-points-2026-05-24",
+      "lists": 15,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "au-revoir-v10-2026-06-06",
+      "name": "Au revoir V10",
+      "date": "2026-06-06",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/au-revoir-v10-2026-06-06",
+      "lists": 32,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "les-des-sales-tournoi-gt-n3-seine-et-marne-2026-06-06",
+      "name": "Les Dès Salés Tournoi GT n°3 Seine-et-Marne",
+      "date": "2026-06-06",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/les-des-sales-tournoi-gt-n3-seine-et-marne-2026-06-06",
+      "lists": 24,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "tournoi-des-pitous-de-la-garrigue-4eme-edition-6-juin-2026-solo-40k-2000-pts-2026-06-06",
+      "name": "Tournoi des Pitous de la Garrigue - 4ème Edition - 6 juin 2026 - Solo 40K - 2000 pts",
+      "date": "2026-06-06",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-des-pitous-de-la-garrigue-4eme-edition-6-juin-2026-solo-40k-2000-pts-2026-06-06",
       "lists": 16,
       "file": "lists-2026-06.json"
     }
