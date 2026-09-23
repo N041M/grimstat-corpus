@@ -276,5 +276,8 @@
       "lists": 16,
       "file": "lists-2026-06.json"
     }
+  ],
+  "parts": [
+    "listhammer/"
   ]
 }

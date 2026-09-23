@@ -1,0 +1,2096 @@
+{
+  "format": "grimstat-corpus",
+  "version": 1,
+  "generatedAt": "2026-09-23T16:01:52.620Z",
+  "source": {
+    "id": "listhammer",
+    "name": "Listhammer",
+    "url": "https://listhammer.info",
+    "publication": "listhammer.info",
+    "attribution": "Army lists and results from Best Coast Pairings and Tabletop Herald events, collected by Listhammer (listhammer.info)"
+  },
+  "files": [
+    {
+      "name": "lists-2026-09.json",
+      "month": "2026-09",
+      "lists": 397,
+      "tournaments": 61
+    },
+    {
+      "name": "lists-2026-08.json",
+      "month": "2026-08",
+      "lists": 731,
+      "tournaments": 95
+    },
+    {
+      "name": "lists-2026-07.json",
+      "month": "2026-07",
+      "lists": 623,
+      "tournaments": 87
+    },
+    {
+      "name": "lists-2026-06.json",
+      "month": "2026-06",
+      "lists": 87,
+      "tournaments": 14
+    }
+  ],
+  "tournaments": [
+    {
+      "slug": "0565efe1159c23494d",
+      "name": "Heiner GT #1",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/0565efe1159c23494d",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "128f59fbc2a74ab435",
+      "name": "Warlords of the Keep 40k GT",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/128f59fbc2a74ab435",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "16c875a1d7e59c0521",
+      "name": "La Grande Castagne Ardéchoise 2026",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/16c875a1d7e59c0521",
+      "lists": 8,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "24f6e8b1d112cc1aef",
+      "name": "Legends GT: Ashes of Armageddon",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/24f6e8b1d112cc1aef",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "39c4a0a563cd61efd7",
+      "name": "For The Greater Good GT",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/39c4a0a563cd61efd7",
+      "lists": 7,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "47a0673a99e68fcf28",
+      "name": "MAD Warhammer 40k 11th Edition Iron Man Grand Tournament",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/47a0673a99e68fcf28",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "665a09eb0e8827a9f1",
+      "name": "Leithal Hits Autumn GT",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/665a09eb0e8827a9f1",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "af17935009b5cd29c0",
+      "name": "Ribatejo Open 2026",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/af17935009b5cd29c0",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d8d65b389fb4ba4082",
+      "name": "NACIONAL ARTHOBBIES",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/d8d65b389fb4ba4082",
+      "lists": 1,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "da7874e6f2b6308f49",
+      "name": "Vortex VFT GT  Sept 19-20",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/da7874e6f2b6308f49",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "da852dce0c941171b7",
+      "name": "Open des 3 Frontières",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/da852dce0c941171b7",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "e2ca9a8017b78a78b8",
+      "name": "Münsterland Major 5",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/e2ca9a8017b78a78b8",
+      "lists": 13,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "f539ce8ac647900f83",
+      "name": "THERE IS ONLY WAR V 40k GT",
+      "date": "2026-09-19",
+      "url": "https://listhammer.info/events/f539ce8ac647900f83",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "1eb7a85515d0ef4b66",
+      "name": "Reefside Games - 2 day 2,000pt Tournament - September mini-GT",
+      "date": "2026-09-18",
+      "url": "https://listhammer.info/events/1eb7a85515d0ef4b66",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "c32760b51e6e06859c",
+      "name": "NRW 40K Singles 2026 - Alpine Cup",
+      "date": "2026-09-17",
+      "url": "https://listhammer.info/events/c32760b51e6e06859c",
+      "lists": 7,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "016ccf740e346cc97b",
+      "name": "Overwatch 2026 - Two Day Warhammer 40,000 Tournament",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/016ccf740e346cc97b",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "041941a9f6dc617775",
+      "name": "BAYERN MAJOR 40k 2026",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/041941a9f6dc617775",
+      "lists": 18,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "06836c62511930e1dd",
+      "name": "Level Up Gaming 40k GT 9/12/26",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/06836c62511930e1dd",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "2d89db57753028e620",
+      "name": "Meta 40k - Szeptember - WCQ",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/2d89db57753028e620",
+      "lists": 7,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "37dd4f9382c5f5004e",
+      "name": "Sunshine Coast Open 2026",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/37dd4f9382c5f5004e",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "38777461b7ae960828",
+      "name": "WarpTactics GT",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/38777461b7ae960828",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "3a3e95aaa55394aa37",
+      "name": "North Coast Grand Tournament",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/3a3e95aaa55394aa37",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5574f042700b973dda",
+      "name": "Doonhamer Open 2026",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/5574f042700b973dda",
+      "lists": 20,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5a2aca24222a7adf93",
+      "name": "Aemona Grand Tournament vol. 5",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/5a2aca24222a7adf93",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5ba5ca768792e8035a",
+      "name": "Karak - One and Only",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/5ba5ca768792e8035a",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5e00deb6028dcfed93",
+      "name": "Flying Monkey Con 26 Warhammer 40k GT",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/5e00deb6028dcfed93",
+      "lists": 10,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5eb0a1c9f492356cb2",
+      "name": "Thunder Hammer III - Warhammer 40K Tournament",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/5eb0a1c9f492356cb2",
+      "lists": 7,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "8707992ec18ef655a2",
+      "name": "The Innsmouth Slaughter 40k GT",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/8707992ec18ef655a2",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "979cde4fa72cda17cc",
+      "name": "Springs Thundercluckers September 2026 GT WCW Qualifier",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/979cde4fa72cda17cc",
+      "lists": 8,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "9dbbe2d516a4260823",
+      "name": "Torneo Tabletop septiembre",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/9dbbe2d516a4260823",
+      "lists": 1,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "a5d63effde0d81cd1f",
+      "name": "Ars Manufactorea 40K Italian GT",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/a5d63effde0d81cd1f",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "bc11fa671bc65e2ae3",
+      "name": "War for the Forge 40k GT",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/bc11fa671bc65e2ae3",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d75cb0bdbe3d1bc74d",
+      "name": "SUPER GT DES SILVERS 40K",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/d75cb0bdbe3d1bc74d",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d8baa3da2926eb0cd6",
+      "name": "The Port City GT ",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/d8baa3da2926eb0cd6",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "ec0f9cc40d072868ac",
+      "name": "Battle of the Littlest, Biggest",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/ec0f9cc40d072868ac",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "f43c505078c1702b52",
+      "name": "Belgian Open GT September 2026",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/f43c505078c1702b52",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "f78c22b5ccfd07dc6c",
+      "name": "TEO - Carolina Major",
+      "date": "2026-09-12",
+      "url": "https://listhammer.info/events/f78c22b5ccfd07dc6c",
+      "lists": 14,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "1b3a8f7738f25b49d6",
+      "name": "MtG Humphreys Tabletop Brew and Battle \"GRAND TOURNAMENT\" Golden Ticket Event",
+      "date": "2026-09-11",
+      "url": "https://listhammer.info/events/1b3a8f7738f25b49d6",
+      "lists": 2,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "a6df56208342014f70",
+      "name": "Invasion 2026 40k",
+      "date": "2026-09-11",
+      "url": "https://listhammer.info/events/a6df56208342014f70",
+      "lists": 12,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "c2417af3bd3f5799be",
+      "name": "Battle in the Bush 2026",
+      "date": "2026-09-11",
+      "url": "https://listhammer.info/events/c2417af3bd3f5799be",
+      "lists": 10,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "ca0b92879cf4053bba",
+      "name": "Brewtown Bloodbath 2",
+      "date": "2026-09-11",
+      "url": "https://listhammer.info/events/ca0b92879cf4053bba",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d3fd9b3c0af40bfceb",
+      "name": "Crucible 2026",
+      "date": "2026-09-11",
+      "url": "https://listhammer.info/events/d3fd9b3c0af40bfceb",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "1b785776c1b06bfe62",
+      "name": "Capital Clash IX - GT",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/1b785776c1b06bfe62",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "262e7ae92674ff5459",
+      "name": "Geneva GT III",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/262e7ae92674ff5459",
+      "lists": 10,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "27f760f09af524b1e4",
+      "name": "Les stratèges d ambre le retour",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/27f760f09af524b1e4",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "2d9fa1914719429dec",
+      "name": "Capital City Showdown",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/2d9fa1914719429dec",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "2fb1672871e58a3459",
+      "name": "Warhammer 40,000 Grand Tournament - Epsom Downs",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/2fb1672871e58a3459",
+      "lists": 11,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "43c79e958428eeb43c",
+      "name": "TBO UK September 2026",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/43c79e958428eeb43c",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "478d0e864df0229fa2",
+      "name": "The Fall of Empire 4",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/478d0e864df0229fa2",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "50d026bb22d72c0131",
+      "name": "Orchard of OHNO 2026 40K GT",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/50d026bb22d72c0131",
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "51d2e09aca9c57c59c",
+      "name": "Midtcon Warhammer 40K Fall 2026 - Singles Tournament",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/51d2e09aca9c57c59c",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5c880b93c40c60c44e",
+      "name": "Armed Forces Day 2026",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/5c880b93c40c60c44e",
+      "lists": 7,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "5c9217d57c3f8cf8e7",
+      "name": "Nailhammer XII GT",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/5c9217d57c3f8cf8e7",
+      "lists": 2,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "7b01ee1b2c5104667b",
+      "name": "AZ 40K League Summer '26 Champs",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/7b01ee1b2c5104667b",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "932703f48c89df0500",
+      "name": "Wasteland Wars GT V",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/932703f48c89df0500",
+      "lists": 9,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "9bd7b1b9cf7897559d",
+      "name": "ICE HAMMER ITC GT II - 2025/2026",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/9bd7b1b9cf7897559d",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "ca957515cfd5df7de6",
+      "name": "Route 66 @ 2D6 Labor Day",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/ca957515cfd5df7de6",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d17603a59501ba8152",
+      "name": "Circle City Clash GT @ Who's Yer Con",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/d17603a59501ba8152",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d67417ebf2d4409a55",
+      "name": "Tournoi de Dinan",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/d67417ebf2d4409a55",
+      "lists": 5,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "f1ff9bac79692bbcb0",
+      "name": "Dark Sphere 40K GT - September",
+      "date": "2026-09-05",
+      "url": "https://listhammer.info/events/f1ff9bac79692bbcb0",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "d9e49ae9b30f03cb4b",
+      "name": "NOVA Open 2026 Grand Tournament",
+      "date": "2026-09-04",
+      "url": "https://listhammer.info/events/d9e49ae9b30f03cb4b",
+      "lists": 12,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "04517af6c876f06e73",
+      "name": "Mournival Mayhem",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/04517af6c876f06e73",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "0474e63b8ee790b2f1",
+      "name": "Turbulent Games Warhammer 40K GT @Sioux City Geek Con",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/0474e63b8ee790b2f1",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "189cc386bab4c2b82e",
+      "name": "KTC Summer GT",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/189cc386bab4c2b82e",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "26dda0f4bfe9d031db",
+      "name": "Arch City GT 5",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/26dda0f4bfe9d031db",
+      "lists": 18,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "311f0c963b3620470e",
+      "name": "Trønderdome 4",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/311f0c963b3620470e",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "373989a97231ed13bb",
+      "name": "Exploding Dice 40K GT 2026",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/373989a97231ed13bb",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "4c9684c4e8835e9b11",
+      "name": "La Voz Open 2026",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/4c9684c4e8835e9b11",
+      "lists": 17,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "4d9d46fb8f808fb480",
+      "name": "HWP Saltier Classic GT 2026 (August)",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/4d9d46fb8f808fb480",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "53705b22d6ca957dac",
+      "name": "GWC Warhammer 40k Ironman #1",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/53705b22d6ca957dac",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "599d058254b5fefc5a",
+      "name": "Champions of the Mid Table Summer Major 2026",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/599d058254b5fefc5a",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "724b3993bf382c4ca9",
+      "name": "Bière & Bolter 2026",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/724b3993bf382c4ca9",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "785f59d8faff00c760",
+      "name": "China Warhammer City Tournament 2026 Summer",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/785f59d8faff00c760",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "7fe79cf9de1609c0de",
+      "name": "Skövde Battleforge VIII",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/7fe79cf9de1609c0de",
+      "lists": 9,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "ab54098ed9b908e357",
+      "name": "Beat The Heat 40k GT",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/ab54098ed9b908e357",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "b1a7d8daeb5e7f0866",
+      "name": "Store Championship $1K Event",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/b1a7d8daeb5e7f0866",
+      "lists": 1,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "c6d8841413ef0f7056",
+      "name": "The Warp - Autumn GT",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/c6d8841413ef0f7056",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "ca488114bd75af3e98",
+      "name": "DAWN OF ARMAGEDDON GT",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/ca488114bd75af3e98",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "e14e48034cdb21fe3c",
+      "name": "The MANCHESTER 40k SUPER-MAJOR  - SUMMER",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/e14e48034cdb21fe3c",
+      "lists": 37,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fdec86c431de729e62",
+      "name": "TG PLAY - Agents of the Imperium 3",
+      "date": "2026-08-29",
+      "url": "https://listhammer.info/events/fdec86c431de729e62",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "b2cb268e69088ef648",
+      "name": "Ottawa Gaming Convention 40k Champs",
+      "date": "2026-08-28",
+      "url": "https://listhammer.info/events/b2cb268e69088ef648",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "03399c25cc732e6e38",
+      "name": "Parme-Warlords GT Puebla 2",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/03399c25cc732e6e38",
+      "lists": 1,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "0d727ce92d0c8920f1",
+      "name": "Soda City Slam 40k GT",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/0d727ce92d0c8920f1",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "0e96f1a59850fe3b57",
+      "name": "South East Siege III: Revenge of the Anhrathe",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/0e96f1a59850fe3b57",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "1a69c8d330f93f20fc",
+      "name": "Versus Games GT Hosted by Away Games",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/1a69c8d330f93f20fc",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "250bc1ef24c2793e62",
+      "name": "Fellowship Two-Day 2k 40k",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/250bc1ef24c2793e62",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "283fa34a4c01749ba6",
+      "name": "Edmonton Wargaming Open 2026",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/283fa34a4c01749ba6",
+      "lists": 13,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "29455619be828dff9f",
+      "name": "Tabled Talk: Caliban Drift GT",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/29455619be828dff9f",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "31d73e4fd8e0496788",
+      "name": "ProSoul Open GT",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/31d73e4fd8e0496788",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "38c23b7ed046a44c15",
+      "name": "Summer Fun GT at Born to Game",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/38c23b7ed046a44c15",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "5348919ea4aa6fe4b7",
+      "name": "Zwiebel GT III",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/5348919ea4aa6fe4b7",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "5ccb344192489390f8",
+      "name": "Surrey Primarchs GW Golden Ticket Event",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/5ccb344192489390f8",
+      "lists": 13,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "a40a4215e037941981",
+      "name": "X-4 Presents: Cadia sits Down",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/a40a4215e037941981",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "a8e04a7b3509dbc753",
+      "name": "Warhammer 40K GT Onslaught 2026",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/a8e04a7b3509dbc753",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "ade011d42606673b3e",
+      "name": "22 & 23 August 2026 - OWN's Breaking Point GT at DZ Comics ",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/ade011d42606673b3e",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "c401981fbe5abd0e48",
+      "name": "WarZone: Tucker Brewing the 4th",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/c401981fbe5abd0e48",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "e1d558333bebe6425d",
+      "name": "Palladium Games Presents the NOVA Prep GT",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/e1d558333bebe6425d",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "e9c14b77bb6d7540ac",
+      "name": "Smite Club Open 2026 - 40K Worlds Qualifier & Fundraiser",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/e9c14b77bb6d7540ac",
+      "lists": 12,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "f61ef63c6517c77167",
+      "name": "Nopat ja Taktiikka GT Q3",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/f61ef63c6517c77167",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "ffe2ce4bec9f6e7a6a",
+      "name": "Dusty's 40k 11th edition GT",
+      "date": "2026-08-22",
+      "url": "https://listhammer.info/events/ffe2ce4bec9f6e7a6a",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "71af660cfd3228bf45",
+      "name": "ITA 40K SINGLES GT AUGUST 2026",
+      "date": "2026-08-21",
+      "url": "https://listhammer.info/events/71af660cfd3228bf45",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "a515e0ace25ecb9412",
+      "name": "Krootcon 2026",
+      "date": "2026-08-21",
+      "url": "https://listhammer.info/events/a515e0ace25ecb9412",
+      "lists": 14,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "f7dc4545f047ec5de9",
+      "name": "HUXLEYS OPEN 2026 - WARHAMMER 40K",
+      "date": "2026-08-21",
+      "url": "https://listhammer.info/events/f7dc4545f047ec5de9",
+      "lists": 11,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fbbc32b6be52d29725",
+      "name": "[Master] [Szczecin] [Single] Mysz And Hammer vol.4",
+      "date": "2026-08-21",
+      "url": "https://listhammer.info/events/fbbc32b6be52d29725",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "0ea39e748a6e6d26c9",
+      "name": "NSO 2026",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/0ea39e748a6e6d26c9",
+      "lists": 10,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "12a9e2f96d537c7049",
+      "name": "Summer Showdown Warhammer 40K GT",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/12a9e2f96d537c7049",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "1910ba17a086f8f268",
+      "name": "Free State Mid Summers GT",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/1910ba17a086f8f268",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "2e429fd934bafbb982",
+      "name": "Rose City Rampage II",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/2e429fd934bafbb982",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "4c4afae0d5a9ce5cfa",
+      "name": "Hole in the Wall GT",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/4c4afae0d5a9ce5cfa",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "4e04c51b9f7c8f44ba",
+      "name": "TNT at Nashcon",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/4e04c51b9f7c8f44ba",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "65906de559a681c048",
+      "name": "21st Legion Wargaming Presents: Heart of War 2026 40K hosted by Away Games",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/65906de559a681c048",
+      "lists": 11,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "6b698512ab7a520233",
+      "name": "Onslaught x Layton GT",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/6b698512ab7a520233",
+      "lists": 8,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "6e0f8d5195bf52121a",
+      "name": "The Upkeep Games GT I 2026",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/6e0f8d5195bf52121a",
+      "lists": 12,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "82189622e7c644eccb",
+      "name": "Hammer of Wrath GT",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/82189622e7c644eccb",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "89ea8568cc5fef5b1e",
+      "name": "River City Rumble 40k",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/89ea8568cc5fef5b1e",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "9cc7fc3b935bdff97f",
+      "name": "Sanctum's first Ironman Event!",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/9cc7fc3b935bdff97f",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "b0414f352b8f2df000",
+      "name": "ELBCOAST CUP 24",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/b0414f352b8f2df000",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "b6a831d6913add25f9",
+      "name": "Oxford Onslaught Major 40k",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/b6a831d6913add25f9",
+      "lists": 10,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "b9a7a40eb9a2466f6d",
+      "name": "Spruce City Grand Tournament",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/b9a7a40eb9a2466f6d",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "caa7d29a1920cad7db",
+      "name": "Grillin' Dice GT 2026",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/caa7d29a1920cad7db",
+      "lists": 3,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "d55cf58c389ac79cad",
+      "name": "Warhammer 40k RocHard GT 2026",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/d55cf58c389ac79cad",
+      "lists": 8,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "da7c911532ab660e13",
+      "name": "Happy Birthday Mr. Iberian Goblin!",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/da7c911532ab660e13",
+      "lists": 2,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "db4abc6cce17c1c2e5",
+      "name": "Summer of War GT",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/db4abc6cce17c1c2e5",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "efec9011ca1b37193b",
+      "name": "EG Grand Slam 40k GT 2026",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/efec9011ca1b37193b",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fb7a58a1fb0658cfa4",
+      "name": "Summer Slaughter: Warhammer 40K Grand Tournament",
+      "date": "2026-08-15",
+      "url": "https://listhammer.info/events/fb7a58a1fb0658cfa4",
+      "lists": 13,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "746563a79b1a0ffbe8",
+      "name": "Warhammer 40,000 Grand Tournament - Warhammer Open Newport",
+      "date": "2026-08-14",
+      "url": "https://listhammer.info/events/746563a79b1a0ffbe8",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "d0f86a313ef8c966e4",
+      "name": "WTC Warmaster GT 2026",
+      "date": "2026-08-11",
+      "url": "https://listhammer.info/events/d0f86a313ef8c966e4",
+      "lists": 62,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "10491109e0151cae7f",
+      "name": "🔥Napalm Hobbies - 11th ED - SUMMER GT - 40K - ITC - ETC",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/10491109e0151cae7f",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "146d69353a2a7f41f6",
+      "name": "SAW MUST GO ON II – Murcia – Warhammer 40,000 Grand Tournament",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/146d69353a2a7f41f6",
+      "lists": 9,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "1b66ac7719da5bf812",
+      "name": "Keelhaul Gaming First Contact",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/1b66ac7719da5bf812",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "2a6c95f309cd8b1ae8",
+      "name": "The Utah Cup 2026 - Warhammer 40K",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/2a6c95f309cd8b1ae8",
+      "lists": 12,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "5c379bdefe624c72fc",
+      "name": "BLACKSTONE GT 2",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/5c379bdefe624c72fc",
+      "lists": 8,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "70b65914a4caecc03a",
+      "name": "Cross-Swords War AT The Westward XI",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/70b65914a4caecc03a",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "85a3b336d0e50d90a0",
+      "name": "FWC GT Warhammer 40000 GT - n80 - solo 2000 points",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/85a3b336d0e50d90a0",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "8a531140b4c9706f15",
+      "name": "Gem City GT 2026",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/8a531140b4c9706f15",
+      "lists": 8,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "8c92ed591dfb3ab789",
+      "name": "RCM: Summer Skirmish 2026",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/8c92ed591dfb3ab789",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "e4abf0b122ae18d06b",
+      "name": "Les DUCS d'été V11",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/e4abf0b122ae18d06b",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "f8c9de83a9652d0cc2",
+      "name": "Iowaaagh! Moose-tacular 2026",
+      "date": "2026-08-08",
+      "url": "https://listhammer.info/events/f8c9de83a9652d0cc2",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "67a0113f16704359d4",
+      "name": "BMC Cup",
+      "date": "2026-08-07",
+      "url": "https://listhammer.info/events/67a0113f16704359d4",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "b458256c28331902d4",
+      "name": "Auspicious Northern Showdown",
+      "date": "2026-08-07",
+      "url": "https://listhammer.info/events/b458256c28331902d4",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "0c47708f3522f8d6c1",
+      "name": "J-Town Throwdown",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/0c47708f3522f8d6c1",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "0d297a4f8c39b495c9",
+      "name": "II GT Santa Brigida - Kanarian Open",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/0d297a4f8c39b495c9",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "1e362797f434b69d1c",
+      "name": "Da Gathering GT",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/1e362797f434b69d1c",
+      "lists": 6,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "245fec3741c9a87875",
+      "name": "OtherRealms Battle for Brew-mageddon",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/245fec3741c9a87875",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "3400016c09110a6ca9",
+      "name": " Dice & Bolter GT #1",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/3400016c09110a6ca9",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "52a4be716d3a51ac42",
+      "name": "TACO DE ORO",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/52a4be716d3a51ac42",
+      "lists": 1,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "555e862f9727fd2749",
+      "name": "Saffron Slam XIV",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/555e862f9727fd2749",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "5cde0b748314e1b5d6",
+      "name": "Denver 40K Fight Club Aug Open ‘26",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/5cde0b748314e1b5d6",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "72a8ebac7234c9df7c",
+      "name": "Lone Star Open 2026 - Warhammer 40k Champs",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/72a8ebac7234c9df7c",
+      "lists": 33,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "83b65bdee290d418a3",
+      "name": "KREFELD MAJOR 40k 2026",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/83b65bdee290d418a3",
+      "lists": 21,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "8f7ae309694da71c78",
+      "name": "The Kent Major 2026",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/8f7ae309694da71c78",
+      "lists": 8,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "95011059c6d0433349",
+      "name": "WG AUGUST 2026 GT - Warhammer 40k Tournament 2,000 Points",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/95011059c6d0433349",
+      "lists": 4,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "af6e104871899ff261",
+      "name": "Modhammer",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/af6e104871899ff261",
+      "lists": 5,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "d2bdac30fdc8804eb9",
+      "name": "Your Hobby Place Road to NOVA Hosted by Away Games",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/d2bdac30fdc8804eb9",
+      "lists": 9,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "f767f997da2d9b070c",
+      "name": "Village Brawl",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/f767f997da2d9b070c",
+      "lists": 9,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "fa251f2a364fa216b5",
+      "name": "Ringkriege 7 \"Castle Clash\"",
+      "date": "2026-08-01",
+      "url": "https://listhammer.info/events/fa251f2a364fa216b5",
+      "lists": 7,
+      "file": "lists-2026-08.json"
+    },
+    {
+      "slug": "167b390dfc1eec6699",
+      "name": "Ragnarök GT 2026 - A Valkyrie Wargaming Event",
+      "date": "2026-07-31",
+      "url": "https://listhammer.info/events/167b390dfc1eec6699",
+      "lists": 8,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "a4d5b5339d7c96c08d",
+      "name": "The Salt City GT 40K Grand Tournament",
+      "date": "2026-07-31",
+      "url": "https://listhammer.info/events/a4d5b5339d7c96c08d",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "011854ceab267dc579",
+      "name": "The Wyldlands Burns GT - Summer 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/011854ceab267dc579",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "055daaa6979fadf3c2",
+      "name": "The 2026 Summer Swordwind GT",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/055daaa6979fadf3c2",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "0da18f0ecfb935406e",
+      "name": "War in the Wastelands GT",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/0da18f0ecfb935406e",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "12dae288582b934f8e",
+      "name": "Chimera Gaming Warhammer 40K Grand Tournament - July 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/12dae288582b934f8e",
+      "lists": 7,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "4012bbae209f224a05",
+      "name": "WH40k Ropecon GT 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/4012bbae209f224a05",
+      "lists": 12,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "530fef877e6b1fae01",
+      "name": "40k Brawl - July GT 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/530fef877e6b1fae01",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "5b4f90f5bca14e37da",
+      "name": "Battle of the East",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/5b4f90f5bca14e37da",
+      "lists": 16,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "5ebe971cb1c3a5ac0c",
+      "name": "ForgeFire Open 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/5ebe971cb1c3a5ac0c",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "62cccf3e818cdbab3f",
+      "name": "La Senda del Iberian",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/62cccf3e818cdbab3f",
+      "lists": 1,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "63e9771870aed598d7",
+      "name": "Warzone Dragoon GT",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/63e9771870aed598d7",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "7886506eef81272bf7",
+      "name": "Malaysia National Finals @ Xunobi Studio 2026 GW Golden Ticket Finals WH40k 2000pts",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/7886506eef81272bf7",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "81a45a9ea3901a79a5",
+      "name": "Fun-n-Games '26 Summer GT",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/81a45a9ea3901a79a5",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "8487fa47d4c9395810",
+      "name": "Rearguard Renegades Summer Open July '26",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/8487fa47d4c9395810",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "942d71d8065856717c",
+      "name": "WH40k event - Boltgun Tactics GT July 2026, hosted by Battleground UK",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/942d71d8065856717c",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "96c2bbc4ba2d396696",
+      "name": "Nerd Lair Slidell Grand Opening",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/96c2bbc4ba2d396696",
+      "lists": 2,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "970c61802579b718c7",
+      "name": "Hobby Henchmen July GT",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/970c61802579b718c7",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "995630b1777484d358",
+      "name": "Winter Clash 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/995630b1777484d358",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "b589deedb8078fdbbc",
+      "name": "BrewHammer GT 9",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/b589deedb8078fdbbc",
+      "lists": 7,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "ba32d00d442f52e91c",
+      "name": "Waterdeep GT 5ta Edición",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/ba32d00d442f52e91c",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "c2d07ef81ba7c76c1d",
+      "name": "Whitby 40K Summer GT",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/c2d07ef81ba7c76c1d",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "c318ae15732384acd2",
+      "name": "Northern Maelstrom 2026 Warhammer 40,000 Grand Tournament",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/c318ae15732384acd2",
+      "lists": 14,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "cc8882179d3109fffe",
+      "name": "Burn & Learn Vol.17",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/cc8882179d3109fffe",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "dc47fe8a2173d4978c",
+      "name": "BOISE CUP 40k 2026",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/dc47fe8a2173d4978c",
+      "lists": 13,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "dd5252c1236af05731",
+      "name": "Protect ya Neck",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/dd5252c1236af05731",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "e7ae68cffc86773558",
+      "name": "120. Bedburger Scheunenkloppen",
+      "date": "2026-07-25",
+      "url": "https://listhammer.info/events/e7ae68cffc86773558",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "0273d7269be7b5342b",
+      "name": "Tactical Chilli Championship 2026",
+      "date": "2026-07-24",
+      "url": "https://listhammer.info/events/0273d7269be7b5342b",
+      "lists": 8,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "118da9360e1fbd9db6",
+      "name": "Canicule sur Cadia",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/118da9360e1fbd9db6",
+      "lists": 1,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "2b05a986bc5c4a714d",
+      "name": "Winchester 40K GT - July 2026",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/2b05a986bc5c4a714d",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "2c6a5968a0f7a9a6ac",
+      "name": "Historicon 40K Road to NOVA GT Hosted by Away Games",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/2c6a5968a0f7a9a6ac",
+      "lists": 11,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "611ebd2a667e4efedc",
+      "name": "Bordeaux OPEN",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/611ebd2a667e4efedc",
+      "lists": 17,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "655229fc9e24cbd046",
+      "name": "Aetherforce Gaming Summer Siege Warhammer 40k GT",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/655229fc9e24cbd046",
+      "lists": 7,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "6747a6d3b887d908a4",
+      "name": "THE EDINBURGH 40K SUPER MAJOR",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/6747a6d3b887d908a4",
+      "lists": 37,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "698db88bc9825c19ea",
+      "name": "Fleur-De-Lis GT",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/698db88bc9825c19ea",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "7284537022625ec4fb",
+      "name": "Excubicon 2026 40K",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/7284537022625ec4fb",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "7e4c4f1deff594f241",
+      "name": "The John's House Invitational 2",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/7e4c4f1deff594f241",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "820a7bdba7f92181e4",
+      "name": "Bunker Warhammer Letnji Turnir 2026",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/820a7bdba7f92181e4",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "8980ee51d5a95e8315",
+      "name": "Hee Yaw 2026",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/8980ee51d5a95e8315",
+      "lists": 13,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "8e403d8cd3c5910064",
+      "name": "London Open Series - July",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/8e403d8cd3c5910064",
+      "lists": 7,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "95db0e40a00b05c87a",
+      "name": "Waterloo Games 40K Road to NOVA GT Hosted by Away Games",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/95db0e40a00b05c87a",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "999296137c479abd00",
+      "name": "Palm Springs Classic - 40k GT",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/999296137c479abd00",
+      "lists": 12,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "a6047ec0f2d9c3fe24",
+      "name": "Goonhammer 2026 Presented By Gaming Under the Ice",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/a6047ec0f2d9c3fe24",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "aa9b59cb5f87df845d",
+      "name": "40K UKTC RTT GT - 2Day 5 Rounds - The Macharian Crusade",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/aa9b59cb5f87df845d",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "c7a3e49e52e584280a",
+      "name": "Athens Open-Summer Edition",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/c7a3e49e52e584280a",
+      "lists": 8,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "ce0e1c3be30caabcfe",
+      "name": "Surrey Primarchs July GT",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/ce0e1c3be30caabcfe",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "d809ec180fdfe0d8e7",
+      "name": "Málaga Open",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/d809ec180fdfe0d8e7",
+      "lists": 2,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "e14df735e75e49f8f9",
+      "name": "The O-Con-quest",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/e14df735e75e49f8f9",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "fb7ce86bc90d08ccd2",
+      "name": "Occi-Bash",
+      "date": "2026-07-18",
+      "url": "https://listhammer.info/events/fb7ce86bc90d08ccd2",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "d91c70fe3749c44880",
+      "name": "Warhammer 40,000 Grand Tournament - Warhammer Open Tacoma",
+      "date": "2026-07-17",
+      "url": "https://listhammer.info/events/d91c70fe3749c44880",
+      "lists": 16,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "e2479388cbbe865ebb",
+      "name": "Capital Clash - Da Revolushun!",
+      "date": "2026-07-17",
+      "url": "https://listhammer.info/events/e2479388cbbe865ebb",
+      "lists": 8,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "158f20f02add5feee8",
+      "name": "The Riverside Classic by Green Banner Event Co.",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/158f20f02add5feee8",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "166102021c97b69ec1",
+      "name": "Dream Maker GT",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/166102021c97b69ec1",
+      "lists": 9,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "372dfe2eb0c1f2593e",
+      "name": "BGE: The Dark Horseman 40k GT",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/372dfe2eb0c1f2593e",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "43fe94d8401bbd8527",
+      "name": "First GT of 11th!",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/43fe94d8401bbd8527",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "478e08f2ce8669b2a5",
+      "name": "PATH TO GLORY - OPEN 2026",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/478e08f2ce8669b2a5",
+      "lists": 28,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "618c621ce7f01cd5d4",
+      "name": "WTWG Permian Basin GT",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/618c621ce7f01cd5d4",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "6952338c6193b64919",
+      "name": "Beach Clash Major 2026",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/6952338c6193b64919",
+      "lists": 9,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "6ca73079f466e7dc70",
+      "name": "Twin Dragons July GT!",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/6ca73079f466e7dc70",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "76c0edbd5f2a566d77",
+      "name": "The Silver State Classic 2026",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/76c0edbd5f2a566d77",
+      "lists": 8,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "7dbda776e4a8ebfaa4",
+      "name": "W4 - Western Wisconsin Wargaming Weekend",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/7dbda776e4a8ebfaa4",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "975fb50ae6b4900c6f",
+      "name": "Luxembourg Open - Golden ticket event (11th ready)",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/975fb50ae6b4900c6f",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "bba98073c3928e3c5b",
+      "name": "Tunaship Troopers: Planet M",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/bba98073c3928e3c5b",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "bc259e2f39b8436796",
+      "name": "La Classique d'été (40k)",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/bc259e2f39b8436796",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "beadbaf0b19400bd15",
+      "name": "Vienna Summer Major WH 40K Singles",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/beadbaf0b19400bd15",
+      "lists": 2,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "c8b194a82e4dd7503b",
+      "name": "Midsummer O.P.A. 2026 WH40K GT",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/c8b194a82e4dd7503b",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "cd5367296ab6f08eff",
+      "name": "Warmaster Bucharest 2026",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/cd5367296ab6f08eff",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "d71b6157d580130414",
+      "name": "Liga por un Golden Ticket en el Milenio 41 ZMG",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/d71b6157d580130414",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "d9cc681d259d277534",
+      "name": "Ironweld: Warhammer 40K Grand Tournament",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/d9cc681d259d277534",
+      "lists": 12,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "f57fd5c085ab49db25",
+      "name": "2026 US Goonhammer Open 40k GT",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/f57fd5c085ab49db25",
+      "lists": 6,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "fd3a6cd5952b165143",
+      "name": "Throne of War GT 2026",
+      "date": "2026-07-11",
+      "url": "https://listhammer.info/events/fd3a6cd5952b165143",
+      "lists": 5,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "04b2c6877949ea9765",
+      "name": "Singlowe Mistrzostwa Pruszkowa 11-12.07 - uczymy się nowej edycji edition",
+      "date": "2026-07-10",
+      "url": "https://listhammer.info/events/04b2c6877949ea9765",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "f7762133e9101c04dc",
+      "name": "I GT Tierra Vettona Ciudad d Ávila",
+      "date": "2026-07-10",
+      "url": "https://listhammer.info/events/f7762133e9101c04dc",
+      "lists": 10,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "ffe5233bfd673f5d0a",
+      "name": "Shark Tank Winter 2026",
+      "date": "2026-07-10",
+      "url": "https://listhammer.info/events/ffe5233bfd673f5d0a",
+      "lists": 11,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "372514802f796d759e",
+      "name": "2000 pt 40k IRONMAN July 4th, 2026.",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/372514802f796d759e",
+      "lists": 2,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "55059e0c1bc024f41d",
+      "name": "[9IQ] Checkmate GT @ AVCon",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/55059e0c1bc024f41d",
+      "lists": 12,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "65f0086770c1c03b16",
+      "name": "Gulf Tournament Circuit: Dubai",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/65f0086770c1c03b16",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "686e6860da1741bc83",
+      "name": "THE BIRMINGHAM 40K SUPER MAJOR",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/686e6860da1741bc83",
+      "lists": 35,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "7a8da968c228390ba8",
+      "name": "The North East Open 2026",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/7a8da968c228390ba8",
+      "lists": 11,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "7fbdeb86c078200524",
+      "name": "SOLO KHAN 2026 Охота на Зотова",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/7fbdeb86c078200524",
+      "lists": 1,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "a76190295db5a7a844",
+      "name": "Leoben Summer Sprint 40K Singles 2026 - Alpine Cup",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/a76190295db5a7a844",
+      "lists": 7,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "b41155d254dc3e68d1",
+      "name": "IV GT Tormenta de Hostias",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/b41155d254dc3e68d1",
+      "lists": 9,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "d334243624d0252555",
+      "name": "FWC GT Warhammer 40000 GT - n77 - solo 2000 points",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/d334243624d0252555",
+      "lists": 4,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "f1d0c385e82bbfa9bb",
+      "name": "Tolaris GT 2026",
+      "date": "2026-07-04",
+      "url": "https://listhammer.info/events/f1d0c385e82bbfa9bb",
+      "lists": 9,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "42d25491c78f836fe9",
+      "name": "Geelong 40K Open 2026",
+      "date": "2026-07-03",
+      "url": "https://listhammer.info/events/42d25491c78f836fe9",
+      "lists": 10,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "55e713c846a3df0f55",
+      "name": "Rally Point Open - Coshocton GT",
+      "date": "2026-07-03",
+      "url": "https://listhammer.info/events/55e713c846a3df0f55",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "c63c40d22f323a1b4d",
+      "name": "Summer Conflagration - 40K",
+      "date": "2026-07-03",
+      "url": "https://listhammer.info/events/c63c40d22f323a1b4d",
+      "lists": 3,
+      "file": "lists-2026-07.json"
+    },
+    {
+      "slug": "0a59cf2d4cc8b0df9c",
+      "name": "Treasure Trove Games - Warhammer 40k Cherry City GT 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/0a59cf2d4cc8b0df9c",
+      "lists": 6,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "12c6f5bb3a48b39081",
+      "name": "Hellpit Grand Tournament 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/12c6f5bb3a48b39081",
+      "lists": 6,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "238fcdf07df1a2c500",
+      "name": "EI Commencing Armageddon: 11th Ed Kickoff GT",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/238fcdf07df1a2c500",
+      "lists": 5,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "259ae8a5c54cfb1d4f",
+      "name": "The Circuit Breaker - A 40k GT",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/259ae8a5c54cfb1d4f",
+      "lists": 6,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "29a06d5457aacd6e70",
+      "name": "The PNW Warlord's TACOMA OPEN PREP GT",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/29a06d5457aacd6e70",
+      "lists": 3,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "3a1ea48d8027cb5a1e",
+      "name": "Indy Open GT 2026: 11th Ed 40k",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/3a1ea48d8027cb5a1e",
+      "lists": 6,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "5c82fa00e68a16a189",
+      "name": "Second City Games Anniversary GT June 2026 ( 11th ed)",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/5c82fa00e68a16a189",
+      "lists": 7,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "6719ec8be33a16f316",
+      "name": "Dawn of 11th: Vår has passed",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/6719ec8be33a16f316",
+      "lists": 9,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "6fcabe00a35bef228f",
+      "name": "II Iberian Open La Rioja",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/6fcabe00a35bef228f",
+      "lists": 5,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "7329182110b988832b",
+      "name": "Battle For The Capital GT 2026",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/7329182110b988832b",
+      "lists": 10,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "ba8a2cd4cd6657ea63",
+      "name": "WH40K SWC: Qualifier 4 - June",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/ba8a2cd4cd6657ea63",
+      "lists": 6,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "e825d5bd28b4000336",
+      "name": "Hour Zero 3: Dawn of Heroes",
+      "date": "2026-06-27",
+      "url": "https://listhammer.info/events/e825d5bd28b4000336",
+      "lists": 5,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "73687ebbcedbca99a7",
+      "name": "Mistrzostwa Radomia 2026 by Boarderline ",
+      "date": "2026-06-26",
+      "url": "https://listhammer.info/events/73687ebbcedbca99a7",
+      "lists": 9,
+      "file": "lists-2026-06.json"
+    },
+    {
+      "slug": "d59780b01f5782f73e",
+      "name": "3.Sinsheimer GT",
+      "date": "2026-06-26",
+      "url": "https://listhammer.info/events/d59780b01f5782f73e",
+      "lists": 4,
+      "file": "lists-2026-06.json"
+    }
+  ]
+}
