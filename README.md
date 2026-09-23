@@ -9,8 +9,16 @@ them and the tournaments they hold. Each list carries its faction, its detachmen
 list text as the player submitted it, and a link to the tournament page it was read from.
 
 The `listhammer/` folder holds files of the same kind for the lists Listhammer collects. Those lists
-carry a win-loss record in place of a placing. The top-level `index.json` names the folder as a part,
-so Grimstat reads both.
+carry a win-loss record in place of a placing, and a list from a smaller event (an RTT) is marked
+`rtt`. A list from a Grand Tournament also carries its games: each round's result and score, and the
+opponent's faction and detachments.
+
+The same folder holds monthly `results-YYYY-MM.json` files. Each names an event, its date, its number
+of rounds and the number of players it had, and lists every player's faction, detachments, Force
+Disposition and record in finishing order. Grimstat reads them for each faction's win rate across
+whole events, since the list files hold only the lists that lost once at most.
+
+The top-level `index.json` names the folder as a part, so Grimstat reads both.
 
 ## Where it comes from
 
@@ -19,25 +27,28 @@ The relay in the Grimstat repository (`.github/workflows/corpus.yml`) reads its 
 tournaments every Monday, one request a second under a named user agent, and commits the result here.
 
 The same relay reads [Listhammer](https://listhammer.info)'s feed of undefeated and one-loss lists from
-Grand Tournaments into `listhammer/`. Listhammer collects them from events on Best Coast Pairings and
-Tabletop Herald.
+Grand Tournaments and RTTs into `listhammer/`. Listhammer collects them from events on Best Coast
+Pairings and Tabletop Herald. For each Grand Tournament list the relay also reads the list's games, and
+for each event it reads the event's page on Listhammer for every player's result. Games and results
+already here are not read again.
 
 ## Names
 
 Player names are removed before publishing, including the header lines organisers ask players to fill
-in. Lists are credited to the tournament they were played in.
+in. Lists are credited to the tournament they were played in. Games and event results carry no player
+names.
 
 ## Licence
 
 The compilation of the files at the top of this repository is published under CC BY 4.0 (see
-`LICENSE`). That licence does not cover the `listhammer/` folder. The lists themselves were written by
-the players who submitted them and remain theirs. This dataset reproduces them as published, for study of
-the competitive field, with a link back to each source.
+`LICENSE`). That licence does not cover the `listhammer/` folder or its results files. The lists
+themselves were written by the players who submitted them and remain theirs. This dataset reproduces
+them as published, for study of the competitive field, with a link back to each source.
 
 ## Corrections and removals
 
 Open an issue in this repository. A list is removed on request from its author or the organiser who
-published it.
+published it, and an event's results on request from its organiser.
 
 ## Using it
 
