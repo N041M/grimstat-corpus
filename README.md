@@ -20,6 +20,11 @@ whole events, since the list files hold only the lists that lost once at most.
 
 The top-level `index.json` names the folder as a part, so Grimstat reads both.
 
+A month whose lists or results would pass 8,000,000 characters continues in further files numbered
+from 2, such as `lists-2026-08-2.json` and `results-2026-08-2.json`. A month that fits keeps its one
+file. The index names every file with its month, and each tournament's entry names the file that holds
+its lists.
+
 ## Where it comes from
 
 [MiniHeadQuarters](https://miniheadquarters.com), a tournament platform whose pages a machine may read.
