@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-09-23T19:40:50.992Z",
+  "generatedAt": "2026-09-28T10:56:56.013Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-09.json",
       "month": "2026-09",
-      "lists": 151,
-      "tournaments": 5
+      "lists": 155,
+      "tournaments": 6
     },
     {
       "name": "lists-2026-08.json",
@@ -36,6 +36,14 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "tournoi-wh40k-1v1-2000pts-le-vieux-monde-260926-2026-09-26",
+      "name": "Tournoi wh40k 1v1 2000PTS le vieux monde 26/09/26",
+      "date": "2026-09-26",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-wh40k-1v1-2000pts-le-vieux-monde-260926-2026-09-26",
+      "lists": 4,
+      "file": "lists-2026-09.json"
+    },
     {
       "slug": "fwc-warhammer-40000-n85-solo-2000-points-2026-09-20",
       "name": "FWC Warhammer 40000 - n85 - solo 2000 points",
