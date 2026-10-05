@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-09-28T10:56:56.013Z",
+  "generatedAt": "2026-10-05T11:31:48.855Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -11,10 +11,16 @@
   },
   "files": [
     {
+      "name": "lists-2026-10.json",
+      "month": "2026-10",
+      "lists": 18,
+      "tournaments": 1
+    },
+    {
       "name": "lists-2026-09.json",
       "month": "2026-09",
-      "lists": 155,
-      "tournaments": 6
+      "lists": 177,
+      "tournaments": 8
     },
     {
       "name": "lists-2026-08.json",
@@ -37,6 +43,22 @@
   ],
   "tournaments": [
     {
+      "slug": "lanciers-solo-2026-2026-10-03",
+      "name": "Tournoi des Lanciers 2026",
+      "date": "2026-10-03",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/lanciers-solo-2026-2026-10-03",
+      "lists": 18,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "mini-pugilat-a-st-sat-2-2026-09-27",
+      "name": "Mini Pugilat à St Sat 2",
+      "date": "2026-09-27",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/mini-pugilat-a-st-sat-2-2026-09-27",
+      "lists": 10,
+      "file": "lists-2026-09.json"
+    },
+    {
       "slug": "tournoi-wh40k-1v1-2000pts-le-vieux-monde-260926-2026-09-26",
       "name": "Tournoi wh40k 1v1 2000PTS le vieux monde 26/09/26",
       "date": "2026-09-26",
@@ -58,6 +80,14 @@
       "date": "2026-09-19",
       "url": "https://miniheadquarters.com/tournaments/individual/army-lists/la-grande-castagne-ardechoise-2026-2026-09-19",
       "lists": 48,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "tournoi-a-lair-2026-09-19",
+      "name": "Tournoi à l'Air",
+      "date": "2026-09-19",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-a-lair-2026-09-19",
+      "lists": 12,
       "file": "lists-2026-09.json"
     },
     {

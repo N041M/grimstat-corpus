@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-09-28T11:13:14.912Z",
+  "generatedAt": "2026-10-05T11:52:22.670Z",
   "source": {
     "id": "listhammer",
     "name": "Listhammer",
@@ -11,10 +11,16 @@
   },
   "files": [
     {
+      "name": "lists-2026-10.json",
+      "month": "2026-10",
+      "lists": 354,
+      "tournaments": 138
+    },
+    {
       "name": "lists-2026-09.json",
       "month": "2026-09",
-      "lists": 1732,
-      "tournaments": 681
+      "lists": 1936,
+      "tournaments": 686
     },
     {
       "name": "lists-2026-08.json",
@@ -36,6 +42,1118 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "015cedb2eb60b34608",
+      "name": "Portal Prügelei VI",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/015cedb2eb60b34608",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "02ddd079a842224a23",
+      "name": "GRAN COMBINATA CREW+ : FERRARA",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/02ddd079a842224a23",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "03ef94117de9f997ad",
+      "name": "Blood and friends V",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/03ef94117de9f997ad",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "0706070c47303b1868",
+      "name": "Rumble in the Rattlers' Den - 40k RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/0706070c47303b1868",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "1813bf52afb29dc218",
+      "name": "MMG: 40K RTT OCTOBER 2026",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/1813bf52afb29dc218",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "1a25b95c3d1e44b996",
+      "name": "Torneo Templo 4 Octubre",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/1a25b95c3d1e44b996",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "1b7ea75b382ccf504a",
+      "name": "Monthly WH40K@Quebra Dados (04/10)",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/1b7ea75b382ccf504a",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "1eed5480b9759b4770",
+      "name": "Hole in the Wall Hobbies October 2026 RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/1eed5480b9759b4770",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "2b102866fe8391661a",
+      "name": "Dungeons & Donuts Sunday RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/2b102866fe8391661a",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "2ff6494d45ad0be9f8",
+      "name": "Rock city rampage",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/2ff6494d45ad0be9f8",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "30a5f3b5eff51cc049",
+      "name": "SpieleGilde Karlsruhe Vorbereitung #2",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/30a5f3b5eff51cc049",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "45b0d7fdb75c1e2873",
+      "name": "Oktober RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/45b0d7fdb75c1e2873",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "48116ecdd51407eada",
+      "name": "Templo Octubre",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/48116ecdd51407eada",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "4d14e49d9c000d3993",
+      "name": "RTT 4TH OCTOBER ELYSIUM WARGAME",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/4d14e49d9c000d3993",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "502506a1c43b0c9ced",
+      "name": "One Day Clash - Brick Expo Lego",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/502506a1c43b0c9ced",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "531ab8b8744577bd0d",
+      "name": "Forge & Battle \"GT 2k points\"",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/531ab8b8744577bd0d",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "6178915c2f68cbb397",
+      "name": "LeNDület Kupa Plusz 26 október",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/6178915c2f68cbb397",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "67854cdf2cf7dc32c0",
+      "name": "Midwest Slugga Fest 6 (THE MIAMI CONNECTION)",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/67854cdf2cf7dc32c0",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "80a45bf990b6367be5",
+      "name": "Ramhammer October",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/80a45bf990b6367be5",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "92757f15ba9352819b",
+      "name": "Black Lotus - Podzimní 40k Turnaj (2000pts)",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/92757f15ba9352819b",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "9def4ee408ea6b1a67",
+      "name": "워해머40k 토너먼트 [가운데땅미니어처]",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/9def4ee408ea6b1a67",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "b005abb297eaa57b11",
+      "name": "Purge at the Pavilion 2026",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/b005abb297eaa57b11",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "bbcab2cc8a157bee4a",
+      "name": "Terni torneo a singolo 11th",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/bbcab2cc8a157bee4a",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "bcd039c37230490255",
+      "name": "True North RTT - 4th October 2026",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/bcd039c37230490255",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ccaefc2583cefc73f0",
+      "name": "Surrey Primarchs Last Min RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/ccaefc2583cefc73f0",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "cf772138ef10445544",
+      "name": "Bier und Bretzel 40k - 09",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/cf772138ef10445544",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "d12a417b85c5732b5e",
+      "name": "TORNEO RELAMPAGO",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/d12a417b85c5732b5e",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "dbf1ac8246443e19ff",
+      "name": "New World Gaming Sept/Oct RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/dbf1ac8246443e19ff",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "e2269059e47bc3f0bd",
+      "name": "Ulrikova desítka 9.turnaj",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/e2269059e47bc3f0bd",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "eddcf0bac16580099b",
+      "name": "October 2026 RTT",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/eddcf0bac16580099b",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f441775aa626f1ab93",
+      "name": "Grim October Black Tower",
+      "date": "2026-10-04",
+      "url": "https://listhammer.info/events/f441775aa626f1ab93",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "02fcd02160e024fc42",
+      "name": "Ann Arbor 40K Singles Tournament",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/02fcd02160e024fc42",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "09429d3dc649195fa1",
+      "name": "Krashen 5 Battle at arby",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/09429d3dc649195fa1",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "0d234f092190bb459b",
+      "name": "Wrocławski Turniej Lokalny w Bolterze - Październik",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/0d234f092190bb459b",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "0f7febc6cf6df9fbff",
+      "name": "Phantasm Gaming RTT - October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/0f7febc6cf6df9fbff",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "13e48d394a10821d5d",
+      "name": "3. Traunstein Cup",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/13e48d394a10821d5d",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "13f6f925d7733fd2e4",
+      "name": "Dragón Rojo Undécima Octubre 26",
+      "date": "2026-10-03",
+      "url": "",
+      "lists": 0,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "1997fe1f297611e7a1",
+      "name": "Geek Out 40K",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/1997fe1f297611e7a1",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "199c631013e94d5ef2",
+      "name": "Green Dice Games October  RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/199c631013e94d5ef2",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "19b3810ef12b4c0c07",
+      "name": "Lvl Up Warhammer 40k October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/19b3810ef12b4c0c07",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "2011143fb8375be0dd",
+      "name": "Roll-a-holics 1st RTT WH40k",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/2011143fb8375be0dd",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "2e485cedbdaf027e91",
+      "name": "40k - Eleventh Hour",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/2e485cedbdaf027e91",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "2f2d768ae65c327fbe",
+      "name": "Open de Bretagne FINISTERHAMMER",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/2f2d768ae65c327fbe",
+      "lists": 8,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "319f846ebf0c3feb2e",
+      "name": "Vendimia Zangrienta",
+      "date": "2026-10-03",
+      "url": "",
+      "lists": 0,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "323c56361450d0e011",
+      "name": "Gainesville 40k October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/323c56361450d0e011",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "37f2d34937a8d62cb8",
+      "name": "Midgard Battle Against Breast Cancer October 40k ITC Tournament",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/37f2d34937a8d62cb8",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "3927ee73917a23e7d8",
+      "name": "Heroes October '26 40k RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/3927ee73917a23e7d8",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "3e7e4211675f23ad60",
+      "name": "Warzone Events - Oct RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/3e7e4211675f23ad60",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "3fbfc35d492bd78a39",
+      "name": "Dice Dojo Warhammer 40K 11th Ed. Fourth Quarterly Tournament",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/3fbfc35d492bd78a39",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "4073c5a913c30fd950",
+      "name": "Aetherforce Gaming Epic Loot October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/4073c5a913c30fd950",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "47037ddb0ea030ca90",
+      "name": "40K Store Championship - Muncie",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/47037ddb0ea030ca90",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "4af853c9c9a974b638",
+      "name": "Champion Card Collector BFS GT PREP, Again",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/4af853c9c9a974b638",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "4c91f3f991ad5848e5",
+      "name": "Pilsen Meta Rift Fall 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/4c91f3f991ad5848e5",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "523b6f69e3600d2c71",
+      "name": "Squig Hunt RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/523b6f69e3600d2c71",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "54eaa4344ab80a6b06",
+      "name": "Willen Games Warhammer 40,000 October GT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/54eaa4344ab80a6b06",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "56f2975b3d166b2ebc",
+      "name": "Tri-City Takedown October 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/56f2975b3d166b2ebc",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "57d65ca6d1bc9bda55",
+      "name": "Deathbridge Orktober RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/57d65ca6d1bc9bda55",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "58018b855b0cb0ad4e",
+      "name": "RoundTable Gaming October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/58018b855b0cb0ad4e",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "583b969e26cd13f29a",
+      "name": "Y no conocerán el miedo IV",
+      "date": "2026-10-03",
+      "url": "",
+      "lists": 0,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "58f43afafc187e0c2f",
+      "name": "D2G Warhammer 40k Orktoberfest",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/58f43afafc187e0c2f",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "5ac3690d53c007e7b7",
+      "name": "NRF Turnering 40k - Oktober",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/5ac3690d53c007e7b7",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "5ac5825a265caca5b4",
+      "name": "Mecha Games: 40k RTT OCT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/5ac5825a265caca5b4",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "5fb020e633c51dbb60",
+      "name": "Game Citadel OCTOBER RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/5fb020e633c51dbb60",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "64cb312034dbc72754",
+      "name": "GRAN COMBINATA CREW+: Rubiera in gioco",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/64cb312034dbc72754",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "6523142558206361cc",
+      "name": "Rook's 40k Tourney October 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/6523142558206361cc",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "67530360b90ab88c2f",
+      "name": "OCT RTT at DDH!",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/67530360b90ab88c2f",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "68bfd9f8a709e0e3c3",
+      "name": "182. Mayener Warhammer 40k Event: 2000 Punkte Turnier",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/68bfd9f8a709e0e3c3",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "6b08d0432345d4beb5",
+      "name": "Ettin Games October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/6b08d0432345d4beb5",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "6f2951aaf5a0fa29a9",
+      "name": "BCB 40K Championship GT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/6f2951aaf5a0fa29a9",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "707630238d372dbd62",
+      "name": "HFX Games: 40K 2026 - Oct",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/707630238d372dbd62",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "72acaf71df5cf8b2e9",
+      "name": "Chimera Gaming Warhammer 40K RTT - October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/72acaf71df5cf8b2e9",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "72ea98e082d4099ad5",
+      "name": "Torneo Tabletop Octubre",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/72ea98e082d4099ad5",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "736d0b0936862d71e3",
+      "name": "Orktober 40K RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/736d0b0936862d71e3",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "73aa0d2a04396a2b1a",
+      "name": "TORNEO 40K AMGE",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/73aa0d2a04396a2b1a",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "77f23151bfb243c169",
+      "name": "Harlequins 40K RTT - October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/77f23151bfb243c169",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "7ba581bbb7c8906343",
+      "name": "BDG October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/7ba581bbb7c8906343",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "7cc12502e6d7db3b7b",
+      "name": "SpieleGilde Karlsruhe Vorbereitung #1",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/7cc12502e6d7db3b7b",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "7e682f61e754f7e72e",
+      "name": "1026 TTCS Monthly RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/7e682f61e754f7e72e",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "7edf47ef7537aba80f",
+      "name": "Onslaught 2K",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/7edf47ef7537aba80f",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "800bd0866d2f6f099e",
+      "name": "Homestory-Cup #4",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/800bd0866d2f6f099e",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "806a2aa8997763b041",
+      "name": "Twin Dragons October Casual RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/806a2aa8997763b041",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "82535943c0ea4c23f9",
+      "name": "40k Brawl - October GT 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/82535943c0ea4c23f9",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "82edc7e539c9fba4dd",
+      "name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/82edc7e539c9fba4dd",
+      "lists": 7,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "850a7197f04c0d0e8e",
+      "name": "TTWG October 2026 RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/850a7197f04c0d0e8e",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "8559618db98b4f5fd6",
+      "name": "Firefly Warhammer 40k Oct 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/8559618db98b4f5fd6",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "85f1ba029d8071c463",
+      "name": "Top Tier Warhammer 40k RTT - October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/85f1ba029d8071c463",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "86de450076a42c742d",
+      "name": "Dragon Egg 40k RTT - October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/86de450076a42c742d",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "8aef71553c55f61f22",
+      "name": "The Pumpkin Spice Must Flow 2 GT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/8aef71553c55f61f22",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "8e0c38a11719525276",
+      "name": "Triple Cities 40K October RTT @ Dragon Master Games",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/8e0c38a11719525276",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "8e92c2309a61cd7b30",
+      "name": "Dragon Fall 2026 40K Champs",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/8e92c2309a61cd7b30",
+      "lists": 7,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "90a8f0eb0a88f86ab8",
+      "name": "The 40k Fall Crusade",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/90a8f0eb0a88f86ab8",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "92144bf91d8b4ff45b",
+      "name": "Sussus Cup - Október",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/92144bf91d8b4ff45b",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "983a6f2da6d2b65d4c",
+      "name": "Sonoma Con RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/983a6f2da6d2b65d4c",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "9a850239667111bcf4",
+      "name": "2. Anhalt Battle",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/9a850239667111bcf4",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "9bb263a8364b533fb2",
+      "name": "Mil-D-Con Warhammer 40k",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/9bb263a8364b533fb2",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "a21fc6174b369b3d7e",
+      "name": "Obfuscated Obliteration RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/a21fc6174b369b3d7e",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "a8a29587f872f910a1",
+      "name": "Whitby Autumn GT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/a8a29587f872f910a1",
+      "lists": 5,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ab86edb46538f9857d",
+      "name": "Swords and Spoon's October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/ab86edb46538f9857d",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "af2603d4fa423f10fa",
+      "name": "Warhammer 40k  Octubre 2K",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/af2603d4fa423f10fa",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "b48f7d711f16cd0181",
+      "name": "Warhammer 40K RTT @ The Art Store",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/b48f7d711f16cd0181",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "b6b8b541831fec8613",
+      "name": "Diss is Orktober! 2k Tournament 40k",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/b6b8b541831fec8613",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ba550002264ae00cf3",
+      "name": "Materia Cup - Warhammer 40K",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/ba550002264ae00cf3",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "c08a21c0607257d9ee",
+      "name": "Norsehammer Lounge: Fall Brawl RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/c08a21c0607257d9ee",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "c2b46f733a111e72bc",
+      "name": "Hobby Hole October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/c2b46f733a111e72bc",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "c7bf02e4105c486628",
+      "name": "Dogs of War Gaming October RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/c7bf02e4105c486628",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "c81f3363b1023e7eb8",
+      "name": "St Albans Slam Saturday - October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/c81f3363b1023e7eb8",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ca6e6efd43248d5494",
+      "name": "Phase One Warhammer 40k RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/ca6e6efd43248d5494",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "cad9b5ed46caba46c9",
+      "name": "Wolfheim '26",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/cad9b5ed46caba46c9",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "d85f7beb5ee7889b91",
+      "name": "Gamer's Haven October RTT 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/d85f7beb5ee7889b91",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "da0b367a105137e43a",
+      "name": "RTT Mensual Tercer Imperio",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/da0b367a105137e43a",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "da6c8242daa2857366",
+      "name": "October Horror Fight",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/da6c8242daa2857366",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "da86b6752de7f47618",
+      "name": "123. Bedburger Scheunenkloppen - Eintagesturnier",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/da86b6752de7f47618",
+      "lists": 5,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "de5bc9064c93b480e2",
+      "name": "Persephone OctoRTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/de5bc9064c93b480e2",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "e165d6436e01e8d10b",
+      "name": "Cryptic Carnival 40K  Bracknell",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/e165d6436e01e8d10b",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "e3312648689bb60797",
+      "name": "2. OCB 40k Turnier am Hero Fest",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/e3312648689bb60797",
+      "lists": 5,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "e57edbcf65442d3246",
+      "name": "Inner Westhammer RTT",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/e57edbcf65442d3246",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "e77830eb9101c2a434",
+      "name": "DSF RTT - Autumn",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/e77830eb9101c2a434",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "e8c313ea01594d010c",
+      "name": "Toulon All Stars",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/e8c313ea01594d010c",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ea375d588391acb94e",
+      "name": "October RTT at TGR",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/ea375d588391acb94e",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ea4a34fdc5a9c24a6e",
+      "name": "Orkageddon 1, Casual Turnering",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/ea4a34fdc5a9c24a6e",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "eaf21bb44e9ebec795",
+      "name": "Tournoi des Lanciers 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/eaf21bb44e9ebec795",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f129738340682db3c6",
+      "name": "Grimdark in Sala",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/f129738340682db3c6",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f5c46cd3fcc13d0ee0",
+      "name": "Florians Farewell - AD RTT 2",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/f5c46cd3fcc13d0ee0",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f6051943089daba74d",
+      "name": "3Dragons Octobre 2026",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/f6051943089daba74d",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f81b42a17c29ab79d4",
+      "name": "RTT - 3th october",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/f81b42a17c29ab79d4",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f940961ad071f8f1f4",
+      "name": "Open Les Dés Salés 1",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/f940961ad071f8f1f4",
+      "lists": 13,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "f9bb8f79dd4ecad1e9",
+      "name": "Sanctum Monthly: October",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/f9bb8f79dd4ecad1e9",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "fedfa652a4cf0026d6",
+      "name": "7. Base-X Ruhrpott Fight",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/fedfa652a4cf0026d6",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "ffed7ad722f288f46d",
+      "name": "LVO 2026 - 40k Friendly - Las Vegas Open",
+      "date": "2026-10-03",
+      "url": "https://listhammer.info/events/ffed7ad722f288f46d",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "1f5cf8ab5f28571388",
+      "name": "LVO 2026 - Warhammer 40k Championships - Las Vegas Open",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/1f5cf8ab5f28571388",
+      "lists": 49,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "2404b0e661f0ce3db3",
+      "name": "Warbanner 13 - Warhammer 40K",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/2404b0e661f0ce3db3",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "5dc10432af95161a3b",
+      "name": "Perth Hill Spring GT",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/5dc10432af95161a3b",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "6322304d314031052e",
+      "name": "MY FIRST TOURNAMENT LVO 26",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/6322304d314031052e",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "75b3bf40f2dc2cae0c",
+      "name": "Bendigo open 2026",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/75b3bf40f2dc2cae0c",
+      "lists": 10,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "8595aa68d9f2f4cd59",
+      "name": "Gamez Knight - 2 Day 2k",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/8595aa68d9f2f4cd59",
+      "lists": 3,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "b85fb4e55891188f54",
+      "name": "Nova Hammer 2026",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/b85fb4e55891188f54",
+      "lists": 2,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "d3c13b4e9b187c83f8",
+      "name": "Games Shed Warmaster Series Tournament October 2026",
+      "date": "2026-10-02",
+      "url": "https://listhammer.info/events/d3c13b4e9b187c83f8",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "cb171beef26f264ea6",
+      "name": "Torneo W40K 2000p 04/10",
+      "date": "2026-10-01",
+      "url": "https://listhammer.info/events/cb171beef26f264ea6",
+      "lists": 1,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "8bbcc778f24d71a80d",
+      "name": "Tuesday Champions 29th Of September",
+      "date": "2026-09-29",
+      "url": "https://listhammer.info/events/8bbcc778f24d71a80d",
+      "lists": 3,
+      "file": "lists-2026-09.json"
+    },
     {
       "slug": "06b662d054c68ceb69",
       "name": "Torneo Septiembre 40k en 2d6 Store",
@@ -369,7 +1487,15 @@
       "name": "The GOLDEN CREW III",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/076dd0aa18e7ce2c98",
-      "lists": 5,
+      "lists": 6,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "08161f4fee7c7f4a6b",
+      "name": "Papokalypse 40K turnering",
+      "date": "2026-09-26",
+      "url": "https://listhammer.info/events/08161f4fee7c7f4a6b",
+      "lists": 1,
       "file": "lists-2026-09.json"
     },
     {
@@ -433,7 +1559,7 @@
       "name": "New York Open: 40k",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/1341e5c76c1b60695a",
-      "lists": 7,
+      "lists": 9,
       "file": "lists-2026-09.json"
     },
     {
@@ -481,7 +1607,7 @@
       "name": "Grand Pitounerie 2 Open 40k de Loire Atlantique",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/1bc469b11620503166",
-      "lists": 12,
+      "lists": 15,
       "file": "lists-2026-09.json"
     },
     {
@@ -505,7 +1631,7 @@
       "name": "Battle Under the Zia Sun II",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/285c6bc7bcdde1de81",
-      "lists": 8,
+      "lists": 9,
       "file": "lists-2026-09.json"
     },
     {
@@ -554,6 +1680,14 @@
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/3623b1f482865bde38",
       "lists": 2,
+      "file": "lists-2026-09.json"
+    },
+    {
+      "slug": "36c9bbe1a9291cd92d",
+      "name": "The Realm 40K September GT 2026",
+      "date": "2026-09-26",
+      "url": "https://listhammer.info/events/36c9bbe1a9291cd92d",
+      "lists": 1,
       "file": "lists-2026-09.json"
     },
     {
@@ -657,7 +1791,7 @@
       "name": "The Light Brigade WWC7 2 Day Singles Event",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/56370f469436f0cc9f",
-      "lists": 4,
+      "lists": 5,
       "file": "lists-2026-09.json"
     },
     {
@@ -745,7 +1879,7 @@
       "name": "Turbulent Games Warhammer 40K GT @Siouxper Con",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/690a0047e7a5095bf0",
-      "lists": 4,
+      "lists": 5,
       "file": "lists-2026-09.json"
     },
     {
@@ -833,7 +1967,7 @@
       "name": "Warhammer 40K SA Nationals",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/782b8623f4a05735f3",
-      "lists": 8,
+      "lists": 10,
       "file": "lists-2026-09.json"
     },
     {
@@ -937,7 +2071,7 @@
       "name": "Saimaa GT 2026",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/9883b3232e390fd8f2",
-      "lists": 11,
+      "lists": 13,
       "file": "lists-2026-09.json"
     },
     {
@@ -953,7 +2087,7 @@
       "name": "STC 40K GT - September 2026",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/993c054db471e973d1",
-      "lists": 4,
+      "lists": 5,
       "file": "lists-2026-09.json"
     },
     {
@@ -1097,7 +2231,7 @@
       "name": "Wettcon höst 2026",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/c91805a4a970f420cb",
-      "lists": 6,
+      "lists": 7,
       "file": "lists-2026-09.json"
     },
     {
@@ -1165,6 +2299,14 @@
       "file": "lists-2026-09.json"
     },
     {
+      "slug": "db0bdc5aeb0b7897e0",
+      "name": "Emporium Games Presents: Brewed for War GT",
+      "date": "2026-09-26",
+      "url": "https://listhammer.info/events/db0bdc5aeb0b7897e0",
+      "lists": 1,
+      "file": "lists-2026-09.json"
+    },
+    {
       "slug": "dbad80820112da51ae",
       "name": "40k - CRUSADE OF FIRE",
       "date": "2026-09-26",
@@ -1177,7 +2319,7 @@
       "name": "2026 Wars on the Shore GT",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/dd4c1a879f0f238c01",
-      "lists": 4,
+      "lists": 5,
       "file": "lists-2026-09.json"
     },
     {
@@ -1185,7 +2327,7 @@
       "name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/de77d4aa6ceb4bc45c",
-      "lists": 10,
+      "lists": 12,
       "file": "lists-2026-09.json"
     },
     {
@@ -1225,7 +2367,7 @@
       "name": "Leoben Autumn Sprint 40K Singles 2026 - Alpine Cup",
       "date": "2026-09-26",
       "url": "https://listhammer.info/events/e36fb31c6eaf05eb85",
-      "lists": 4,
+      "lists": 5,
       "file": "lists-2026-09.json"
     },
     {
@@ -1389,6 +2531,14 @@
       "file": "lists-2026-09.json"
     },
     {
+      "slug": "4848688a4a9990005c",
+      "name": "The London Grand Tournament - 40k Main Event (LGT 40k GT)",
+      "date": "2026-09-25",
+      "url": "https://listhammer.info/events/4848688a4a9990005c",
+      "lists": 177,
+      "file": "lists-2026-09.json"
+    },
+    {
       "slug": "4be89ae73ff520934b",
       "name": "Friday RTT - Pod 8",
       "date": "2026-09-25",
@@ -1401,7 +2551,7 @@
       "name": "Hanseatic Alliance Open 2026",
       "date": "2026-09-25",
       "url": "https://listhammer.info/events/4f0e38f3e6b98c4ed1",
-      "lists": 4,
+      "lists": 6,
       "file": "lists-2026-09.json"
     },
     {
@@ -16383,10 +17533,16 @@
   ],
   "results": [
     {
+      "name": "results-2026-10.json",
+      "month": "2026-10",
+      "events": 138,
+      "players": 2755
+    },
+    {
       "name": "results-2026-09.json",
       "month": "2026-09",
-      "events": 681,
-      "players": 14369
+      "events": 686,
+      "players": 14532
     },
     {
       "name": "results-2026-08.json",
