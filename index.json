@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-10-05T11:31:48.855Z",
+  "generatedAt": "2026-10-12T12:02:03.121Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-10.json",
       "month": "2026-10",
-      "lists": 18,
-      "tournaments": 1
+      "lists": 90,
+      "tournaments": 5
     },
     {
       "name": "lists-2026-09.json",
@@ -42,6 +42,38 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "tactical-squad-tournois-minute-2026-10-11",
+      "name": "Tactical Squad Tournois minute",
+      "date": "2026-10-11",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tactical-squad-tournois-minute-2026-10-11",
+      "lists": 16,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "un-petit-tournoi-a-la-nwa-la-vengeance-des-primarques-2026-10-11",
+      "name": "Un petit tournoi à la NWA - la vengeance des Primarques",
+      "date": "2026-10-11",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/un-petit-tournoi-a-la-nwa-la-vengeance-des-primarques-2026-10-11",
+      "lists": 5,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "le-tournoi-des-irreductibles-1d6-2026-10-10",
+      "name": "Le Tournoi des Irreductibles-1d6",
+      "date": "2026-10-10",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/le-tournoi-des-irreductibles-1d6-2026-10-10",
+      "lists": 21,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "open-marne-tournament-2026-2026-10-10",
+      "name": "Open Marne Tournament 2026",
+      "date": "2026-10-10",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/open-marne-tournament-2026-2026-10-10",
+      "lists": 30,
+      "file": "lists-2026-10.json"
+    },
     {
       "slug": "lanciers-solo-2026-2026-10-03",
       "name": "Tournoi des Lanciers 2026",
