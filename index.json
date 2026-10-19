@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-10-12T12:02:03.121Z",
+  "generatedAt": "2026-10-19T09:56:28.868Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-10.json",
       "month": "2026-10",
-      "lists": 90,
-      "tournaments": 5
+      "lists": 124,
+      "tournaments": 6
     },
     {
       "name": "lists-2026-09.json",
@@ -42,6 +42,14 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "ltc-12-tournoi-caritatif-warhammer-40k-2000pts-alsace-2026-10-17",
+      "name": "LTC #12 - Tournoi Caritatif - Warhammer 40K 2000pts (Alsace)",
+      "date": "2026-10-17",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/ltc-12-tournoi-caritatif-warhammer-40k-2000pts-alsace-2026-10-17",
+      "lists": 34,
+      "file": "lists-2026-10.json"
+    },
     {
       "slug": "tactical-squad-tournois-minute-2026-10-11",
       "name": "Tactical Squad Tournois minute",
