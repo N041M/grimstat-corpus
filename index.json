@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-10-19T09:56:28.868Z",
+  "generatedAt": "2026-10-26T10:10:08.381Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-10.json",
       "month": "2026-10",
-      "lists": 124,
-      "tournaments": 6
+      "lists": 184,
+      "tournaments": 9
     },
     {
       "name": "lists-2026-09.json",
@@ -42,6 +42,30 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "tactical-horror-2026-10-25",
+      "name": "Tactical Horror",
+      "date": "2026-10-25",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tactical-horror-2026-10-25",
+      "lists": 12,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "limoges-wargames-solo-2000pts-2026-10-24",
+      "name": "Limoges Wargames solo 2000pts",
+      "date": "2026-10-24",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/limoges-wargames-solo-2000pts-2026-10-24",
+      "lists": 44,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "tournoi-wh40k-1v1-2000pts-le-vieux-monde-241026-2026-10-24",
+      "name": "Tournoi wh40k 1v1 2000PTS le vieux monde 24/10/26",
+      "date": "2026-10-24",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-wh40k-1v1-2000pts-le-vieux-monde-241026-2026-10-24",
+      "lists": 4,
+      "file": "lists-2026-10.json"
+    },
     {
       "slug": "ltc-12-tournoi-caritatif-warhammer-40k-2000pts-alsace-2026-10-17",
       "name": "LTC #12 - Tournoi Caritatif - Warhammer 40K 2000pts (Alsace)",
