@@ -1,0 +1,873 @@
+{
+  "format": "grimstat-published-lists",
+  "version": 1,
+  "importedAt": "2026-11-02T12:45:01.316Z",
+  "lists": [
+    {
+      "heading": "Adeptus Custodes (Emperor's Chosen/Might of the Moritoi/Lions of the Emperor) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Emperor's Chosen",
+        "Might of the Moritoi",
+        "Lions of the Emperor"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "Three Dreads and Trajann Walk into a Bar",
+      "listText": "Three Dreads and Trajann Walk into a Bar (2,000 Points)\n\nAdeptus Custodes\nEmperor’s Chosen, Lions of the Emperor and Might of the Moritoi (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nTrajann Valoris (265 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n• 1x Watcher’s Axe\n\nAllarus Custodians (180 Points)\n• Attached as: Bodyguard\n• 2x Allarus Custodians\n◦ 2x Balistus Grenade Launcher\n◦ 2x Guardian Spear\n◦ 1x Vexilla\n\nOTHER DATASHEETS\n\nAllarus Custodians (270 Points)\n• 3x Allarus Custodians\n◦ 3x Balistus Grenade Launcher\n◦ 3x Guardian Spear\n◦ 1x Vexilla\n\nCaladius Annihilator Grav‑Tank (250 Points)\n• 1x Arachnus Blaze Carronade\n• 1x Armoured Hull\n• 1x Twin Lastrum Bolt Cannon\n\nContemptor‑Galatus Dreadnought (250 Points)\n• 1x Warblade\n• Enhancements: Memento Moritoi (one per army) (Upgrade)\n\nContemptor‑Galatus Dreadnought (220 Points)\n• 1x Warblade\n\nProsecutor Squad (45 Points)\n• 4x Prosecutors\n◦ 4x Boltgun\n◦ 4x Gun Stock\n\nProsecutor Squad (45 Points)\n• 4x Prosecutors\n◦ 4x Boltgun\n◦ 4x Gun Stock\n\nProsecutor Squad (45 Points)\n• 4x Prosecutors\n◦ 4x Boltgun\n◦ 4x Gun Stock\n\nTelemon Heavy Dreadnought (310 Points)\n• 1x Dual Caestus Fists\n• 1x Spiculus Bolt Launcher\n• 2x Twin Neutronium Cascade Projectors\n• Enhancements: Augury Uplink (one per army) (Upgrade)\n\nWitchseeker Squad (60 Points)\n• 5x Witchseekers\n◦ 5x Flamer\n◦ 5x Gun Stock\n\nWitchseeker Squad (60 Points)\n• 5x Witchseekers\n◦ 5x Flamer\n◦ 5x Gun Stock",
+      "source": {
+        "title": "KGS War for Kirkcaldus II",
+        "url": "https://listhammer.info/events/04d32ca415371851fe",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Emperor's Children (Frenzied Host/Court of the Phoenician) - Purge the Foe - 3-0",
+      "faction": "Emperor's Children",
+      "detachments": [
+        "Frenzied Host",
+        "Court of the Phoenician"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "BBB Court/Frenzied Purge",
+      "listText": "BBB Court/Frenzied Purge (2,000 Points)\n\nEmperor's Children\nCourt of the Phoenician and Frenzied Host (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord Exultant (95 Points)\n• Attached as: Leader (Character)\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (175 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 9x Infractor\n• 1x Icon of Excess\n\nAttached unit 2\n\nLord Exultant (95 Points)\n• Attached as: Leader (Character)\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (175 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 9x Infractor\n• 1x Icon of Excess\n\nAttached unit 3\n\nLucius the Eternal (130 Points)\n• Attached as: Leader (Character)\n• Warlord\n\nFlawless Blades (95 Points)\n• Attached as: Bodyguard\n• 3x Flawless Blade\n\nCHARACTERS\n\nDaemon Prince of Slaanesh with Wings (205 Points)\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (70 Points)\n• 1x Combi-bolter\n• 1x Havoc launcher\n\nChaos Rhino (70 Points)\n• 1x Combi-bolter\n• 1x Havoc launcher\n\nOTHER DATASHEETS\n\nDefiler (330 Points)\n• 1x Ectoplasma destructor\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Two excruciator cannons\n\nFlawless Blades (190 Points)\n• 6x Flawless Blade\n\nMaulerfiend (120 Points)\n• 1x 2 magma cutters\n\nMaulerfiend (120 Points)\n• 1x 2 magma cutters\n\nMaulerfiend (130 Points)\n• 1x 2 magma cutters",
+      "source": {
+        "title": "KGS War for Kirkcaldus II",
+        "url": "https://listhammer.info/events/04d32ca415371851fe",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Tyranids (Invasion Fleet) - Priority Assets - 3-0",
+      "faction": "Tyranids",
+      "detachments": [
+        "Invasion Fleet"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "Kevin's back and he ain't happy about the cover change.",
+      "listText": "Kevin's back and he ain't happy about the cover change. (2000 points)\n\nTyranids\nInvasion Fleet (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTyranid Prime with Lash Whip (75 points)\n• Attached as: Leader (Character)\n• 1x Lash whip\n1x Rending claw\n1x Scything talons\n\nHormagaunts (120 points)\n• Attached as: Bodyguard (Battleline)\n• 20x Hormagaunt\n• 20x Hormagaunt talons\n\nAttached Unit 2\n\nTyranid Prime with Lash Whip (75 points)\n• Attached as: Leader (Character)\n• 1x Lash whip\n1x Rending claw\n1x Scything talons\n\nHormagaunts (120 points)\n• Attached as: Bodyguard (Battleline)\n• 20x Hormagaunt\n• 20x Hormagaunt talons\n\nCHARACTERS\n\nHive Tyrant (210 points)\n• Warlord\n• 1x Monstrous bonesword and lash whip\n1x Monstrous scything talons\n• Enhancement: Perfectly Adapted\n\nThe Red Terror (120 points)\n• 1x Gaping maw\n1x Scything talons\n\nBATTLELINE\n\nTermagants (55 points)\n• 10x Termagant\n• 10x Chitinous claws and teeth\n1x Strangleweb\n9x Termagant spinefists\n\nOTHER DATASHEETS\n\nBiovores (60 points)\n• 1x Chitin-barbed limbs\n1x Spore Mine launcher\n\nKevin the Exocrine (135 points)\n• 1x Bio-plasmic cannon\n1x Powerful limbs\n\nMaleceptor (180 points)\n• 1x Massive scything talons\n1x Psychic overload\n\nMaleceptor (180 points)\n• 1x Massive scything talons\n1x Psychic overload\n\nMaleceptor (190 points)\n• 1x Massive scything talons\n1x Psychic overload\n\nNeurolictor (80 points)\n• 1x Piercing claws and talons\n\nPsychophage (110 points)\n• 1x Psychoclastic torrent\n1x Talons and betentacled maw\n\nTyrannofex (180 points)\n• 1x Acid spray\n1x Powerful limbs\n1x Stinger salvoes\n\nVon Ryan’s Leapers (55 points)\n• 3x Von Ryan’s Leaper\n• 3x Leaper’s talons\n\nVon Ryan’s Leapers (55 points)\n• 3x Von Ryan’s Leaper\n• 3x Leaper’s talons",
+      "source": {
+        "title": "40k Oct Tournament - 11th ed.",
+        "url": "https://listhammer.info/events/0694a375b0c582b937",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Leagues of Votann (Dêlve Assault Shift/Farseekers) - Reconnaissance - 3-0",
+      "faction": "Leagues of Votann",
+      "detachments": [
+        "Dêlve Assault Shift",
+        "Farseekers"
+      ],
+      "forceDisposition": "Reconnaissance",
+      "listName": "\"Hello there\" he said poping out of the ground",
+      "listText": "\"Hello there\" he said poping out of the ground (1995 points)\n\nLeagues of Votann\nDêlve Assault Shift and Farseekers (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (180 points)\n• Attached as: Bodyguard (Battleline)\n• 10x Cthonian Beserk\n• 8x Heavy plasma axe\n2x Mole grenade launcher\n2x Twin concussion gauntlet\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (70 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dêlvewerke Navigator\n\nÛthar the Destined (100 points)\n• Warlord\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nBATTLELINE\n\nCthonian Beserks (180 points)\n• 10x Cthonian Beserk\n• 8x Concussion maul\n1x Mole grenade launcher\n2x Twin concussion gauntlet\n\nCthonian Beserks (180 points)\n• 10x Cthonian Beserk\n• 8x Heavy plasma axe\n1x Mole grenade launcher\n2x Twin concussion gauntlet\n\nCthonian Beserks (90 points)\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Twin concussion gauntlet\n\nCthonian Beserks (90 points)\n• 5x Cthonian Beserk\n• 4x Heavy plasma axe\n1x Twin concussion gauntlet\n\nCthonian Beserks (180 points)\n• 10x Cthonian Beserk\n• 8x Heavy plasma axe\n2x Mole grenade launcher\n2x Twin concussion gauntlet\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nOTHER DATASHEETS\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHernkyn Pioneers (85 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (85 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle",
+      "source": {
+        "title": "40k Oct Tournament - 11th ed.",
+        "url": "https://listhammer.info/events/0694a375b0c582b937",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "World Eaters (Berzerker Warband/Vessels of Wrath) - Purge the Foe - 3-0",
+      "faction": "World Eaters",
+      "detachments": [
+        "Berzerker Warband",
+        "Vessels of Wrath"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "KhorneHub",
+      "listText": "KhorneHub (2000 points)\n\nWorld Eaters\nBerzerker Warband and Vessels of Wrath (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSlaughterbound (125 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancement: Berzerker Glaive\n\nExalted Eightbound (130 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nAttached Unit 2\n\nKhârn the Betrayer (115 points)\n• Attached as: Leader (Character)\n• 1x Gorechild\n1x Plasma pistol\n\nKhorne Berzerkers (170 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Bolt pistol\n1x Chainblade\n1x Icon of Khorne\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 3\n\nLord Invocatus (100 points)\n• Attached as: Leader (Character)\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\nKhorne Berzerkers (170 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Bolt pistol\n1x Chainblade\n1x Icon of Khorne\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n2x Khornate eviscerator\n2x Plasma pistol\n\nCHARACTERS\n\nAngron (330 points)\n• Warlord\n• 1x Samni’arius and Spinegrinder\n\nSlaughterbound (90 points)\n• 1x Lacerator and daemonic claw\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\nOTHER DATASHEETS\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nForgefiend (155 points)\n• 3x Ectoplasma cannon\n1x Forgefiend claws\n\nForgefiend (155 points)\n• 3x Ectoplasma cannon\n1x Forgefiend claws\n\nGoremongers (70 points)\n• 1x Blood Herald\n• 1x Autopistol\n1x Chainblade\n1x Close combat weapon\n• 7x Goremongers\n• 7x Autopistol\n7x Chainblade\n7x Close combat weapon\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade",
+      "source": {
+        "title": "Cataclysm VOL2: WH40k RTT",
+        "url": "https://listhammer.info/events/1c13e13c8473bc8096",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Honoured Companions/Emperor's Chosen/Might of the Moritoi) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Honoured Companions",
+        "Emperor's Chosen",
+        "Might of the Moritoi"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "trajan and the boiiiis!!",
+      "listText": "trajan and the boiiiis!! (2000 points)\n\nAdeptus Custodes\nEmperor’s Chosen, Honoured Companions and Might of the Moritoi (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (265 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nAllarus Custodians (270 points)\n• Attached as: Bodyguard\n• 3x Allarus Custodians\n• 3x Balistus Grenade Launcher\n3x Castellan Axe\n1x Vexilla\n\nBATTLELINE\n\nCustodian Guard Sodality (255 points)\n• 3x Custodian Guard\n• 3x Guardian Spear\n1x Vexilla\n• Enhancement: Celeritous Sentries (Upgrade)\n\nCustodian Guard Sodality (255 points)\n• 3x Custodian Guard\n• 3x Guardian Spear\n1x Vexilla\n• Enhancement: Celeritous Sentries (Upgrade)\n\nOTHER DATASHEETS\n\nContemptor‑Achillus Dreadnought (230 points)\n• 1x Dreadspear\n2x Twin Infernus Incinerator\n\nContemptor‑Galatus Dreadnought (250 points)\n• 1x Warblade\n• Enhancement: Memento Moritoi (one per army) (Upgrade)\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nTelemon Heavy Dreadnought (310 points)\n• 1x Dual Caestus Fists\n1x Spiculus Bolt Launcher\n2x Twin Neutronium Cascade Projectors\n• Enhancement: Augury Uplink (one per army) (Upgrade)\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock",
+      "source": {
+        "title": "Cataclysm VOL2: WH40k RTT",
+        "url": "https://listhammer.info/events/1c13e13c8473bc8096",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "World Eaters (Berzerker Warband/Vessels of Wrath) - Purge the Foe - 3-0",
+      "faction": "World Eaters",
+      "detachments": [
+        "Berzerker Warband",
+        "Vessels of Wrath"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "RTT",
+      "listText": "RTT (1990 points)\n\nWorld Eaters\nBerzerker Warband and Vessels of Wrath (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSlaughterbound (125 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancement: Berzerker Glaive\n\nExalted Eightbound (130 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nAttached Unit 2\n\nKhârn the Betrayer (115 points)\n• Attached as: Leader (Character)\n• 1x Gorechild\n1x Plasma pistol\n\nKhorne Berzerkers (170 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Icon of Khorne\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 3\n\nLord on Juggernaut (125 points)\n• Attached as: Leader (Character)\n• 1x Bladed horn\n1x Exalted chainblade\n1x Plasma pistol\n• Enhancement: Archslaughterer\n\nKhorne Berzerkers (330 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Icon of Khorne\n1x Plasma pistol\n• 19x Khorne Berzerker\n• 15x Bolt pistol\n15x Chainblade\n4x Khornate eviscerator\n4x Plasma pistol\n\nCHARACTERS\n\nAngron (330 points)\n• Warlord\n• 1x Samni’arius and Spinegrinder\n\nSlaughterbound (90 points)\n• 1x Lacerator and daemonic claw\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\nOTHER DATASHEETS\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nForgefiend (155 points)\n• 3x Ectoplasma cannon\n1x Forgefiend claws\n\nForgefiend (155 points)\n• 3x Ectoplasma cannon\n1x Forgefiend claws\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade",
+      "source": {
+        "title": "Cataclysm VOL2: WH40k RTT",
+        "url": "https://listhammer.info/events/1c13e13c8473bc8096",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Leagues of Votann (Armoured Trailblazers/Brandfast Oathband) - Take and Hold - 3-0",
+      "faction": "Leagues of Votann",
+      "detachments": [
+        "Armoured Trailblazers",
+        "Brandfast Oathband"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "Get in bitch, We’re going shopping",
+      "listText": "Get in bitch, We’re going shopping (1,995 Points)\n\nLeagues of Votann\nArmoured Trailblazers and Brandfast Oathband (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nKâhl (75 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Autoch-pattern combi-bolter\n• 1x Forgewrought plasma axe\n• 1x Rampart Crest\n• Enhancements: Tactical Alchemy\n\nHearthkyn Warriors (90 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Theyn\n◦ 1x Autoch-pattern bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Theyn’s melee weapon\n◦ 1x Theyn’s pistol\n◦ 1x Weavefield crest\n• 9x Hearthkyn Warrior\n◦ 9x Autoch-pattern bolt pistol\n◦ 9x Close combat weapon\n◦ 1x HYLas auto rifle\n◦ 1x HYLas rotary cannon\n◦ 5x Ion blaster\n◦ 2x Plasma knife\n\nBATTLELINE\n\nHearthkyn Warriors (90 Points)\n• 1x Theyn\n◦ 1x Autoch-pattern bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Theyn’s melee weapon\n◦ 1x Theyn’s pistol\n◦ 1x Weavefield crest\n• 9x Hearthkyn Warrior\n◦ 9x Autoch-pattern bolt pistol\n◦ 9x Close combat weapon\n◦ 1x HYLas auto rifle\n◦ 1x HYLas rotary cannon\n◦ 5x Ion blaster\n◦ 2x Plasma knife\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 Points)\n• 1x Armoured hull\n• 1x Magna-coil autocannon\n• 1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 Points)\n• 1x Armoured hull\n• 1x Magna-coil autocannon\n• 1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 Points)\n• 1x Armoured hull\n• 1x Magna-coil autocannon\n• 1x Twin magna‑coil autocannon\n\nSagitaur (85 Points)\n• 1x Armoured wheels\n• 1x MATR autocannon\n• 1x Twin bolt cannon\n\nSagitaur (85 Points)\n• 1x Armoured wheels\n• 1x MATR autocannon\n• 1x Twin bolt cannon\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (170 Points)\n• 6x Brôkhyr Thunderkyn\n◦ 6x Close combat weapon\n◦ 6x SP conversion beamer\n\nBrôkhyr Thunderkyn (170 Points)\n• 6x Brôkhyr Thunderkyn\n◦ 6x Close combat weapon\n◦ 6x SP conversion beamer\n\nBrôkhyr Thunderkyn (180 Points)\n• 6x Brôkhyr Thunderkyn\n◦ 6x Close combat weapon\n◦ 6x Graviton blast cannon\n\nHekaton Land Fortress (250 Points)\n• 1x Armoured wheels\n• 1x Heavy magna-rail cannon\n• 1x MATR autocannon\n• 1x Panspectral Scanner\n• 2x Twin bolt cannon\n\nHernkyn Pioneers (85 Points)\n• 3x Hernkyn Pioneer\n◦ 3x Bolt revolver\n◦ 3x Bolt shotgun\n◦ 1x HYLas rotary cannon\n◦ 3x Magna-coil autocannon\n◦ 1x Multiwave Comms Array\n◦ 1x Panspectral Scanner\n◦ 3x Plasma knife\n\nHernkyn Pioneers (85 Points)\n• 3x Hernkyn Pioneer\n◦ 3x Bolt revolver\n◦ 3x Bolt shotgun\n◦ 1x HYLas rotary cannon\n◦ 3x Magna-coil autocannon\n◦ 1x Multiwave Comms Array\n◦ 1x Panspectral Scanner\n◦ 3x Plasma knife\n\nHernkyn Yaegirs (90 Points)\n• 1x Yaegir Theyn\n◦ 1x Bolt shotgun\n◦ 1x Close combat weapon\n• 9x Hernkyn Yaegir\n◦ 1x APM launcher\n◦ 7x Bolt shotgun\n◦ 9x Close combat weapon\n◦ 1x Magna-coil rifle\n\nHernkyn Yaegirs (90 Points)\n• 1x Yaegir Theyn\n◦ 1x Bolt shotgun\n◦ 1x Close combat weapon\n• 9x Hernkyn Yaegir\n◦ 1x APM launcher\n◦ 7x Bolt shotgun\n◦ 9x Close combat weapon\n◦ 1x Magna-coil rifle\n\nHernkyn Yaegirs (90 Points)\n• 1x Yaegir Theyn\n◦ 1x Bolt shotgun\n◦ 1x Close combat weapon\n• 9x Hernkyn Yaegir\n◦ 1x APM launcher\n◦ 7x Bolt shotgun\n◦ 9x Close combat weapon\n◦ 1x Magna-coil rifle\n\nIronkin Steeljacks with Melee Weapons (75 Points)\n• 1x Steeljack Theyn\n◦ 1x Autoch-pattern bolter\n◦ 1x Plasma sword\n◦ 1x Preymark Crest\n• 2x Ironkin Steeljack\n◦ 2x Autoch-pattern bolter\n◦ 2x Plasma sword\n\nIronkin Steeljacks with Melee Weapons (75 Points)\n• 1x Steeljack Theyn\n◦ 1x Autoch-pattern bolter\n◦ 1x Plasma sword\n◦ 1x Preymark Crest\n• 2x Ironkin Steeljack\n◦ 2x Autoch-pattern bolter\n◦ 2x Plasma sword",
+      "source": {
+        "title": "HARVEST OF THE DAMNED",
+        "url": "https://listhammer.info/events/23d2d5a20676511034",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Might of the Moritoi/Lions of the Emperor/Solar Watch) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Might of the Moritoi",
+        "Lions of the Emperor",
+        "Solar Watch"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "hammer of Ancients",
+      "listText": "hammer of Ancients (2000 points)\n\nAdeptus Custodes\nLions of the Emperor, Might of the Moritoi and Solar Watch (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (265 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nAllarus Custodians (270 points)\n• Attached as: Bodyguard\n• 3x Allarus Custodians\n• 3x Balistus Grenade Launcher\n3x Guardian Spear\n1x Vexilla\n\nOTHER DATASHEETS\n\nCaladius Annihilator Grav‑Tank (250 points)\n• 1x Arachnus Blaze Carronade\n1x Armoured Hull\n1x Twin Lastrum Bolt Cannon\n\nContemptor‑Galatus Dreadnought (250 points)\n• 1x Warblade\n• Enhancement: Memento Moritoi (one per army) (Upgrade)\n\nContemptor‑Galatus Dreadnought (220 points)\n• 1x Warblade\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nTelemon Heavy Dreadnought (310 points)\n• 1x Dual Caestus Fists\n1x Spiculus Bolt Launcher\n2x Twin Neutronium Cascade Projectors\n• Enhancement: Augury Uplink (one per army) (Upgrade)\n\nVenatari with Verutum Lances (270 points)\n• 3x Venatari\n• 3x Verutum Lance\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock",
+      "source": {
+        "title": "HARVEST OF THE DAMNED",
+        "url": "https://listhammer.info/events/23d2d5a20676511034",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Emperor's Chosen/Might of the Moritoi/Lions of the Emperor) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Emperor's Chosen",
+        "Might of the Moritoi",
+        "Lions of the Emperor"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "Just let me touch you. Just a little.",
+      "listText": "Just let me touch you. Just a little. (2000 points)\n\nAdeptus Custodes\nEmperor’s Chosen, Lions of the Emperor and Might of the Moritoi (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (265 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nAllarus Custodians (270 points)\n• Attached as: Bodyguard\n• 3x Allarus Custodians\n• 3x Balistus Grenade Launcher\n3x Guardian Spear\n1x Vexilla\n\nOTHER DATASHEETS\n\nCaladius Annihilator Grav‑Tank (250 points)\n• 1x Arachnus Blaze Carronade\n1x Armoured Hull\n1x Twin Lastrum Bolt Cannon\n\nCaladius Annihilator Grav‑Tank (250 points)\n• 1x Arachnus Blaze Carronade\n1x Armoured Hull\n1x Twin Lastrum Bolt Cannon\n\nContemptor‑Galatus Dreadnought (220 points)\n• 1x Warblade\n\nContemptor‑Galatus Dreadnought (220 points)\n• 1x Warblade\n\nProsecutor Squad (50 points)\n• 5x Prosecutors\n• 5x Boltgun\n5x Gun Stock\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nTelemon Heavy Dreadnought (310 points)\n• 1x Dual Caestus Fists\n1x Spiculus Bolt Launcher\n2x Twin Neutronium Cascade Projectors\n• Enhancement: Augury Uplink (one per army) (Upgrade)\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock",
+      "source": {
+        "title": "The Mythic Forge Nov Rtt",
+        "url": "https://listhammer.info/events/2ab8ec38307e8d3e49",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Death Guard (Contagion Engines/Champions of Contagion) - Take and Hold - 3-0",
+      "faction": "Death Guard",
+      "detachments": [
+        "Contagion Engines",
+        "Champions of Contagion"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "Chaos ‘n’ Carnage",
+      "listText": "Chaos ‘n’ Carnage (1,975 Points)\n\nDeath Guard\nChampions of Contagion and Contagion Engines (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord of Contagion (110 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Manreaper\n\nDeathshroud Terminators (150 Points)\n• Attached as: Bodyguard\n• 1x Deathshroud Champion\n◦ 1x Manreaper\n◦ 1x Plaguespurt gauntlet\n• 2x Deathshroud Terminator\n◦ 2x Manreaper\n◦ 2x Plaguespurt gauntlet\n\nAttached unit 2\n\nTyphus (90 Points)\n• Attached as: Leader (Character)\n• 1x Lakrimae\n\nDeathshroud Terminators (150 Points)\n• Attached as: Bodyguard\n• 1x Deathshroud Champion\n◦ 1x Manreaper\n◦ 1x Plaguespurt gauntlet\n• 2x Deathshroud Terminator\n◦ 2x Manreaper\n◦ 2x Plaguespurt gauntlet\n\nAttached unit 3\n\nMalignant Plaguecaster (60 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Corrupted staff\n• 1x Plague Wind\n\nBiologus Putrifier (60 Points)\n• Attached as: Leader (Character)\n• 1x Hyper blight grenades\n• 1x Injector pistol\n• 1x Plague knives\n\nPlague Marines (175 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Plague Champion\n◦ 1x Plasma gun\n◦ 1x Power fist\n• 9x Plague Marine\n◦ 2x Bubotic weapons\n◦ 4x Heavy plague weapon\n◦ 2x Meltagun\n◦ 9x Plague knives\n◦ 1x Plague spewer\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n\nOTHER DATASHEETS\n\nFoetid Bloat-Drone (100 Points)\n• 1x Fleshmower\n• 1x Plague probe\n\nFoetid Bloat-Drone with Heavy Blight Launcher (125 Points)\n• 1x Heavy blight launcher\n• 1x Plague probe\n\nFoetid Bloat-Drone with Heavy Blight Launcher (125 Points)\n• 1x Heavy blight launcher\n• 1x Plague probe\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\nPlagueburst Crawler (170 Points)\n• 1x Armoured tracks\n• 2x Entropy cannon\n• 1x Heavy slugger\n• 1x Plagueburst mortar\n\nPlagueburst Crawler (170 Points)\n• 1x Armoured tracks\n• 2x Entropy cannon\n• 1x Heavy slugger\n• 1x Plagueburst mortar\n\nPoxwalkers (65 Points)\n• 10x Poxwalker\n◦ 10x Improvised weapon\n\nPoxwalkers (65 Points)\n• 10x Poxwalker\n◦ 10x Improvised weapon",
+      "source": {
+        "title": "Partisan Games 40K RTT 1st November",
+        "url": "https://listhammer.info/events/339be7cfb2da277a9b",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Space Marines (Astartes) (Terminator Storm Force/Deathwatch Support/Assault Brethren) - Priority Assets - 3-0",
+      "faction": "Space Marines (Astartes)",
+      "detachments": [
+        "Terminator Storm Force",
+        "Deathwatch Support",
+        "Assault Brethren"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "Reiver Fever",
+      "listText": "Reiver Fever (1995 points)\n\nSpace Marines\nUltramarines\nAssault Brethren, Deathwatch Support and Terminator Storm Force (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nMarneus Calgar (180 points)\n• Attached as: Leader (Character)\n• 1x Gauntlets of Ultramar\n\nKaius Konorius (100 points)\n• Attached as: Support (Character)\n• 1x Heavy Bolt Pistol\n1x Severance and Rebuke\n\nVictrix Honour Guard (145 points)\n• Attached as: Bodyguard\n• Enhancement: Furious Assault (Upgrade)\n• 1x Chapter Champion\n• 1x Blades of Honour\n• 1x Chapter Ancient\n• 1x Banner of Macragge\n1x Master-crafted Bolt Carbine\n1x Master-crafted Power Weapon\n• 1x Victrix Honour Guard\n• 1x Master-crafted Bolt Carbine\n1x Master-crafted Power Weapon\n\nCHARACTERS\n\nCompany Heroes (145 points)\n• 1x Company Champion\n• 1x Master-crafted Bolt Pistol\n1x Master-crafted Power Weapon\n• 1x Company veteran with bolt rifle\n• 1x Combat Knife\n1x Master-crafted Bolt Pistol\n1x Master-crafted Bolt Rifle\n• 1x Ancient\n• 1x Combat Knife\n1x Master-crafted Bolt Pistol\n1x Master-crafted Bolt Rifle\n• Enhancement: Imperium’s Sword\n• 1x Company Veteran with heavy bolter\n• 1x Combat Knife\n1x Master-crafted Bolt Pistol\n1x Master-crafted Heavy Bolter\n\nLieutenant with Combi-weapon (85 points)\n• 1x Combi-weapon\n1x Paired Combat Blades\n\nRoboute Guilliman (415 points)\n• Warlord\n• 1x Emperor’s Sword\n1x Hand of Dominion\n\nOTHER DATASHEETS\n\nDeathwatch Terminator Squad (200 points)\n• 1x Deathwatch Terminator Sergeant\n• 1x Storm Shield\n1x Thunder Hammer\n• 4x Deathwatch Terminator\n• 3x Plasma Cannon\n3x Power Fist\n1x Storm Shield\n1x Thunder Hammer\n\nDeathwatch Terminator Squad (200 points)\n• 1x Deathwatch Terminator Sergeant\n• 1x Storm Shield\n1x Thunder Hammer\n• 4x Deathwatch Terminator\n• 3x Chainfist\n3x Plasma Cannon\n1x Storm Shield\n1x Thunder Hammer\n\nReiver Squad (85 points)\n• 1x Grapnel Launchers\n1x Grav-chutes\n• 1x Reiver Sergeant\n• 1x Bolt Carbine\n1x Monomolecular Combat Knife\n1x Special-issue Bolt Pistol\n• 4x Reiver\n• 4x Bolt Carbine\n4x Monomolecular Combat Knife\n4x Special-issue Bolt Pistol\n\nReiver Squad (85 points)\n• 1x Grapnel Launchers\n1x Grav-chutes\n• 1x Reiver Sergeant\n• 1x Bolt Carbine\n1x Monomolecular Combat Knife\n1x Special-issue Bolt Pistol\n• 4x Reiver\n• 4x Bolt Carbine\n4x Monomolecular Combat Knife\n4x Special-issue Bolt Pistol\n\nReiver Squad (85 points)\n• 1x Grapnel Launchers\n1x Grav-chutes\n• 1x Reiver Sergeant\n• 1x Bolt Carbine\n1x Monomolecular Combat Knife\n1x Special-issue Bolt Pistol\n• 4x Reiver\n• 4x Bolt Carbine\n4x Monomolecular Combat Knife\n4x Special-issue Bolt Pistol\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt Pistol\n1x Boltgun\n1x Combat Knife\n• 4x Scout\n• 4x Bolt Pistol\n2x Boltgun\n4x Combat Knife\n1x Missile Launcher\n1x Sniper Rifle\n\nTerminator Assault Squad (205 points)\n• Enhancement: Furious Assault (Upgrade)\n• 1x Terminator Sergeant\n• 1x Storm Shield\n1x Thunder Hammer\n• 4x Terminator\n• 4x Storm Shield\n4x Thunder Hammer",
+      "source": {
+        "title": "BFS Autumn RTT 11th Edition",
+        "url": "https://listhammer.info/events/4730a2036af791cf4b",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "World Eaters (Goretrack Onslaught/Vessels of Wrath) - Priority Assets - 3-0",
+      "faction": "World Eaters",
+      "detachments": [
+        "Goretrack Onslaught",
+        "Vessels of Wrath"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "Start your engines",
+      "listText": "Start your engines (1,995 Points)\n\nWorld Eaters\nGoretrack Onslaught and Vessels of Wrath (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nKhârn the Betrayer (115 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n• 1x Plasma pistol\n\nKhorne Berzerkers (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nAttached unit 2\n\nSlaughterbound (90 Points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (130 Points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nAttached unit 3\n\nMaster of Executions (65 Points)\n• Attached as: Leader (Character)\n• 1x Axe of dismemberment\n• 1x Bolt pistol\n• Enhancements: Murderous Onslaught\n\nKhorne Berzerkers (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nAttached unit 4\n\nMaster of Executions (60 Points)\n• Attached as: Leader (Character)\n• 1x Axe of dismemberment\n• 1x Bolt pistol\n\nKhorne Berzerkers (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nCHARACTERS\n\nDaemon Prince of Khorne (210 Points)\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: Gateways to Glory\n\nMaster of Executions (80 Points)\n• 1x Axe of dismemberment\n• 1x Bolt pistol\n• Enhancements: Aggressive Deployment\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-bolter\n• 1x Havoc launcher\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-bolter\n• 1x Havoc launcher\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-bolter\n• 1x Havoc launcher\n\nOTHER DATASHEETS\n\nForgefiend (155 Points)\n• 2x Ectoplasma cannon\n• 1x Ectoplasma cannon\n• 1x Forgefiend claws\n\nForgefiend (155 Points)\n• 2x Ectoplasma cannon\n• 1x Ectoplasma cannon\n• 1x Forgefiend claws\n\nGoremongers (70 Points)\n• 1x Blood Herald\n◦ 1x Autopistol\n◦ 1x Chainblade\n◦ 1x Close combat weapon\n• 7x Goremongers\n◦ 7x Autopistol\n◦ 7x Chainblade\n◦ 7x Close combat weapon\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Paired manglers\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 8x Chainblades\n◦ 1x Icon of Khorne\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Paired manglers\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 8x Chainblades\n◦ 1x Icon of Khorne",
+      "source": {
+        "title": "BFS Autumn RTT 11th Edition",
+        "url": "https://listhammer.info/events/4730a2036af791cf4b",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Leagues of Votann (Needgaârd Oathband/Hearthguard Covenant) - Priority Assets - 3-0",
+      "faction": "Leagues of Votann",
+      "detachments": [
+        "Needgaârd Oathband",
+        "Hearthguard Covenant"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "Buri's ankle biters",
+      "listText": "Buri's ankle biters (1995 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (90 points)\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Heavy plasma axe\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\nEinhyr Champion (80 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern combi-bolter\n1x Mass hammer\n1x Teleport Crest\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 3\n\nKâhl (95 points)\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: Oathbound Speculator\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dead Reckoning\n\nÛthar the Destined (100 points)\n• Warlord\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nBATTLELINE\n\nHearthkyn Warriors (90 points)\n• 1x Theyn\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n1x Ion blaster\n1x Theyn’s melee weapon\n1x Weavefield crest\n• 9x Hearthkyn Warrior\n• 9x Autoch-pattern bolt pistol\n7x Autoch-pattern bolter\n9x Close combat weapon\n1x HYLas auto rifle\n1x Magna-rail rifle\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nSagitaur (85 points)\n• 1x Armoured wheels\n1x HYLas beam cannon\n1x Twin bolt cannon\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (170 points)\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x Graviton blast cannon\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x MATR autocannon\n1x Panspectral Scanner\n1x SP heavy conversion beamer\n2x Twin bolt cannon\n\nHernkyn Pioneers (85 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (85 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle",
+      "source": {
+        "title": "BFS Autumn RTT 11th Edition",
+        "url": "https://listhammer.info/events/4730a2036af791cf4b",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Tyranids (Synaptic Nexus/Talons of the Norn Queen) - Take and Hold - 3-0",
+      "faction": "Tyranids",
+      "detachments": [
+        "Synaptic Nexus",
+        "Talons of the Norn Queen"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listText": "Synaptic Nexus and Talons of the Norn Queen (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nNeurotyrant (130 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Neurotyrant claws and lashes\n• 1x Psychic scream\n• Enhancements: Power of the Hive Mind\n\nZoanthropes (90 Points)\n• Attached as: Bodyguard\n• 1x Neurothrope\n◦ 1x Chitinous claws and teeth\n◦ 1x Warp Blast\n• 2x Zoanthrope\n◦ 2x Chitinous claws and teeth\n◦ 2x Warp Blast\n\nCHARACTERS\n\nHyperadapted Raveners (180 Points)\n• 1x Ravener Prime\n◦ 1x Prime claws and talons\n◦ Enhancements: The Dirgeheart of Kharis (Aura)\n• 4x Raveners\n◦ 4x Ravener heavy claws and talons\n◦ 1x Venom bolt\n\nBATTLELINE\n\nGargoyles (75 Points)\n• 10x Gargoyle\n◦ 10x Blinding venom\n◦ 10x Fleshborer\n\nOTHER DATASHEETS\n\nBarbgaunts (50 Points)\n• 5x Barbgaunt\n◦ 5x Barblauncher\n◦ 5x Chitinous claws and teeth\n\nBiovores (60 Points)\n• 1x Chitin-barbed limbs\n• 1x Spore Mine launcher\n\nExocrine (135 Points)\n• 1x Bio-plasmic cannon\n• 1x Powerful limbs\n\nExocrine (135 Points)\n• 1x Bio-plasmic cannon\n• 1x Powerful limbs\n\nMaleceptor (180 Points)\n• 1x Massive scything talons\n• 1x Psychic overload\n\nMaleceptor (180 Points)\n• 1x Massive scything talons\n• 1x Psychic overload\n\nNeurolictor (80 Points)\n• 1x Piercing claws and talons\n\nNorn Emissary (270 Points)\n• 1x Monstrous rending claws\n• 1x Monstrous scything talons\n• 1x Psychic Tendril\n• Enhancements: Destabilising Predation (Upgrade)\n\nRipper Swarms (30 Points)\n• 1x Chitinous claws and teeth\n\nScreamer-Killer (125 Points)\n• 1x Bio-plasmic scream\n• 1x Screamer-Killer talons\n\nTyrannofex (190 Points)\n• 1x Powerful limbs\n• 1x Rupture cannon\n• 1x Stinger salvoes\n\nZoanthropes (90 Points)\n• 1x Neurothrope\n◦ 1x Chitinous claws and teeth\n◦ 1x Warp Blast\n• 2x Zoanthrope\n◦ 2x Chitinous claws and teeth\n◦ 2x Warp Blast",
+      "source": {
+        "title": "BFS Autumn RTT 11th Edition",
+        "url": "https://listhammer.info/events/4730a2036af791cf4b",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Space Marines (Astartes) (Ceramite Sentinels/Assault Brethren) - Take and Hold - 3-0",
+      "faction": "Space Marines (Astartes)",
+      "detachments": [
+        "Ceramite Sentinels",
+        "Assault Brethren"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "! WCW (Copy)",
+      "listText": "! WCW (Copy) (2,000 Points)\n\nSpace Marines\nImperial Fists\nAssault Brethren and Ceramite Sentinels (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nDarnath Lysander (160 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Fist of Dorn\n\nAncient in Terminator Armour (85 Points)\n• Attached as: Support (Character)\n• 1x Master-crafted Power Weapon\n• 1x Storm Bolter\n• Enhancements: Defensive Mastery\n\nTerminator Assault Squad (390 Points)\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n◦ 1x Storm Shield\n◦ 1x Thunder Hammer\n• 9x Terminator\n◦ 9x Storm Shield\n◦ 9x Thunder Hammer\n\nAttached unit 2\n\nApothecary (65 Points)\n• Attached as: Support (Character)\n• 1x Absolvor Bolt Pistol\n• 1x Reductor Pistol\n• 1x Servo-armature\n• Enhancements: Imperium’s Sword\n\nBladeguard Veteran Squad (180 Points)\n• Attached as: Bodyguard\n• 1x Bladeguard Veteran Sergeant\n◦ 1x Master-crafted Power Sword\n◦ 1x Neo-volkite Pistol\n• 5x Bladeguard Veteran\n◦ 5x Heavy Bolt Pistol\n◦ 5x Master-crafted Power Sword\n\nAttached unit 3\n\nTor Garadon (90 Points)\n• Attached as: Leader (Character)\n• 1x Artificer Grav-gun\n• 1x Hand of Defiance\n\nEradicator Squad with heavy bolters (215 Points)\n• Attached as: Bodyguard\n• 5x Eradicator\n◦ 5x Bolt Pistol\n◦ 5x Ceramite Fists\n◦ 5x Heavy Bolter\n• 1x Eradicator Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Ceramite Fists\n◦ 1x Heavy Bolter\n\nDEDICATED TRANSPORTS\n\nImpulsor (70 Points)\n• 1x Armoured Hull\n• 1x Fragstorm Grenade Launchers\n• 1x Ironhail Heavy Stubber\n• 1x Shield Dome\n\nOTHER DATASHEETS\n\nEradicator Squad with melta rifles (100 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Ceramite Fists\n◦ 1x Melta Rifle\n• 2x Eradicator\n◦ 2x Bolt Pistol\n◦ 2x Ceramite Fists\n◦ 1x Melta Rifle\n◦ 1x Multi-melta\n\nEradicator Squad with melta rifles (100 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Ceramite Fists\n◦ 1x Melta Rifle\n• 2x Eradicator\n◦ 2x Bolt Pistol\n◦ 2x Ceramite Fists\n◦ 1x Melta Rifle\n◦ 1x Multi-melta\n\nLand Raider Redeemer (245 Points)\n• 1x Armoured Tracks\n• 2x Flamestorm Cannon\n• 1x Hunter-killer Missile\n• 1x Multi-melta\n• 1x Storm Bolter\n• 1x Twin Assault Cannon\n\nLand Speeder (105 Points)\n• 1x Armoured Impact\n• 1x Multi-melta\n• 1x Onslaught Gatling Cannon\n• 1x Stormfury Missile Launcher\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Boltgun\n◦ 1x Chainsword\n• 4x Scout\n◦ 4x Bolt Pistol\n◦ 3x Boltgun\n◦ 4x Combat Knife\n◦ 1x Heavy Bolter\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Boltgun\n◦ 1x Chainsword\n• 4x Scout\n◦ 4x Bolt Pistol\n◦ 3x Boltgun\n◦ 4x Combat Knife\n◦ 1x Missile Launcher\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Boltgun\n◦ 1x Chainsword\n• 4x Scout\n◦ 4x Bolt Pistol\n◦ 3x Boltgun\n◦ 4x Combat Knife\n◦ 1x Missile Launcher",
+      "source": {
+        "title": "Copper City Clash November 26",
+        "url": "https://listhammer.info/events/536e2afe81ab341f60",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "World Eaters (Khorne Daemonkin/Vessels of Wrath) - Priority Assets - 3-0",
+      "faction": "World Eaters",
+      "detachments": [
+        "Khorne Daemonkin",
+        "Vessels of Wrath"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "Can’t nobody rock it like the little old me",
+      "listText": "Can’t nobody rock it like the little old me (2,000 Points)\n\nWorld Eaters\nKhorne Daemonkin and Vessels of Wrath (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord on Juggernaut (110 Points)\n• Attached as: Leader (Character)\n• 1x Bladed horn\n• 1x Exalted chainblade\n• 1x Plasma pistol\n• Enhancements: Disciple of Khorne\n\nKhorne Berzerkers (330 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 19x Khorne Berzerker\n◦ 15x Bolt pistol\n◦ 15x Chainblade\n◦ 1x Icon of Khorne\n◦ 4x Khornate eviscerator\n◦ 4x Plasma pistol\n\nCHARACTERS\n\nAngron (330 Points)\n• Warlord\n• 1x Samni’arius and Spinegrinder\n\nBloodthirster (320 Points)\n• 1x Great axe of Khorne\n• 1x Hellfire breath\n\nDaemon Prince of Khorne (230 Points)\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: Blade of Endless Bloodshed\n\nMaster of Executions (80 Points)\n• 1x Axe of dismemberment\n• 1x Bolt pistol\n• Enhancements: Blood-Forged Armour\n\nSkarbrand (315 Points)\n• 1x Bellow of endless fury\n• 1x Slaughter and Carnage\n\nOTHER DATASHEETS\n\nFlesh Hounds (75 Points)\n• 1x Gore Hound\n◦ 1x Burning roar\n◦ 1x Collar of Khorne\n◦ 1x Gore-drenched fangs\n• 4x Flesh Hound\n◦ 4x Collar of Khorne\n◦ 4x Gore-drenched fangs\n\nFlesh Hounds (75 Points)\n• 1x Gore Hound\n◦ 1x Burning roar\n◦ 1x Collar of Khorne\n◦ 1x Gore-drenched fangs\n• 4x Flesh Hound\n◦ 4x Collar of Khorne\n◦ 4x Gore-drenched fangs\n\nGoremongers (70 Points)\n• 1x Blood Herald\n◦ 1x Autopistol\n◦ 1x Chainblade\n◦ 1x Close combat weapon\n• 7x Goremongers\n◦ 7x Autopistol\n◦ 1x Blood harpoon\n◦ 6x Chainblade\n◦ 7x Close combat weapon\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade",
+      "source": {
+        "title": "Copper City Clash November 26",
+        "url": "https://listhammer.info/events/536e2afe81ab341f60",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Space Marines (Astartes) (Terminator Storm Force/Deathwatch Support/Assault Brethren) - Take and Hold - 3-0",
+      "faction": "Space Marines (Astartes)",
+      "detachments": [
+        "Terminator Storm Force",
+        "Deathwatch Support",
+        "Assault Brethren"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "Did someone say blobs?",
+      "listText": "Did someone say blobs? (2,000 Points)\n\nSpace Marines\nUltramarines\nAssault Brethren, Deathwatch Support and Terminator Storm Force (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nMarneus Calgar (180 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gauntlets of Ultramar\n\nWardens of Ultramar (115 Points)\n• Attached as: Support\n• 1x Veteran Sergeant Metaurus\n◦ 1x Heavy Bolt Pistol\n◦ 1x Master-crafted Power Weapon\n• 1x Ancient Gadriel\n◦ 1x Bolt Rifle\n◦ 1x Ceramite Fists\n• 1x Gaius Silva\n◦ 1x Archeotech Laspistol\n◦ 1x Power Weapon\n• 1x Dainal Komelius\n◦ 1x Astropathic Blast\n◦ 1x Force Stave\n• 1x Aemelia Minervas\n◦ 1x Archeotech Laspistol\n◦ 1x Power Weapon\n• 1x Lucia Vestha\n◦ 1x Archeotech Laspistol\n◦ 1x Ultramarian Combat Weapons\n\nBladeguard Veteran Squad (190 Points)\n• Attached as: Bodyguard\n• Enhancements: Furious Assault (Upgrade)\n• 1x Bladeguard Veteran Sergeant\n◦ 1x Heavy Bolt Pistol\n◦ 1x Master-crafted Power Sword\n• 5x Bladeguard Veteran\n◦ 5x Heavy Bolt Pistol\n◦ 5x Master-crafted Power Sword\n\nAttached unit 2\n\nChaplain on Bike (95 Points)\n• Attached as: Leader (Character)\n• 1x Absolvor Bolt Pistol\n• 1x Crozius Arcanum\n• 1x Twin Bolt Rifle\n• Enhancements: Imperium’s Sword\n\nOutrider Squad (80 Points)\n• Attached as: Bodyguard\n• 2x Outrider\n◦ 2x Chainsword\n◦ 2x Heavy Bolt Pistol\n◦ 2x Twin Bolt Rifle\n• 1x Outrider Sergeant\n◦ 1x Chainsword\n◦ 1x Heavy Bolt Pistol\n◦ 1x Twin Bolt Rifle\n\nAttached unit 3\n\nAncient in Terminator Armour (75 Points)\n• Attached as: Support (Character)\n• 1x Master-crafted Power Weapon\n• 1x Storm Bolter\n\nTerminator Assault Squad (385 Points)\n• Attached as: Bodyguard\n• Enhancements: Furious Assault (Upgrade)\n• 1x Terminator Sergeant\n◦ 1x Twin Lightning Claws\n• 9x Terminator\n◦ 7x Storm Shield\n◦ 7x Thunder Hammer\n◦ 2x Twin Lightning Claws\n\nDEDICATED TRANSPORTS\n\nImpulsor (70 Points)\n• 1x Armoured Hull\n• 1x Storm Bolters\n\nOTHER DATASHEETS\n\nEradicator Squad with melta rifles (100 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Ceramite Fists\n◦ 1x Melta Rifle\n• 2x Eradicator\n◦ 2x Bolt Pistol\n◦ 2x Ceramite Fists\n◦ 2x Melta Rifle\n\nIncursor Squad (90 Points)\n• 4x Incursor\n◦ 4x Bolt Pistol\n◦ 4x Occulus Bolt Carbine\n◦ 4x Paired Combat Blades\n• 1x Incursor Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Occulus Bolt Carbine\n◦ 1x Paired Combat Blades\n\nReiver Squad (85 Points)\n• 1x Grapnel Launchers\n• 1x Grav-chutes\n• 1x Reiver Sergeant\n◦ 1x Bolt Carbine\n◦ 1x Monomolecular Combat Knife\n◦ 1x Special-issue Bolt Pistol\n• 4x Reiver\n◦ 4x Bolt Carbine\n◦ 4x Monomolecular Combat Knife\n◦ 4x Special-issue Bolt Pistol\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Bolt Pistol\n◦ 1x Boltgun\n◦ 1x Chainsword\n• 4x Scout\n◦ 4x Bolt Pistol\n◦ 2x Boltgun\n◦ 4x Combat Knife\n◦ 1x Missile Launcher\n◦ 1x Sniper Rifle\n\nALLIED UNITS\n\nDeathwatch Terminator Squad (190 Points)\n• 1x Deathwatch Terminator Sergeant\n◦ 1x Chainfist\n◦ 1x Storm Bolter\n• 4x Deathwatch Terminator\n◦ 4x Chainfist\n◦ 3x Plasma Cannon\n◦ 1x Storm Bolter\n\nIndomitor Kill Team (280 Points)\n• 4x Kill Team Heavy Intercessor with Deathwatch Heavy Bolt Rifle and Ceramite Fists.\n◦ 4x Ceramite Fists\n◦ 2x Deathwatch Heavy Bolt Rifle\n◦ 2x Deathwatch Heavy Bolter\n• 3x Kill Team Heavy Intercessor with Flamestorm Gauntlets and Twin Power Fists\n◦ 3x Flamestorm Gauntlets\n◦ 3x Twin Power Fists\n• 3x Kill Team Heavy Intercessor with Melta Rifle, Bolt Pistol and Ceramite Fists\n◦ 3x Bolt Pistol\n◦ 3x Ceramite Fists\n◦ 2x Melta Rifle\n◦ 1x Multi-melta",
+      "source": {
+        "title": "Brawlers Gambit RTT #1",
+        "url": "https://listhammer.info/events/5a37787a56a79fa1fc",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Chaos Daemons (Blood Legion/Cavalcade of Chaos) - Purge the Foe - 3-0",
+      "faction": "Chaos Daemons",
+      "detachments": [
+        "Blood Legion",
+        "Cavalcade of Chaos"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "Carl is a dick",
+      "listText": "Carl is a dick (2000 points)\n\nChaos Daemons\nBlood Legion and Cavalcade of Chaos (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSkullmaster (100 points)\n• Attached as: Leader (Character)\n• 1x Blade of blood\n1x Juggernaut’s bladed horn\n• Enhancement: Brazenmaw\n\nBloodcrushers (210 points)\n• Attached as: Bodyguard\n• 1x Bloodhunter\n• 1x Hellblade\n1x Juggernaut’s bladed horn\n• 5x Bloodcrusher\n• 1x Daemonic Icon\n5x Hellblade\n1x Instrument of Chaos\n5x Juggernaut’s bladed horn\n\nAttached Unit 2\n\nSkullmaster (110 points)\n• Attached as: Leader (Character)\n• 1x Blade of blood\n1x Juggernaut’s bladed horn\n• Enhancement: Slaughterthirst (Aura)\n\nBloodcrushers (210 points)\n• Attached as: Bodyguard\n• 1x Bloodhunter\n• 1x Hellblade\n1x Juggernaut’s bladed horn\n• 5x Bloodcrusher\n• 1x Daemonic Icon\n5x Hellblade\n1x Instrument of Chaos\n5x Juggernaut’s bladed horn\n\nCHARACTERS\n\nBloodthirster (340 points)\n• 1x Great axe of Khorne\n1x Hellfire breath\n• Enhancement: Fury’s Cage\n\nRendmaster on Blood Throne (160 points)\n• Warlord\n• 1x Attendants’ hellblades\n1x Blade of blood\n\nSkarbrand (330 points)\n• 1x Bellow of endless fury\n1x Slaughter and Carnage\n\nOTHER DATASHEETS\n\nFlesh Hounds (80 points)\n• 1x Gore Hound\n• 1x Burning roar\n1x Collar of Khorne\n1x Gore-drenched fangs\n• 4x Flesh Hound\n• 4x Collar of Khorne\n4x Gore-drenched fangs\n\nFlesh Hounds (80 points)\n• 1x Gore Hound\n• 1x Burning roar\n1x Collar of Khorne\n1x Gore-drenched fangs\n• 4x Flesh Hound\n• 4x Collar of Khorne\n4x Gore-drenched fangs\n\nALLIED UNITS\n\nKnight Despoiler (380 points)\n• 2x Despoiler battle cannon\n3x Diabolus heavy stubber\n1x Ruinspear rocket pod\n1x Titanic feet",
+      "source": {
+        "title": "Brawlers Gambit RTT #1",
+        "url": "https://listhammer.info/events/5a37787a56a79fa1fc",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Chaos Knights (Houndpack Lance/Hunting Warpack) - Reconnaissance - 3-0",
+      "faction": "Chaos Knights",
+      "detachments": [
+        "Houndpack Lance",
+        "Hunting Warpack"
+      ],
+      "forceDisposition": "Reconnaissance",
+      "listName": "The Hangover",
+      "listText": "The Hangover (1990 points)\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nCHARACTERS\n\nWar Dog Brigand (135 points)\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Havoc multi-launcher\n\nWar Dog Karnivore (165 points)\n• Houndpack Lance Keyword: Character\n• 1x Havoc multi-launcher\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: Final Howl (Aura)\n\nWar Dog Karnivore (160 points)\n• Houndpack Lance Keyword: Character\n• 1x Havoc multi-launcher\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: Preyslayer’s Mantle\n\nBATTLELINE\n\nWar Dog Brigand (135 points)\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Havoc multi-launcher\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Diabolus heavy stubber\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Huntsman (135 points)\n• 1x Daemonbreath meltagun\n1x Daemonbreath spear\n1x Reaper chaintalon\n\nWar Dog Karnivore (145 points)\n• 1x Havoc multi-launcher\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Havoc multi-launcher\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Havoc multi-launcher\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Havoc multi-launcher\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Avenger chaincannon\n1x Havoc multi-launcher\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Havoc multi-launcher\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Havoc multi-launcher\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Havoc multi-launcher\n1x Slaughterclaw",
+      "source": {
+        "title": "West Coast Gamers RTT",
+        "url": "https://listhammer.info/events/81edd45d9c1fee9c3c",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Chaos Space Marines (Warpstrike Champions/Cabal of Chaos) - Disruption - 3-0",
+      "faction": "Chaos Space Marines",
+      "detachments": [
+        "Warpstrike Champions",
+        "Cabal of Chaos"
+      ],
+      "forceDisposition": "Disruption",
+      "listName": "Warpstrike",
+      "listText": "Warpstrike (2,000 Points)\n\nChaos Space Marines\nCabal of Chaos and Warpstrike Champions (3 Detachment Points)\nDisruption\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nKravek Morne (130 Points)\n• Attached as: Leader (Character)\n• 1x Baleflamer\n• 1x Combi-bolter\n• 1x Last Argument and power fist\n• 1x Servo-harness\n\nChaos Terminator Squad (215 Points)\n• Attached as: Bodyguard\n• 1x Terminator Champion\n◦ 1x Combi-bolter\n◦ 1x Power fist\n• 4x Chaos Terminator\n◦ 2x Accursed weapon\n◦ 3x Combi-bolter\n◦ 2x Power fist\n◦ 1x Reaper autocannon\n\nCHARACTERS\n\nSorcerer in Terminator Armour (105 Points)\n• Warlord\n• 1x Chaos Familiar\n• 1x Combi-bolter\n• 1x Force weapon\n• 1x Infernal Gaze\n• Enhancements: Akshur’s Binding Runes\n\nSorcerer in Terminator Armour (110 Points)\n• 1x Chaos Familiar\n• 1x Combi-bolter\n• 1x Force weapon\n• 1x Infernal Gaze\n• Enhancements: Tzagulla\n\nBATTLELINE\n\nCultist Mob (50 Points)\n• 1x Cultist Champion\n◦ 1x Autopistol\n◦ 1x Brutal assault weapon\n• 9x Chaos Cultist\n◦ 9x Autopistol\n◦ 9x Brutal assault weapon\n\nCultist Mob (50 Points)\n• 1x Cultist Champion\n◦ 1x Autopistol\n◦ 1x Brutal assault weapon\n• 9x Chaos Cultist\n◦ 9x Autopistol\n◦ 9x Brutal assault weapon\n\nOTHER DATASHEETS\n\nChaos Terminator Squad (370 Points)\n• 1x Terminator Champion\n◦ 1x Combi-bolter\n◦ 1x Power fist\n• 9x Chaos Terminator\n◦ 4x Accursed weapon\n◦ 7x Combi-bolter\n◦ 5x Power fist\n◦ 2x Reaper autocannon\n\nChaos Terminator Squad (370 Points)\n• 1x Terminator Champion\n◦ 1x Accursed weapon\n◦ 1x Combi-bolter\n• 9x Chaos Terminator\n◦ 9x Accursed weapon\n◦ 9x Combi-bolter\n\nObliterators (160 Points)\n• 2x Obliterator\n◦ 2x Crushing fists\n◦ 2x Fleshmetal guns\n\nObliterators (160 Points)\n• 2x Obliterator\n◦ 2x Crushing fists\n◦ 2x Fleshmetal guns\n\nRaptors (115 Points)\n• 1x Raptor Champion\n◦ 1x Heavy melee weapon\n◦ 1x Plasma pistol\n• 4x Raptor\n◦ 2x Astartes chainsword\n◦ 2x Bolt pistol\n◦ 2x Heavy melee weapon\n◦ 2x Plasma pistol\n\nRed Corsairs Raiders (120 Points)\n• 1x Red Corsairs Raider Champion\n◦ 1x Boltgun\n◦ 1x Hand flamer\n◦ 1x Reaver’s blade\n• 4x Red Corsairs Raider\n◦ 4x Bolt pistol\n◦ 3x Boltgun\n◦ 1x Meltagun\n◦ 1x Power fist\n◦ 3x Reaver’s blade\n\nALLIED UNITS\n\nNurglings (45 Points)\n• 3x Nurgling Swarm\n◦ 3x Diseased claws and teeth",
+      "source": {
+        "title": "West Coast Gamers RTT",
+        "url": "https://listhammer.info/events/81edd45d9c1fee9c3c",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Imperial Agents (Ordo Hereticus, Purgation Force/Veiled Blade Elimination Force) - Take and Hold - 3-0",
+      "faction": "Imperial Agents",
+      "detachments": [
+        "Ordo Hereticus, Purgation Force",
+        "Veiled Blade Elimination Force"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "pay the court a fine",
+      "listText": "pay the court a fine (1995 points)\n\nImperial Agents\nOrdo Hereticus, Purgation Force and Veiled Blade Elimination Force (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nRogue Trader Entourage (75 points)\n• Attached as: Leader (Character)\n• 1x Rogue Trader\n• 1x Household pistol\n1x Monomolecular cane-rapier\n• 1x Death Cult Assassin\n• 1x Dartmask\n1x Death Cult power blade\n• 1x Lectro‐Maester\n• 1x Close combat weapon\n1x Voltaic pistol\n• 1x Rejuvenat Adept\n• 1x Close combat weapon\n1x Healing serum\n1x Laspistol\n\nMinistorum Priest (55 points)\n• Attached as: Support (Character)\n• 1x Zealot’s vindictor\n• Enhancement: Witch Hunter\n\nImperial Navy Breachers (90 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Navis Sergeant-at-Arms\n• 1x Close combat weapon\n1x Navis shotgun\n• 9x Navis Armsman\n• 9x Close combat weapon\n1x Endurant Shield\n1x Navis heavy shotgun\n1x Navis las-volley\n7x Navis shotgun\n\nAttached Unit 2\n\nInquisitor (65 points)\n• Attached as: Leader (Character)\n• 1x Combi-weapon\n1x Force weapon\n1x Psychic Gifts\n1x Psychic Shock Wave\n• Enhancement: Ignis Judicium\n\nInquisitorial Agents (100 points)\n• Attached as: Bodyguard\n• 10x Inquisitorial Agent\n• 10x Agent firearm\n10x Agent melee weapon\n2x Eviscerator\n2x Mystic stave\n2x Plasma pistol\n• 2x Gun Servitor\n• 2x Agent melee weapon\n2x Multi-melta\n\nAttached Unit 3\n\nInquisitor (55 points)\n• Attached as: Leader (Character)\n• 1x Combi-weapon\n1x Force weapon\n1x Psychic Gifts\n1x Psychic Shock Wave\n\nMinistorum Priest (40 points)\n• Attached as: Support (Character)\n• 1x Zealot’s vindictor\n\nSanctifiers (100 points)\n• Attached as: Bodyguard\n• 1x Miraculist\n• 1x Burning hands\n1x Holy fire\n• 1x Salvationist\n• 1x Close combat weapon\n1x Salvationist Medikit\n• 1x Death Cult Assassin\n• 1x Death Cult blades\n• 2x Missionary\n• 1x Holy fire\n1x Ministorum flamer\n1x Plasma gun\n2x Sanctifier melee weapon\n• 4x Sanctifier\n• 2x Close combat weapon\n5x Ministorum hand flamer\n2x Sanctifier melee weapon\n1x Simulacrum Imperialis\n\nCHARACTERS\n\nEversor Assassin (115 points)\n• 1x Executioner pistol\n1x Power sword and neuro gauntlet\n\nInquisitor Coteaz (75 points)\n• Warlord\n• 1x Bolt pistol\n1x Glovodan Psyber‐eagle\n1x Nemesis daemon hammer\n1x Psychic Blast\n\nInquisitor Kroyle (100 points)\n• 1x Butcher blade\n1x Garralisk’s claws and teeth\n1x Jindarii tox‑cycler\n1x Stubcarbine\n\nNavigator (60 points)\n• 1x Force-orb cane\n1x Laspistol\n\nNavigator (60 points)\n• 1x Force-orb cane\n1x Laspistol\n\nDEDICATED TRANSPORTS\n\nInquisitorial Chimera (60 points)\n• 1x Armoured tracks\n2x Heavy flamer\n1x Heavy stubber\n1x Hunter-killer missile\n1x Lasgun array\n\nInquisitorial Chimera (60 points)\n• 1x Armoured tracks\n2x Heavy flamer\n1x Heavy stubber\n1x Hunter-killer missile\n1x Lasgun array\n\nSisters of Battle Immolator (105 points)\n• 1x Armoured tracks\n1x Heavy bolter\n1x Hunter-killer missile\n1x Twin multi-melta\n\nSisters of Battle Immolator (105 points)\n• 1x Armoured tracks\n1x Heavy bolter\n1x Hunter-killer missile\n1x Twin multi-melta\n\nSisters of Battle Immolator (105 points)\n• 1x Armoured tracks\n1x Heavy bolter\n1x Hunter-killer missile\n1x Twin multi-melta\n\nOTHER DATASHEETS\n\nInquisitorial Agents (100 points)\n• 10x Inquisitorial Agent\n• 10x Agent firearm\n10x Agent melee weapon\n2x Eviscerator\n2x Mystic stave\n2x Plasma pistol\n• 2x Gun Servitor\n• 2x Agent melee weapon\n2x Multi-melta\n\nSisters of Battle Squad (100 points)\n• 1x Sister Superior\n• 1x Bolt pistol\n1x Close combat weapon\n1x Inferno pistol\n1x Power weapon\n• 9x Battle Sister\n• 9x Bolt pistol\n7x Boltgun\n9x Close combat weapon\n1x Meltagun\n1x Multi-melta\n1x Simulacrum Imperialis\n\nSisters of Battle Squad (100 points)\n• 1x Sister Superior\n• 1x Bolt pistol\n1x Close combat weapon\n1x Inferno pistol\n1x Power weapon\n• 9x Battle Sister\n• 9x Bolt pistol\n7x Boltgun\n9x Close combat weapon\n1x Meltagun\n1x Multi-melta\n1x Simulacrum Imperialis\n\nSisters of Battle Squad (100 points)\n• 1x Sister Superior\n• 1x Bolt pistol\n1x Close combat weapon\n1x Inferno pistol\n1x Power weapon\n• 9x Battle Sister\n• 9x Bolt pistol\n7x Boltgun\n9x Close combat weapon\n1x Meltagun\n1x Multi-melta\n1x Simulacrum Imperialis\n\nSubductor Squad (85 points)\n• 1x Proctor-Subductor\n• 1x Arbites shotpistol\n1x Nuncio-acquila\n1x Shock maul\n• 9x Subductor\n• 9x Arbites shotpistol\n9x Shock maul\n• 1x Cyber-mastiff\n• 1x Mechanical bite\n\nSubductor Squad (85 points)\n• 1x Proctor-Subductor\n• 1x Arbites shotpistol\n1x Nuncio-acquila\n1x Shock maul\n• 9x Subductor\n• 9x Arbites shotpistol\n9x Shock maul\n• 1x Cyber-mastiff\n• 1x Mechanical bite",
+      "source": {
+        "title": "West Coast Gamers RTT",
+        "url": "https://listhammer.info/events/81edd45d9c1fee9c3c",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "T'au Empire (Retaliation Cadre) - Purge the Foe - 3-0",
+      "faction": "T'au Empire",
+      "detachments": [
+        "Retaliation Cadre"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "Commander Farsight",
+      "listText": "Commander Farsight (70 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Dawn Blade\n• 1x High-intensity plasma rifle\n\nCrisis Sunforge Battlesuits (125 Points)\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n◦ 1x Battlesuit fists\n◦ 2x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n◦ 2x Battlesuit fists\n◦ 4x Fusion blaster\n◦ 2x Gun Drone\n◦ 2x Shield Drone\n\nAttached unit 2\n\nCommander in Enforcer Battlesuit (100 Points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n• 1x Marker Drone\n• 1x Missile pod\n• 3x Missile pod\n• 1x Shield Drone\n• Enhancements: Starflare Ignition System\n\nCrisis Fireknife Battlesuits (130 Points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Gun Drone\n◦ 2x Missile pod\n◦ 1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n◦ 2x Battlesuit fists\n◦ 2x Gun Drone\n◦ 4x Missile pod\n◦ 2x Shield Drone\n\nAttached unit 3\n\nCommander in Enforcer Battlesuit (80 Points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n• 1x Marker Drone\n• 4x Plasma rifle\n• 1x Shield Drone\n\nCrisis Fireknife Battlesuits (100 Points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Gun Drone\n◦ 2x Plasma rifle\n◦ 1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n◦ 2x Battlesuit fists\n◦ 2x Gun Drone\n◦ 4x Plasma rifle\n◦ 2x Shield Drone\n\nAttached unit 4\n\nCommander in Coldstar Battlesuit (95 Points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n• 2x Burst cannon\n• 1x Cyclic ion blaster\n• 1x High-output burst cannon\n• 1x Marker Drone\n• 1x Shield Drone\n\nCrisis Starscythe Battlesuits (100 Points)\n• Attached as: Bodyguard\n• 1x Crisis Starscythe Shas’vre\n◦ 1x Battlesuit fists\n◦ 2x Burst cannon\n◦ 1x Gun Drone\n◦ 1x Shield Drone\n• 2x Crisis Starscythe Shas’ui\n◦ 2x Battlesuit fists\n◦ 4x Burst cannon\n◦ 2x Gun Drone\n◦ 2x Shield Drone\n\nCHARACTERS\n\nDarkstrider (60 Points)\n• 1x Close combat weapon\n• 1x Shade\n\nThe Twin Lance (240 Points)\n• 1x Ri’Lantar\n◦ 1x Fusion eliminator\n◦ 1x MV15 Gun Drone\n◦ 1x Shardstorm burst system\n◦ 1x XV pulse pistol\n• 1x Ri’Locai\n◦ 1x Ion scattercannon\n◦ 1x MV15 Gun Drone\n◦ 1x Shardstorm burst system\n◦ 1x XV pulse pistol\n\nOTHER DATASHEETS\n\nBroadside Battlesuits (150 Points)\n• 1x Broadside Shas’vre\n◦ 1x Crushing bulk\n◦ 1x Heavy rail rifle\n◦ 2x Missile Drone\n◦ 1x Seeker missile\n◦ 1x Weapon Support System\n• 1x Broadside Shas’ui\n◦ 1x Crushing bulk\n◦ 1x Heavy rail rifle\n◦ 2x Missile Drone\n◦ 1x Seeker missile\n◦ 1x Weapon Support System\n\nBroadside Battlesuits (150 Points)\n• 1x Broadside Shas’vre\n◦ 1x Crushing bulk\n◦ 1x Heavy rail rifle\n◦ 2x Missile Drone\n◦ 1x Seeker missile\n◦ 1x Weapon Support System\n• 1x Broadside Shas’ui\n◦ 1x Crushing bulk\n◦ 1x Heavy rail rifle\n◦ 2x Missile Drone\n◦ 1x Seeker missile\n◦ 1x Weapon Support System\n\nGhostkeel Battlesuit (165 Points)\n• 1x Battlesuit Support System\n• 1x Cyclic ion raker\n• 1x Ghostkeel fists\n• 1x Twin fusion blaster\n\nKroot Carnivores (65 Points)\n• 1x Long-quill\n◦ 1x Close combat weapon\n◦ 1x Kroot pistol\n◦ 1x Kroot rifle\n• 9x Kroot Carnivore\n◦ 9x Close combat weapon\n◦ 9x Kroot rifle\n\nPathfinder Team (85 Points)\n• 1x Pathfinder Shas’ui\n◦ 1x Close combat weapon\n◦ 1x Grav-inhibitor Drone\n◦ 1x Pulse carbine\n◦ 1x Pulse pistol\n◦ 1x Semi-automatic grenade launcher\n◦ 2x Shield Drone\n• 9x Pathfinder\n◦ 9x Close combat weapon\n◦ 6x Pulse carbine\n◦ 9x Pulse pistol\n◦ 3x Rail rifle\n\nPathfinder Team (85 Points)\n• 1x Pathfinder Shas’ui\n◦ 1x Close combat weapon\n◦ 1x Pulse carbine\n◦ 1x Pulse pistol\n◦ 1x Recon Drone\n◦ 1x Semi-automatic grenade launcher\n◦ 2x Shield Drone\n• 9x Pathfinder\n◦ 9x Close combat weapon\n◦ 6x Pulse carbine\n◦ 9x Pulse pistol\n◦ 3x Rail rifle\n\nStealth Battlesuits (100 Points)\n• 1x Stealth Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Marker Drone\n◦ 1x Pulse pistol\n• 4x Stealth Shas’ui\n◦ 4x Battlesuit fists\n◦ 3x Burst cannon\n◦ 1x Fusion blaster\n◦ 1x Homing Beacon\n\nStealth Battlesuits (100 Points)\n• 1x Stealth Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Marker Drone\n◦ 1x Pulse pistol\n• 4x Stealth Shas’ui\n◦ 4x Battlesuit fists\n◦ 3x Burst cannon\n◦ 1x Fusion blaster\n◦ 1x Homing Beacon",
+      "source": {
+        "title": "The Realm Firenze - Warhammer 40k 01.11.2026",
+        "url": "https://listhammer.info/events/97cc05dd790d242bdd",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Emperor's Children (Coterie of the Conceited) - Priority Assets - 3-0",
+      "faction": "Emperor's Children",
+      "detachments": [
+        "Coterie of the Conceited"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "coterie I'm cooming for you",
+      "listText": "coterie I'm cooming for you (1990 points)\n\nEmperor’s Children\nCoterie of the Conceited (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLucius the Eternal (130 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Blade of the Laer\n1x Lash of Torment\n\nFlawless Blades (95 points)\n• Attached as: Bodyguard\n• 3x Flawless Blade\n• 3x Blissblade\n3x Bolt pistol\n\nAttached Unit 2\n\nLord Exultant (95 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (95 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Power sword\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nCHARACTERS\n\nDaemon Prince of Slaanesh (190 points)\n• 1x Hellforged weapons\n1x Infernal cannon\n• Enhancement: Pledge of Eternal Servitude\n\nDaemon Prince of Slaanesh with Wings (205 points)\n• 1x Hellforged weapons\n1x Infernal cannon\n\nSorcerer (55 points)\n• 1x Agonising Energies\n1x Bolt pistol\n1x Force weapon\n\nBATTLELINE\n\nTormentors (85 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Power sword\n• 4x Tormentor\n• 2x Boltgun\n4x Close Combat Weapon\n1x Icon of Excess\n1x Meltagun\n1x Plasma gun\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (70 points)\n• 1x Armoured tracks\n1x Combi-bolter\n1x Combi-weapon\n1x Havoc launcher\n\nOTHER DATASHEETS\n\nChaos Spawn (70 points)\n• 2x Chaos Spawn\n• 2x Hideous mutations\n\nDefiler (330 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing Claws\n\nDefiler (380 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing Claws\n\nFlawless Blades (95 points)\n• 3x Flawless Blade\n• 3x Blissblade\n3x Bolt pistol\n\nFlawless Blades (95 points)\n• 3x Flawless Blade\n• 3x Blissblade\n3x Bolt pistol",
+      "source": {
+        "title": "Legends of the North v15",
+        "url": "https://listhammer.info/events/989214fc56d2748117",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Emperor's Chosen/Might of the Moritoi/Lions of the Emperor) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Emperor's Chosen",
+        "Might of the Moritoi",
+        "Lions of the Emperor"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listText": "Emperor’s Chosen, Lions of the Emperor and Might of the Moritoi (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (265 points)\n* Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nAllarus Custodians (180 points)\n* Attached as: Bodyguard\n• 2x Allarus Custodians\n• 2x Balistus Grenade Launcher\n2x Guardian Spear\n1x Vexilla\n\nOTHER DATASHEETS\n\nAllarus Custodians (270 points)\n• 3x Allarus Custodians\n• 3x Balistus Grenade Launcher\n3x Guardian Spear\n1x Vexilla\n\nAquilon Terminators with Solarite Power Gauntlets (285 points)\n• 3x Aquilon Custodians\n• 3x Adrathic Combi-destructor\n3x Solarite Power Gauntlet\n\nContemptor‑Achillus Dreadnought (230 points)\n• 1x Dreadspear\n2x Twin Infernus Incinerator\n\nContemptor‑Galatus Dreadnought (250 points)\n• 1x Warblade\n• Enhancement: Memento Moritoi (one per army) (Upgrade)\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nTelemon Heavy Dreadnought (310 points)\n• 1x Dual Caestus Fists\n1x Spiculus Bolt Launcher\n2x Twin Neutronium Cascade Projectors\n• Enhancement: Augury Uplink (one per army) (Upgrade)\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock",
+      "source": {
+        "title": "Legends of the North v15",
+        "url": "https://listhammer.info/events/989214fc56d2748117",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Aeldari (Aspect Host) - Reconnaissance - 3-0",
+      "faction": "Aeldari",
+      "detachments": [
+        "Aspect Host"
+      ],
+      "forceDisposition": "Reconnaissance",
+      "listName": "*Snorts coke* ITS TIME FOR SPEEEEEEEEEEEEEEEEEED",
+      "listText": "*Snorts coke* ITS TIME FOR SPEEEEEEEEEEEEEEEEEED (1990 points)\n\nAeldari\nAspect Host (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nFuegan (130 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Fire Axe\n1x Searsong\n\nFire Dragons (110 points)\n• Attached as: Bodyguard\n• 1x Aspect Shrine Token\n• 1x Fire Dragon Exarch\n• 1x Close combat weapon\n1x Firepike\n• 4x Fire Dragon\n• 4x Close combat weapon\n4x Dragon fusion gun\n\nAttached Unit 2\n\nJain Zar (105 points)\n• Attached as: Leader (Character)\n• 1x Blade of Destruction\n1x Silent Death\n\nHowling Banshees (85 points)\n• Attached as: Bodyguard\n• 1x Aspect Shrine Token\n• 1x Howling Banshee Exarch\n• 1x Executioner\n1x Shuriken pistol\n• 4x Howling Banshee\n• 4x Banshee blade\n4x Shuriken pistol\n\nAttached Unit 3\n\nBaharroth (125 points)\n• Attached as: Leader (Character)\n• 1x Fury of the Tempest\n1x Shining Blade\n\nSwooping Hawks (190 points)\n• Attached as: Bodyguard\n• 2x Aspect Shrine Token\n• 1x Swooping Hawk Exarch\n• 1x Close combat weapon\n1x Hawk’s talon\n• 9x Swooping Hawk\n• 9x Close combat weapon\n9x Lasblaster\n\nAttached Unit 4\n\nLhykhis (135 points)\n• Attached as: Leader (Character)\n• 1x Brood Twain\n1x Spider’s Fangs\n1x Weaverender\n\nWarp Spiders (105 points)\n• Attached as: Bodyguard\n• 1x Aspect Shrine Token\n• 1x Warp Spider Exarch\n• 1x Close combat weapon\n1x Powerblade array\n• 4x Warp Spider\n• 4x Close combat weapon\n4x Death spinner\n\nDEDICATED TRANSPORTS\n\nWave Serpent (115 points)\n• 1x Shuriken cannon\n1x Twin bright lance\n1x Wraithbone hull\n\nOTHER DATASHEETS\n\nDark Reapers (200 points)\n• 2x Aspect Shrine Token\n• 1x Dark Reaper Exarch\n• 1x Close combat weapon\n1x Missile launcher\n• 9x Dark Reaper\n• 9x Close combat weapon\n9x Reaper launcher\n\nHowling Banshees (85 points)\n• 1x Aspect Shrine Token\n• 1x Howling Banshee Exarch\n• 1x Executioner\n1x Shuriken pistol\n• 4x Howling Banshee\n• 4x Banshee blade\n4x Shuriken pistol\n\nHowling Banshees (85 points)\n• 1x Aspect Shrine Token\n• 1x Howling Banshee Exarch\n• 1x Executioner\n1x Shuriken pistol\n• 4x Howling Banshee\n• 4x Banshee blade\n4x Shuriken pistol\n\nRangers (60 points)\n• 5x Ranger\n• 5x Close combat weapon\n5x Long rifle\n5x Shuriken pistol\n\nRangers (60 points)\n• 5x Ranger\n• 5x Close combat weapon\n5x Long rifle\n5x Shuriken pistol\n\nRangers (60 points)\n• 5x Ranger\n• 5x Close combat weapon\n5x Long rifle\n5x Shuriken pistol\n\nStriking Scorpions (75 points)\n• 1x Aspect Shrine Token\n• 1x Striking Scorpion Exarch\n• 1x Scorpion chainsword\n1x Scorpion’s claw\n1x Shuriken pistol\n• 4x Striking Scorpion\n• 4x Scorpion chainsword\n4x Shuriken pistol\n\nWar Walkers (80 points)\n• 2x Starcannon\n1x War Walker feet\n\nWar Walkers (80 points)\n• 2x Missile launcher\n1x War Walker feet\n\nWarp Spiders (105 points)\n• 1x Aspect Shrine Token\n• 1x Warp Spider Exarch\n• 1x Close combat weapon\n1x Exarch’s death spinner\n• 4x Warp Spider\n• 4x Close combat weapon\n4x Death spinner",
+      "source": {
+        "title": "Legends of the North v15",
+        "url": "https://listhammer.info/events/989214fc56d2748117",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Grey Knights (Warpbane Task Force) - Purge the Foe - 3-0",
+      "faction": "Grey Knights",
+      "detachments": [
+        "Warpbane Task Force"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "Wtf",
+      "listText": "Wtf (1995 points)\n\nGrey Knights\nWarpbane Task Force (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCastellan Crowe (105 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Black Blade of Antwyr\n1x Purifying Flame\n1x Storm Bolter\n\nPurifier Squad (290 points)\n• Attached as: Bodyguard\n• 1x Knight of the Flame\n• 1x Nemesis force weapon\n1x Purifying Flame\n1x Storm Bolter\n• 9x Purifier\n• 9x Nemesis force weapon\n9x Purifying Flame\n9x Storm Bolter\n\nCHARACTERS\n\nGrand Master in Nemesis Dreadknight (240 points)\n• 1x Heavy psycannon\n1x Nemesis daemon greathammer\n1x Sublimator\n\nGrand Master in Nemesis Dreadknight (240 points)\n• 1x Heavy psycannon\n1x Nemesis daemon greathammer\n1x Sublimator\n\nGrand Master in Nemesis Dreadknight (255 points)\n• 1x Heavy psycannon\n1x Nemesis daemon greathammer\n1x Sublimator\n\nBATTLELINE\n\nStrike Squad (125 points)\n• 1x Justicar\n• 1x Nemesis force weapon\n1x Storm Bolter\n• 4x Grey Knight\n• 4x Nemesis force weapon\n4x Storm Bolter\n\nDEDICATED TRANSPORTS\n\nRazorback (75 points)\n• 1x Armoured tracks\n1x Hunter-killer missile\n1x Storm Bolter\n1x Twin lascannon\n\nOTHER DATASHEETS\n\nInterceptor Squad (135 points)\n• 1x Interceptor Justicar\n• 1x Nemesis force weapon\n1x Storm Bolter\n• 4x Interceptor\n• 4x Nemesis force weapon\n4x Storm Bolter\n\nPurgation Squad (115 points)\n• 1x Purgator Justicar\n• 1x Nemesis force weapon\n1x Storm Bolter\n• 4x Purgator\n• 4x Close Combat Weapon\n4x Incinerator\n\nPurgation Squad (115 points)\n• 1x Purgator Justicar\n• 1x Nemesis force weapon\n1x Storm Bolter\n• 4x Purgator\n• 4x Close Combat Weapon\n4x Incinerator\n\nPurifier Squad (145 points)\n• 1x Knight of the Flame\n• 1x Nemesis force weapon\n1x Purifying Flame\n1x Storm Bolter\n• 4x Purifier\n• 4x Nemesis force weapon\n4x Purifying Flame\n4x Storm Bolter\n\nPurifier Squad (155 points)\n• 1x Knight of the Flame\n• 1x Nemesis force weapon\n1x Purifying Flame\n1x Storm Bolter\n• 4x Purifier\n• 4x Nemesis force weapon\n4x Purifying Flame\n4x Storm Bolter",
+      "source": {
+        "title": "Legends of the North v15",
+        "url": "https://listhammer.info/events/989214fc56d2748117",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Dark Angels (Assault Brethren/Wrath of the Rock) - Take and Hold - 3-0",
+      "faction": "Dark Angels",
+      "detachments": [
+        "Assault Brethren",
+        "Wrath of the Rock"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "fun",
+      "listText": "fun (2000 points)\n\nSpace Marines\nDark Angels\nAssault Brethren and Wrath of the Rock (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\n\nAttached Unit 1\n\nAzrael (150 points)\n• Attached as: Leader (Character)\n• 1x Lion's Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nInner Circle Companions (180 points)\n• Attached as: Bodyguard\n• 6x Inner Circle Companions\n• 6x Calibanite Greatsword\n6x Heavy Bolt Pistol\n\nAttached Unit 2\n\nSammael (120 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Master-crafted Plasma Cannon\n1x The Raven Sword\n1x Twin Storm Bolter\n\nRavenwing Command Squad (130 points)\n• Attached as: Support (Character)\n• 1x Ravenwing Apothecary\n• 1x Bolt Pistol\n1x Corvus Hammers\n1x Plasma Talon\n• 1x Ravenwing Champion\n• 1x Bolt Pistol\n1x Master-crafted Power Weapon\n1x Plasma Talon\n• Enhancement: Lord of the Ravenwing\n• 1x Ravenwing Ancient\n• 1x Bolt Pistol\n1x Corvus Hammers\n1x Plasma Talon\n\nOutrider Squad (80 points)\n• Attached as: Bodyguard\n• 2x Outrider\n• 2x Chainsword\n2x Heavy Bolt Pistol\n2x Twin Bolt Rifle\n• 1x Outrider Sergeant\n• 1x Plasma Pistol\n1x Thunder Hammer\n1x Twin Bolt Rifle\n\nCHARACTERS\n\nLion El'Jonson (415 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\nOTHER DATASHEETS\n\nDeathwing Knights (265 points)\n• 1x Watcher in the Dark\n• Enhancement: Furious Assault (Upgrade)\n• 4x Deathwing Knights\n• 4x Power Weapon\n• 1x Knight Master\n• 1x Relic Weapon\n\nDeathwing Knights (255 points)\n• 1x Watcher in the Dark\n• 4x Deathwing Knights\n• 4x Mace of Absolution\n• 1x Knight Master\n• 1x Great Weapon of the Unforgiven\n\nDeathwing Knights (275 points)\n• 1x Watcher in the Dark\n• 4x Deathwing Knights\n• 4x Mace of Absolution\n• 1x Knight Master\n• 1x Great Weapon of the Unforgiven\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt Pistol\n1x Boltgun\n1x Chainsword\n• 4x Scout\n• 4x Bolt Pistol\n1x Boltgun\n4x Combat Knife\n1x Missile Launcher\n1x Shotgun\n1x Sniper Rifle\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt Pistol\n1x Boltgun\n1x Chainsword\n• 4x Scout\n• 4x Bolt Pistol\n1x Boltgun\n4x Combat Knife\n1x Missile Launcher\n1x Shotgun\n1x Sniper Rifle",
+      "source": {
+        "title": "Hamwarmer RTT at Guildhouse",
+        "url": "https://listhammer.info/events/c44433a11e637649a3",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Necrons (Awakened Dynasty) - Take and Hold - 3-0",
+      "faction": "Necrons",
+      "detachments": [
+        "Awakened Dynasty"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "Daddy awakened me",
+      "listText": "Daddy awakened me (2,000 Points)\n\nNecrons\nAwakened Dynasty (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nOverlord (90 Points)\n• Attached as: Leader (Character)\n• 1x Resurrection orb\n• 1x Voidscythe\n\nImmortals (65 Points)\n• Attached as: Bodyguard (Battleline)\n• 5x Immortal\n◦ 5x Close combat weapon\n◦ 5x Tesla carbine\n\nAttached unit 2\n\nPlasmancer (60 Points)\n• Attached as: Support (Character)\n• 1x Plasmic lance\n\nRoyal Warden (50 Points)\n• Attached as: Leader (Character)\n• 1x Close combat weapon\n• 1x Relic gauss blaster\n\nImmortals (130 Points)\n• Attached as: Bodyguard (Battleline)\n• 10x Immortal\n◦ 10x Close combat weapon\n◦ 10x Gauss blaster\n\nAttached unit 3\n\nLokhust Lord (80 Points)\n• Attached as: Leader (Character)\n• 1x Lord's blade\n• 1x Resurrection orb\n\nLokhust Destroyers (190 Points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n◦ 6x Close combat weapon\n◦ 6x Gauss cannon\n\nAttached unit 4\n\nLokhust Lord (100 Points)\n• Attached as: Leader (Character)\n• 1x Lord's blade\n• 1x Resurrection orb\n• Enhancements: Veil of Darkness\n\nLokhust Heavy Destroyers (165 Points)\n• Attached as: Bodyguard\n• 3x Destroyer\n◦ 3x Close combat weapon\n◦ 3x Enmitic exterminator\n\nCHARACTERS\n\nC'tan Shard of the Void Dragon (345 Points)\n• 1x Canoptek tail blades\n• 1x Spear of the Void Dragon\n• 1x Voltaic storm\n\nIlluminor Szeras (175 Points)\n• 1x Eldritch lance\n• 1x Impaling legs\n\nImotekh the Stormlord (100 Points)\n• Warlord\n• 1x Gauntlet of Fire\n• 1x Staff of the Destroyer\n\nNekrosor Ammentar (195 Points)\n• 1x Blade tail and whip coils\n• 1x Enmitic disintegrators\n• 1x Nullstone field generator\n• 1x Unmaker gauntlet\n\nSkorpekh Lord (125 Points)\n• 1x Enmitic annihilator\n• 1x Flensing claw\n• 1x Hyperphase harvester\n• Enhancements: Enaegic Dermal Bond\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 Points)\n• 2x Atomiser beam\n• 1x Reanimator's claws\n\nFlayed Ones (55 Points)\n• 5x Flayed One\n◦ 5x Flayer claws",
+      "source": {
+        "title": "Hamwarmer RTT at Guildhouse",
+        "url": "https://listhammer.info/events/c44433a11e637649a3",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Orks (Da Big Hunt/Green Tide/Madcap Meks) - Purge the Foe - 3-0",
+      "faction": "Orks",
+      "detachments": [
+        "Da Big Hunt",
+        "Green Tide",
+        "Madcap Meks"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "Tournament list",
+      "listText": "Tournament list (2,000 Points)\n\nOrks\nDa Big Hunt, Green Tide, and Madcap Meks (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\nATTACHED UNITS\n\nAttached unit 1\n\nBeastboss (85 Points)\n• Attached as: Leader (Character)\n• 1x Beast Snagga Klaw and Beastchoppa\n• 1x Shoota\n\nBeast Snagga Boyz (80 Points)\n• Attached as: Bodyguard (Battleline)\n• 9x Beast Snagga Boy\n◦ 9x Choppa\n◦ 9x Slugga\n• 1x Nob\n◦ 1x Power Snappa\n◦ 1x Slugga\n\nAttached unit 2\n\nWarboss (115 Points)\n• Attached as: Leader (Character)\n• 1x Kustom Choppa\n• 1x Kustom Shoota\n• Enhancements: Ferocious Show-off\n\nPainboy (45 Points)\n• Attached as: Support (Character)\n• 1x Dok’s Toolz\n• 1x ’Urty Syringe\n\nBoyz (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 18x Boy\n◦ 18x Choppa\n◦ 18x Shoota\n◦ 18x Slugga\n• 2x Nob\n◦ 2x Kombi-skorcha\n◦ 2x Kustom Choppa\n\nCHARACTERS\n\nBig Mek Dakkarig (160 Points)\n• 1x Blitzkannon\n• 1x Multi-busta Launcha\n• 1x Stompy Feet\n\nBig Mek Dakkarig (160 Points)\n• 1x Blitzkannon\n• 1x Multi-busta Launcha\n• 1x Stompy Feet\n\nGhazghkull Thraka (290 Points)\n• Warlord\n• 1x Adamantine ’Eadbutt\n• 1x Gork’s Klaw\n• 1x Mork’s Roar\n\nMek (55 Points)\n• 1x Kustom Mega-slugga\n• 1x Mek’s Toolz\n\nMozrog Skragbad (170 Points)\n• 1x Big Chompa’s Jaws\n• 1x Gutrippa\n• 1x Thump Gun\n\nDEDICATED TRANSPORTS\n\nTrukk (60 Points)\n• 1x Dual Big Shoota\n• 1x Spiked Ram\n\nOTHER DATASHEETS\n\nGretchin (45 Points)\n• 10x Gretchin\n◦ 10x Grot Blasta\n◦ 10x Scavenged Shivs\n\nKommandos (125 Points)\n• 9x Kommando\n◦ 9x Choppa\n◦ 9x Slugga\n• 1x Nob\n◦ 1x Choppa\n◦ 1x Slugga\n\nMeganobz (110 Points)\n• 3x Meganob\n◦ 2x Kustom Shoota\n◦ 2x Power Klaw\n◦ 1x Twin Killsaws\n\nSquighog Boyz (260 Points)\n• 6x Squighog Boy\n◦ 6x Saddlegit’s Shiv\n◦ 6x Squig’s Jaws\n◦ 6x Stikka\n• 2x Nob on Smasha Squig\n◦ 2x Big Choppa\n◦ 2x Slugga\n◦ 2x Squig’s Jaws\n\nStormboyz (70 Points)\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Nob\n◦ 1x Kustom Choppa\n◦ 1x Slugga",
+      "source": {
+        "title": "Hole in the Wall Hobbies November 2026 RTT",
+        "url": "https://listhammer.info/events/c708abc40ccc45b439",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Honoured Companions/Emperor's Chosen/Might of the Moritoi) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Honoured Companions",
+        "Emperor's Chosen",
+        "Might of the Moritoi"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "wow new codex",
+      "listText": "wow new codex (2000 points)\n\nAdeptus Custodes\nEmperor’s Chosen, Honoured Companions and Might of the Moritoi (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (265 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nSentinel Guard Sodality (255 points)\n• Attached as: Bodyguard (Battleline)\n• 3x Custodian Guard\n• 3x Praesidium Shield\n3x Sentinel Blade\n• Enhancement: Celeritous Sentries (Upgrade)\n\nOTHER DATASHEETS\n\nCaladius Annihilator Grav‑Tank (250 points)\n• 1x Arachnus Blaze Carronade\n1x Armoured Hull\n1x Twin Lastrum Bolt Cannon\n\nContemptor‑Galatus Dreadnought (250 points)\n• 1x Warblade\n• Enhancement: Memento Moritoi (one per army) (Upgrade)\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nProsecutor Squad (45 points)\n• 4x Prosecutors\n• 4x Boltgun\n4x Gun Stock\n\nTelemon Heavy Dreadnought (310 points)\n• 1x Dual Caestus Fists\n1x Spiculus Bolt Launcher\n2x Twin Neutronium Cascade Projectors\n• Enhancement: Augury Uplink (one per army) (Upgrade)\n\nVenatari with Verutum Lances (270 points)\n• 3x Venatari\n• 3x Verutum Lance\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock\n\nWitchseeker Squad (60 points)\n• 5x Witchseekers\n• 5x Flamer\n5x Gun Stock\n\nALLIED UNITS\n\nGrey Knights Terminator Squad (190 points)\n• 1x Terminator Justicar\n• 1x Nemesis force weapon\n1x Storm Bolter\n• 4x Grey Knights Terminators\n• 4x Nemesis force weapon\n4x Storm Bolter",
+      "source": {
+        "title": "Hole in the Wall Hobbies November 2026 RTT",
+        "url": "https://listhammer.info/events/c708abc40ccc45b439",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Aeldari (Serpent's Brood/Armoured Warhost) - Reconnaissance - 3-0",
+      "faction": "Aeldari",
+      "detachments": [
+        "Serpent's Brood",
+        "Armoured Warhost"
+      ],
+      "forceDisposition": "Reconnaissance",
+      "listName": "Tournament",
+      "listText": "Tournament (2000 points)\n\nAeldari\nArmoured Warhost and Serpent’s Brood (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nCHARACTERS\n\nEldrad Ulthran (120 points)\n• 1x Mind War\n1x Shuriken pistol\n1x The Staff of Ulthamar and witchblade\n\nTroupe Master (95 points)\n• Warlord\n• 1x Flip Belt\n1x Fusion pistol\n1x Harlequin’s special weapon\n• Enhancement: Weavers' Wail\n\nTroupe Master (75 points)\n• 1x Flip Belt\n1x Fusion pistol\n1x Harlequin’s special weapon\n\nTroupe Master (75 points)\n• 1x Flip Belt\n1x Fusion pistol\n1x Harlequin’s special weapon\n\nBATTLELINE\n\nTroupe (85 points)\n• 1x Lead Player\n• 1x Flip Belt\n1x Fusion pistol\n1x Power sword\n• 4x Player\n• 4x Flip Belt\n1x Fusion pistol\n4x Harlequin’s blade\n2x Neuro disruptor\n1x Shuriken pistol\n\nTroupe (85 points)\n• 1x Lead Player\n• 1x Flip Belt\n1x Fusion pistol\n1x Power sword\n• 4x Player\n• 4x Flip Belt\n1x Fusion pistol\n4x Harlequin’s blade\n2x Neuro disruptor\n1x Shuriken pistol\n\nTroupe (85 points)\n• 1x Lead Player\n• 1x Flip Belt\n1x Fusion pistol\n1x Power sword\n• 4x Player\n• 4x Flip Belt\n1x Fusion pistol\n4x Harlequin’s blade\n2x Neuro disruptor\n1x Shuriken pistol\n\nTroupe (85 points)\n• 1x Lead Player\n• 1x Flip Belt\n1x Fusion pistol\n1x Power sword\n• 4x Player\n• 4x Flip Belt\n1x Fusion pistol\n4x Harlequin’s blade\n2x Neuro disruptor\n1x Shuriken pistol\n\nTroupe (85 points)\n• 1x Lead Player\n• 1x Flip Belt\n1x Fusion pistol\n1x Power sword\n• 4x Player\n• 4x Flip Belt\n1x Fusion pistol\n4x Harlequin’s blade\n2x Neuro disruptor\n1x Shuriken pistol\n\nDEDICATED TRANSPORTS\n\nStarweaver (70 points)\n• 1x Close combat weapon\n2x Shuriken cannon\n\nStarweaver (70 points)\n• 1x Close combat weapon\n2x Shuriken cannon\n\nStarweaver (70 points)\n• 1x Close combat weapon\n2x Shuriken cannon\n\nOTHER DATASHEETS\n\nFalcon (130 points)\n• 1x Bright lance\n1x Pulse laser\n1x Shuriken cannon\n1x Wraithbone hull\n\nFalcon (130 points)\n• 1x Bright lance\n1x Pulse laser\n1x Shuriken cannon\n1x Wraithbone hull\n\nFire Prism (150 points)\n• 1x Prism cannon\n1x Shuriken cannon\n1x Wraithbone hull\n\nFire Prism (150 points)\n• 1x Prism cannon\n1x Shuriken cannon\n1x Wraithbone hull\n\nRangers (60 points)\n• 5x Ranger\n• 5x Close combat weapon\n5x Long rifle\n5x Shuriken pistol\n\nVoidweaver (115 points)\n• 1x Close combat weapon\n1x Prismatic cannon\n2x Shuriken cannon\n\nVoidweaver (115 points)\n• 1x Close combat weapon\n1x Prismatic cannon\n2x Shuriken cannon\n\nVyper (75 points)\n• 1x Bright lance\n1x Shuriken cannon\n1x Wraithbone hull\n\nVyper (75 points)\n• 1x Bright lance\n1x Shuriken cannon\n1x Wraithbone hull",
+      "source": {
+        "title": "Hole in the Wall Hobbies November 2026 RTT",
+        "url": "https://listhammer.info/events/c708abc40ccc45b439",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Death Guard (Paragons of Putrescence/Shamblerot Vectorium) - Priority Assets - 3-0",
+      "faction": "Death Guard",
+      "detachments": [
+        "Paragons of Putrescence",
+        "Shamblerot Vectorium"
+      ],
+      "forceDisposition": "Priority Assets",
+      "listName": "The evil of the thriller.",
+      "listText": "The evil of the thriller. (1995 points)\n\nDeath Guard\nParagons of Putrescence and Shamblerot Vectorium (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTyphus (90 points)\n• Attached as: Leader (Character)\n• 1x Lakrimae\n\nNoxious Blightbringer (70 points)\n• Attached as: Leader (Character)\n• 1x Cursed plague bell\n1x Plasma pistol\n• Enhancement: Rejuvenating Swarm\n\nPoxwalkers (130 points)\n• Attached as: Bodyguard (Battleline)\n• 20x Poxwalker\n• 20x Improvised weapon\n\nAttached Unit 2\n\nMalignant Plaguecaster (70 points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n1x Corrupted staff\n1x Plague Wind\n• Enhancement: Sorrowsyphon\n\nPoxwalkers (65 points)\n• Attached as: Bodyguard (Battleline)\n• 10x Poxwalker\n• 10x Improvised weapon\n\nCHARACTERS\n\nMalignant Plaguecaster (60 points)\n• 1x Bolt pistol\n1x Corrupted staff\n1x Plague Wind\n\nMortarion (375 points)\n• Warlord\n• 1x Lantern\n1x Rotwind\n1x Silence\n\nBATTLELINE\n\nPoxwalkers (65 points)\n• 10x Poxwalker\n• 10x Improvised weapon\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\nOTHER DATASHEETS\n\nDefiler (330 points)\n• 2x Excruciator cannon\n1x Hades battle cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nDefiler (380 points)\n• 2x Excruciator cannon\n1x Hades battle cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nMyphitic Blight-haulers (95 points)\n• 1x Bile spurt\n1x Gnashing maw\n1x Missile launcher\n1x Multi-melta\n\nMyphitic Blight-haulers (95 points)\n• 1x Bile spurt\n1x Gnashing maw\n1x Missile launcher\n1x Multi-melta\n\nMyphitic Blight-haulers (95 points)\n• 1x Bile spurt\n1x Gnashing maw\n1x Missile launcher\n1x Multi-melta",
+      "source": {
+        "title": "Dice 'N' Sphere RTT",
+        "url": "https://listhammer.info/events/f8d72024f76bcb19fc",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Might of the Moritoi/Lions of the Emperor/Dread Host) - Purge the Foe - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Might of the Moritoi",
+        "Lions of the Emperor",
+        "Dread Host"
+      ],
+      "forceDisposition": "Purge the Foe",
+      "listName": "Dread",
+      "listText": "Dread (2,000 Points)\n\nAdeptus Custodes\nDread Host, Lions of the Emperor and Might of the Moritoi (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nTrajann Valoris (265 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n• 1x Watcher’s Axe\n\nAllarus Custodians (270 Points)\n• Attached as: Bodyguard\n• 3x Allarus Custodians\n◦ 3x Balistus Grenade Launcher\n◦ 3x Guardian Spear\n◦ 1x Vexilla\n\nOTHER DATASHEETS\n\nCaladius Annihilator Grav‑Tank (250 Points)\n• 1x Arachnus Blaze Carronade\n• 1x Armoured Hull\n• 1x Twin Lastrum Bolt Cannon\n\nContemptor‑Achillus Dreadnought (260 Points)\n• 1x Dreadspear\n• 2x Twin Infernus Incinerator\n• Enhancements: Memento Moritoi (one per army) (Upgrade)\n\nContemptor‑Galatus Dreadnought (220 Points)\n• 1x Warblade\n\nProsecutor Squad (45 Points)\n• 4x Prosecutors\n◦ 4x Boltgun\n◦ 4x Gun Stock\n\nTelemon Heavy Dreadnought (310 Points)\n• 1x Dual Caestus Fists\n• 1x Spiculus Bolt Launcher\n• 2x Twin Neutronium Cascade Projectors\n• Enhancements: Augury Uplink (one per army) (Upgrade)\n\nVenatari with Verutum Lances (270 Points)\n• 3x Venatari\n◦ 3x Verutum Lance\n\nWitchseeker Squad (55 Points)\n• 4x Witchseekers\n◦ 4x Flamer\n◦ 4x Gun Stock\n\nWitchseeker Squad (55 Points)\n• 4x Witchseekers\n◦ 4x Flamer\n◦ 4x Gun Stock",
+      "source": {
+        "title": "Dice 'N' Sphere RTT",
+        "url": "https://listhammer.info/events/f8d72024f76bcb19fc",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Adeptus Custodes (Might of the Moritoi/Lions of the Emperor/Solar Watch) - Take and Hold - 3-0",
+      "faction": "Adeptus Custodes",
+      "detachments": [
+        "Might of the Moritoi",
+        "Lions of the Emperor",
+        "Solar Watch"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listText": "Char1: 1x Trajann Valoris (265 pts): Warlord, Eagle's Scream, Watcher's Axe\nLeading Allarus Custodians[1]\n\n3x Allarus Custodians (270 pts)\n2 with Balistus grenade launcher, Guardian Spear\n1 with Vexilla, Balistus grenade launcher, Guardian Spear\nAttached to Trajann Valoris\n3x Allarus Custodians (270 pts)\n2 with Balistus grenade launcher, Guardian Spear\n1 with Vexilla, Balistus grenade launcher, Guardian Spear\n1x Caladius Annihilator Grav-tank (250 pts): Arachnus Blaze Carronade, Twin Lastrum Bolt Cannon, Armoured hull\n1x Contemptor-Galatus Dreadnought (220 pts): Warblade\n1x Contemptor-Galatus Dreadnought (220 pts): Warblade\nMartial Ka'tah Reference\n4x Prosecutor Squad (45 pts): 4 with Boltgun, Gun Stock\n4x Prosecutor Squad (45 pts): 4 with Boltgun, Gun Stock\n4x Prosecutor Squad (45 pts): 4 with Boltgun, Gun Stock\n1x Telemon Heavy Dreadnought (310 pts): Spiculus bolt launcher, Dual Caestus Fists, 2x Twin Neutronium Cascade Projectors\nEnhancement: Augury Uplink (+30 pts)\n5x Witchseeker Squad (60 pts): 5 with Flamer, Gun Stock",
+      "source": {
+        "title": "Black Ice III",
+        "url": "https://listhammer.info/events/fb2de2e43114020704",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    },
+    {
+      "heading": "Chaos Daemons (Plague Legion/Warptide) - Take and Hold - 3-0",
+      "faction": "Chaos Daemons",
+      "detachments": [
+        "Plague Legion",
+        "Warptide"
+      ],
+      "forceDisposition": "Take and Hold",
+      "listName": "there's no room for a knight abominant... unless...",
+      "listText": "there's no room for a knight abominant... unless... (2000 points)\n\nChaos Daemons\nPlague Legion and Warptide (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nPoxbringer (75 points)\n• Attached as: Leader (Character)\n• 1x Foul balesword\n• Enhancement: Maggot Maws\n\nPlaguebearers (115 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 9x Plaguesword\n\nAttached Unit 2\n\nSloppity Bilepiper (70 points)\n• Attached as: Leader (Character)\n• 1x Marotter\n• Enhancement: Cankerblight (Aura)\n\nPlaguebearers (115 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 9x Plaguesword\n\nAttached Unit 3\n\nEpidemius (80 points)\n• Attached as: Leader (Character)\n• 1x Balesword and Nurgling attendants\n\nPlaguebearers (115 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 9x Plaguesword\n\nCHARACTERS\n\nGreat Unclean One (300 points)\n• 1x Bilesword\n1x Plague flail\n1x Putrid vomit\n• Enhancement: Droning Shroud (Aura)\n\nGreat Unclean One (285 points)\n• 1x Bileblade\n1x Doomsday bell\n1x Putrid vomit\n• Enhancement: Font of Spores (Aura)\n\nRotigus (280 points)\n• Warlord\n• 1x Gnarlrod\n1x Streams of brackish filth\n\nBATTLELINE\n\nBlue Horrors (125 points)\n• 10x Blue Horror\n• 10x Blue claws\n10x Coruscating blue flames\n\nNurglings (45 points)\n• 3x Nurgling Swarm\n• 3x Diseased claws and teeth\n\nNurglings (45 points)\n• 3x Nurgling Swarm\n• 3x Diseased claws and teeth\n\nALLIED UNITS\n\nKnight Abominant (350 points)\n• 1x Balemace\n1x Diabolus heavy stubber\n1x Electroscourge\n1x Volkite combustor",
+      "source": {
+        "title": "Black Ice III",
+        "url": "https://listhammer.info/events/fb2de2e43114020704",
+        "publication": "listhammer.info",
+        "published": "2026-11-01"
+      },
+      "record": {
+        "wins": 3,
+        "losses": 0,
+        "draws": 0
+      },
+      "rtt": true,
+      "importedAt": "2026-11-02T12:27:51.925Z"
+    }
+  ]
+}

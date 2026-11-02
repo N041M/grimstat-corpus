@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-10-26T10:10:08.381Z",
+  "generatedAt": "2026-11-02T12:27:49.885Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-10.json",
       "month": "2026-10",
-      "lists": 184,
-      "tournaments": 9
+      "lists": 267,
+      "tournaments": 13
     },
     {
       "name": "lists-2026-09.json",
@@ -42,6 +42,38 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "fwc-warhammer-40000-n84-solo-2000-points-2026-10-31",
+      "name": "FWC Warhammer 40000 - n84 - solo 2000 points",
+      "date": "2026-10-31",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/fwc-warhammer-40000-n84-solo-2000-points-2026-10-31",
+      "lists": 28,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "la-rennes-du-warp-iv-2026-10-31",
+      "name": "La Rennes du Warp IV",
+      "date": "2026-10-31",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/la-rennes-du-warp-iv-2026-10-31",
+      "lists": 33,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "rubelles-gt-3-2026-05-23",
+      "name": "RUBELLES GT 3",
+      "date": "2026-10-31",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/rubelles-gt-3-2026-05-23",
+      "lists": 15,
+      "file": "lists-2026-10.json"
+    },
+    {
+      "slug": "tournoi-a-lair-2-2026-10-31",
+      "name": "Tournoi à l'air 2",
+      "date": "2026-10-31",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-a-lair-2-2026-10-31",
+      "lists": 7,
+      "file": "lists-2026-10.json"
+    },
     {
       "slug": "tactical-horror-2026-10-25",
       "name": "Tactical Horror",
