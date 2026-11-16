@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-11-02T12:27:49.885Z",
+  "generatedAt": "2026-11-16T12:47:46.056Z",
   "source": {
     "id": "minihq",
     "name": "MiniHeadQuarters",
@@ -10,6 +10,12 @@
     "attribution": "Army lists published by their players and tournament organisers on MiniHeadQuarters (miniheadquarters.com)"
   },
   "files": [
+    {
+      "name": "lists-2026-11.json",
+      "month": "2026-11",
+      "lists": 21,
+      "tournaments": 2
+    },
     {
       "name": "lists-2026-10.json",
       "month": "2026-10",
@@ -42,6 +48,22 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "evry-figz-2026-2026-11-14",
+      "name": "Evry Figz 2026",
+      "date": "2026-11-14",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/evry-figz-2026-2026-11-14",
+      "lists": 17,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "tournoi-wh40k-1v1-2000pts-le-vieux-monde-141126-2026-11-14",
+      "name": "Tournoi wh40k 1v1 2000PTS le vieux monde 14/11/26",
+      "date": "2026-11-14",
+      "url": "https://miniheadquarters.com/tournaments/individual/army-lists/tournoi-wh40k-1v1-2000pts-le-vieux-monde-141126-2026-11-14",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
     {
       "slug": "fwc-warhammer-40000-n84-solo-2000-points-2026-10-31",
       "name": "FWC Warhammer 40000 - n84 - solo 2000 points",

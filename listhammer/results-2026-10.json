@@ -1,7 +1,7 @@
 {
   "format": "grimstat-event-results",
   "version": 1,
-  "generatedAt": "2026-11-09T13:14:30.202Z",
+  "generatedAt": "2026-11-16T13:10:22.729Z",
   "events": [
     {
       "slug": "03019df70c1924b0cc",
@@ -76431,7 +76431,8 @@
         {
           "faction": "Emperor's Children",
           "detachments": [
-            "Mercurial Host"
+            "Mercurial Host",
+            "Spectacle of Slaughter"
           ],
           "disposition": "Reconnaissance",
           "wins": 2,
@@ -76453,7 +76454,8 @@
         {
           "faction": "Emperor's Children",
           "detachments": [
-            "Peerless Bladesmen"
+            "Peerless Bladesmen",
+            "Spectacle of Slaughter"
           ],
           "disposition": "Priority Assets",
           "wins": 2,
@@ -76496,7 +76498,8 @@
         {
           "faction": "Tyranids",
           "detachments": [
-            "Assimilation Swarm"
+            "Assimilation Swarm",
+            "Talons of the Norn Queen"
           ],
           "disposition": "Take and Hold",
           "wins": 1,
@@ -76506,7 +76509,8 @@
         {
           "faction": "Astra Militarum",
           "detachments": [
-            "Hammer of the Emperor"
+            "Hammer of the Emperor",
+            "Designation Force"
           ],
           "disposition": "Purge the Foe",
           "wins": 1,
@@ -80819,7 +80823,8 @@
         {
           "faction": "World Eaters",
           "detachments": [
-            "Berzerker Warband"
+            "Berzerker Warband",
+            "Vessels of Wrath"
           ],
           "disposition": "Priority Assets",
           "wins": 4,
@@ -80861,7 +80866,8 @@
         {
           "faction": "Adepta Sororitas",
           "detachments": [
-            "Bringers of Flame"
+            "Bringers of Flame",
+            "Sacred Champions"
           ],
           "disposition": "Priority Assets",
           "wins": 4,
@@ -81173,7 +81179,8 @@
         {
           "faction": "Necrons",
           "detachments": [
-            "Canoptek Court"
+            "Canoptek Court",
+            "Hand of the Dynasty"
           ],
           "disposition": "Take and Hold",
           "wins": 3,
@@ -81376,7 +81383,8 @@
         {
           "faction": "Space Marines",
           "detachments": [
-            "Tacticus Attack Force"
+            "Tacticus Attack Force",
+            "Forgefather's Seekers"
           ],
           "disposition": "Priority Assets",
           "wins": 3,
@@ -81440,7 +81448,8 @@
         {
           "faction": "Chaos Space Marines",
           "detachments": [
-            "Warpstrike Champions"
+            "Warpstrike Champions",
+            "Murdertalon Raiders"
           ],
           "disposition": "Reconnaissance",
           "wins": 3,
@@ -81450,7 +81459,8 @@
         {
           "faction": "Adeptus Mechanicus",
           "detachments": [
-            "Cohort Cybernetica"
+            "Cohort Cybernetica",
+            "Lords of the Forge"
           ],
           "disposition": "Priority Assets",
           "wins": 3,
@@ -81559,9 +81569,10 @@
         {
           "faction": "Astra Militarum",
           "detachments": [
-            "Steel Hammer"
+            "Steel Hammer",
+            "Designation Force"
           ],
-          "disposition": "Purge the Foe",
+          "disposition": "Reconnaissance",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -81602,7 +81613,8 @@
         {
           "faction": "Space Marines",
           "detachments": [
-            "Terminator Storm Force"
+            "Terminator Storm Force",
+            "Forgefather's Seekers"
           ],
           "disposition": "Priority Assets",
           "wins": 3,
@@ -92301,7 +92313,8 @@
         {
           "faction": "World Eaters",
           "detachments": [
-            "Berzerker Warband"
+            "Berzerker Warband",
+            "Brazen Engines"
           ],
           "disposition": "Purge the Foe",
           "wins": 2,
@@ -92311,7 +92324,8 @@
         {
           "faction": "Death Guard",
           "detachments": [
-            "Tallyband Summoners"
+            "Tallyband Summoners",
+            "Paragons of Putrescence"
           ],
           "disposition": "Disruption",
           "wins": 2,
@@ -92321,7 +92335,8 @@
         {
           "faction": "Tyranids",
           "detachments": [
-            "Vanguard Onslaught"
+            "Vanguard Onslaught",
+            "Warrior Bioform Onslaught"
           ],
           "disposition": "Take and Hold",
           "wins": 1,
@@ -108316,7 +108331,8 @@
         {
           "faction": "Astra Militarum",
           "detachments": [
-            "Combined Arms"
+            "Combined Arms",
+            "Bridgehead Strike"
           ],
           "disposition": "Priority Assets",
           "wins": 2,
@@ -108372,7 +108388,8 @@
         {
           "faction": "Genestealer Cult",
           "detachments": [
-            "Xenocreed Congregation"
+            "Xenocreed Congregation",
+            "Xenocult Masses"
           ],
           "disposition": "Priority Assets",
           "wins": 0,
@@ -108382,7 +108399,8 @@
         {
           "faction": "Genestealer Cult",
           "detachments": [
-            "Xenocreed Congregation"
+            "Xenocreed Congregation",
+            "Heroes of the Uprising"
           ],
           "disposition": "Disruption",
           "wins": 0,

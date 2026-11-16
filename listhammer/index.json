@@ -1,7 +1,7 @@
 {
   "format": "grimstat-corpus",
   "version": 1,
-  "generatedAt": "2026-11-09T13:14:30.202Z",
+  "generatedAt": "2026-11-16T13:10:22.729Z",
   "source": {
     "id": "listhammer",
     "name": "Listhammer",
@@ -13,8 +13,8 @@
     {
       "name": "lists-2026-11.json",
       "month": "2026-11",
-      "lists": 471,
-      "tournaments": 186
+      "lists": 964,
+      "tournaments": 383
     },
     {
       "name": "lists-2026-10.json",
@@ -48,6 +48,1574 @@
     }
   ],
   "tournaments": [
+    {
+      "slug": "026f67a85b6a15e796",
+      "name": "LeNDület Kupa Plusz 26 november",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/026f67a85b6a15e796",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "02dac9d20e99711ee8",
+      "name": "Wild Warhammer tournament",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/02dac9d20e99711ee8",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "14750fe86a75f60584",
+      "name": "Shark games Noviembre 2026 40k",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/14750fe86a75f60584",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "19e9988be8648555ba",
+      "name": "Torneo Novembre in Legio",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/19e9988be8648555ba",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "2739607947249e3fbf",
+      "name": "Hexhammer 40K November Tourney",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/2739607947249e3fbf",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "37250b863fe99953b2",
+      "name": "Cadete Patoso",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/37250b863fe99953b2",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "48bc767771145ea3ea",
+      "name": "Oh My Warhammer 40k",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/48bc767771145ea3ea",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "4d279d314b4ca9db5c",
+      "name": "Gemini Games 40k 11th Ed",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/4d279d314b4ca9db5c",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "4d29024afb223989eb",
+      "name": "XX RTT 40K GTS GRANADA",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/4d29024afb223989eb",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "5ef492aebdb92d65e2",
+      "name": "40k RTT Clash",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/5ef492aebdb92d65e2",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "5f4f19a3d140de9920",
+      "name": "RSG November RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/5f4f19a3d140de9920",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "617d117277b95fefdf",
+      "name": "Lega Vergilius II - Singolo",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/617d117277b95fefdf",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "67db5c8c111c05634a",
+      "name": "VoidFire RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/67db5c8c111c05634a",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "6924538f023f24e8b0",
+      "name": "HG RTT Nov",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/6924538f023f24e8b0",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "70ed58912a0c5988d0",
+      "name": "Thanks for Playing 2000pt RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/70ed58912a0c5988d0",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "9c8d771659930a4e51",
+      "name": "Squadron 40k - Q4 2026",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/9c8d771659930a4e51",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a2b138f9c08893d430",
+      "name": "Warmaster 40K Taranto",
+      "date": "2026-11-15",
+      "url": "",
+      "lists": 0,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a9802429f3d1d21d9f",
+      "name": "Carnage at Camelot!",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/a9802429f3d1d21d9f",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ab89d1062c4a5fdf2a",
+      "name": "Mattcon Basement Brawl",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/ab89d1062c4a5fdf2a",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ab8c8d7f9fb44ff11f",
+      "name": "Zomviembre AEPDA 40k",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/ab8c8d7f9fb44ff11f",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "af73ee883abfc6d2bd",
+      "name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/af73ee883abfc6d2bd",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "b42b9accf33a8e11ac",
+      "name": "Ozzy's 21st Birthday 40k",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/b42b9accf33a8e11ac",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bc8197a414c9fdfcb8",
+      "name": "Muscle Beach",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/bc8197a414c9fdfcb8",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bfeae0e1a1d6909dc8",
+      "name": "Torneo 40k @Game 15/11/2026",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/bfeae0e1a1d6909dc8",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c2a9da63ff85de98ba",
+      "name": "OPEN BATTLEBUNKER 15/11",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/c2a9da63ff85de98ba",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d8f97d0f2a2c01aa61",
+      "name": "Sequence’s November RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/d8f97d0f2a2c01aa61",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "dec4dba614f4ce1caf",
+      "name": "The Blue Post RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/dec4dba614f4ce1caf",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "dfd024bcfa210c62f8",
+      "name": "El de Noviembre",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/dfd024bcfa210c62f8",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e4cf819abae09b4385",
+      "name": "Trouble Brewing in the Wyldwood - Nov 2026",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/e4cf819abae09b4385",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "eb52540bccd6ffa633",
+      "name": "Instock Games RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/eb52540bccd6ffa633",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ec1dcde949b62df1f6",
+      "name": "Lisguardians 40K - RTT",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/ec1dcde949b62df1f6",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ee9ed23fed29fcd5d5",
+      "name": "Lore 2000 15.11",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/ee9ed23fed29fcd5d5",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "faca9051a6749275ed",
+      "name": "Ordo Idiotus: Sunday Funday 5 - Catalan Dreams",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/faca9051a6749275ed",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "fdd5a8958290b12a55",
+      "name": "NOVEMEBER THROWDOWN",
+      "date": "2026-11-15",
+      "url": "https://listhammer.info/events/fdd5a8958290b12a55",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "022b20f564b7653672",
+      "name": "2000 Pt clash",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/022b20f564b7653672",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "04bf7fc73048c39122",
+      "name": "NCG November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/04bf7fc73048c39122",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0501ad41431ba2b619",
+      "name": "Sangre Y Hueso - Otoño 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0501ad41431ba2b619",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "087779df92c6d3214a",
+      "name": "Warhammer 40k Noviembre",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/087779df92c6d3214a",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0902a21e031025b40e",
+      "name": "TTK's NOV RTT [2026]",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0902a21e031025b40e",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0a10264accd86f9be2",
+      "name": "Gamers Paradise RTT #6",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0a10264accd86f9be2",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0a64f8b136dcdc4a40",
+      "name": "STC 40K GT - November 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0a64f8b136dcdc4a40",
+      "lists": 5,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0b917cca924a794565",
+      "name": "Phil Young Memorial Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0b917cca924a794565",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0c166af4c9eab9ddd9",
+      "name": "11-14-2026 WARHAMMER  EVENT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0c166af4c9eab9ddd9",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0d3b6a4e538f04d1e5",
+      "name": "RBA ALPINE CHALLENGE BRNO",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/0d3b6a4e538f04d1e5",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "105cccfc8747eeea24",
+      "name": "III Torneo Varagyr wolf guard",
+      "date": "2026-11-14",
+      "url": "",
+      "lists": 0,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "130b1956a99d12aed0",
+      "name": "The Forge November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/130b1956a99d12aed0",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "14b9d4e2f9540a4719",
+      "name": "The Geekery November 40K RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/14b9d4e2f9540a4719",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "188dd22fbe14bd3658",
+      "name": "Caladrius Games Novemeber RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/188dd22fbe14bd3658",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "192947a07f7b24cae2",
+      "name": "Smite Club November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/192947a07f7b24cae2",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "19ba3f05814b4630ad",
+      "name": "Keep Karnage November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/19ba3f05814b4630ad",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "1ca13ef1dcb4bf2b9d",
+      "name": "Triple Cities 40K November RTT @ Dragon Master Games",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/1ca13ef1dcb4bf2b9d",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "1daddb3b5cd3c0d1ec",
+      "name": "WH40K - Turniej w Xjoy",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/1daddb3b5cd3c0d1ec",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "215d6c4109efa65a32",
+      "name": "Totaalinen Sota - Syksy 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/215d6c4109efa65a32",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "23ffb45e290a371dae",
+      "name": "CentAR November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/23ffb45e290a371dae",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "249c98b893364636ea",
+      "name": "40k 2k ITC/UKTC Singles Two Day 14th-15th Nov",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/249c98b893364636ea",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "24b8a4f5869fe03788",
+      "name": "GG NEC - Warhammer 40K - Singles Tournament November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/24b8a4f5869fe03788",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "25351ae31762d64bde",
+      "name": "Warhammer 40,000 Grand Tournament - Kempton Park",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/25351ae31762d64bde",
+      "lists": 18,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "28c8651443b7b78c29",
+      "name": "FLG Monthly RTT - November 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/28c8651443b7b78c29",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "29a10a9394092f88e5",
+      "name": "The Warlord's Crucible RTT at Battleground Collectibles",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/29a10a9394092f88e5",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "2d0f51db97e7ca3788",
+      "name": "Miracle Dice tournament 2000pts",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/2d0f51db97e7ca3788",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "2f76498cd5dcd7b108",
+      "name": "Evo Monthly 2k RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/2f76498cd5dcd7b108",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "2f7f9b8564190a8335",
+      "name": "Rusty Scabbard and Rogues Realm Singles Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/2f7f9b8564190a8335",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "30dc5e4a55377d105b",
+      "name": "Adventurer's Guild November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/30dc5e4a55377d105b",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "3149b2411bc0e8623e",
+      "name": "November YHP Alexandria Warhammer 40K 11th Ed RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/3149b2411bc0e8623e",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "3165ae162db70e0169",
+      "name": "JRWI November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/3165ae162db70e0169",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "31765b383aabeb3559",
+      "name": "Giga-Bites November 40k RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/31765b383aabeb3559",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "318bcc44e7c9c52dac",
+      "name": "Midgard November 2026 ITC Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/318bcc44e7c9c52dac",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "36874dd93a96d57e95",
+      "name": "TLV #RTT3",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/36874dd93a96d57e95",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "370b602af37fc7df69",
+      "name": "Games Unplugged 40k 11th Edition Tournament 2000pts November 14th",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/370b602af37fc7df69",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "37a6002f72ad5a7aee",
+      "name": "Zagrajmy Turniej IX - 2000",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/37a6002f72ad5a7aee",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "397d3423a6692eac54",
+      "name": "2 Up Save Brewhammer November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/397d3423a6692eac54",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "39a19227ff0c04ae8f",
+      "name": "The 13th Hour Rogue Trader Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/39a19227ff0c04ae8f",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "39c9f2850bf8c953f4",
+      "name": "Book Stan Nov RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/39c9f2850bf8c953f4",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "3baca9eb7ef6a8e879",
+      "name": "Iron-Claws Wargaming November RTT @ Tower Of Games Western Branch",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/3baca9eb7ef6a8e879",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "3bc092c60f0bc37f1f",
+      "name": "Warzone Dragoon #7",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/3bc092c60f0bc37f1f",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "44adb7d22e37129b19",
+      "name": "November 40k Tanksgiving",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/44adb7d22e37129b19",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "457e4b2e113f040834",
+      "name": "War Host’s Invitational Store Championship",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/457e4b2e113f040834",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "46816e94e4c261d540",
+      "name": "GREX SF November 2026 (Sat)",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/46816e94e4c261d540",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "484c96e6e9b9e93cb6",
+      "name": "Bonfire Games - Warhammer 40K ITC Tournament (Nov 14th)",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/484c96e6e9b9e93cb6",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "4b6332931a460247f2",
+      "name": "Tomahawk Tabletop - November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/4b6332931a460247f2",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "4b6d0f039f55c8e920",
+      "name": "Friends Old and New RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/4b6d0f039f55c8e920",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "4e40b05643e98547ad",
+      "name": "Warren Wizards November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/4e40b05643e98547ad",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "4f112fed0c60ded0b0",
+      "name": "SpeyHammer - Nov 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/4f112fed0c60ded0b0",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "540ba9cd242793842a",
+      "name": "Fallen Brethren",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/540ba9cd242793842a",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "57bc5d97519ad9fbce",
+      "name": "Evry Figz 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/57bc5d97519ad9fbce",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "58683a819fd3b1aeb4",
+      "name": "NexuS League. November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/58683a819fd3b1aeb4",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "58f0dc53081e2a2da8",
+      "name": "MTT War 3",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/58f0dc53081e2a2da8",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "592eaf24b9b50c9e4d",
+      "name": "Trinity Hobby - GT 11th 2000pts 40k Tournament - Nov 14th",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/592eaf24b9b50c9e4d",
+      "lists": 6,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "5b4eaf296e6e07a0b7",
+      "name": "Warhammer 40k: Nov RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/5b4eaf296e6e07a0b7",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "5fed923886c506e4db",
+      "name": "WAR-TONNA RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/5fed923886c506e4db",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "653827f177bd6dbc53",
+      "name": "Grand Final tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/653827f177bd6dbc53",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "65b7458ee644d3b6e5",
+      "name": "FWC Community Shield",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/65b7458ee644d3b6e5",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "6617ee6927cedeac4a",
+      "name": "Grill&hammer",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/6617ee6927cedeac4a",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "6f0bd65e909719d621",
+      "name": "워해머 광장 40K 토너먼트 (BBSTADIUM & ORC TOWN)",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/6f0bd65e909719d621",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "71ab2cf8b86bc5a733",
+      "name": "40.Grotkicken",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/71ab2cf8b86bc5a733",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "736d74dbb81270e43b",
+      "name": "Springs Thundercluckers November 2026 GT WCW Qualifier",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/736d74dbb81270e43b",
+      "lists": 9,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "74645540ad63a57f76",
+      "name": "OFF THE RAILS 40K GT presented by Kootenay Komanders",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/74645540ad63a57f76",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "7724185c32a94661bf",
+      "name": "Battle For Franklin Q4 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/7724185c32a94661bf",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "7ab7463fcc4dc8f55c",
+      "name": "BCG Invasion of the South GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/7ab7463fcc4dc8f55c",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "7b1e7199f2b712260b",
+      "name": "BTV 40k CUP #3",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/7b1e7199f2b712260b",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "7d8a4888384fd379dd",
+      "name": "Cloud 9 November Warhammer 40k RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/7d8a4888384fd379dd",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "7df0572468bef7d86b",
+      "name": "Full Auto November 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/7df0572468bef7d86b",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "82b3a1e71cd2a4d745",
+      "name": "Contrast Phase 40K Showdown - November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/82b3a1e71cd2a4d745",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "83932b841b1e89ad44",
+      "name": "Trial by Bolter RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/83932b841b1e89ad44",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "847598e02a63dc493a",
+      "name": "Nov 2026 FB&G Warhammer 40K Competitive Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/847598e02a63dc493a",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "85752f4c146021080e",
+      "name": "Forgeyk 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/85752f4c146021080e",
+      "lists": 5,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "87c8af17e5e00724c0",
+      "name": "Wytchmas Pregame RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/87c8af17e5e00724c0",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "87dd94837fb8966eb1",
+      "name": "PDX's November RTT!",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/87dd94837fb8966eb1",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "87f49ebd20338665c7",
+      "name": "Scorpio Nights",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/87f49ebd20338665c7",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "88b4a5989285c92a14",
+      "name": "HobyyHub November 2026 Warhammer 40K Tourney",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/88b4a5989285c92a14",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "89e6241baa9ecb7bd4",
+      "name": "CGEA Fundraiser tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/89e6241baa9ecb7bd4",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "8af048e36b6186ed26",
+      "name": "Da Boyz GT 40k Singles",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/8af048e36b6186ed26",
+      "lists": 10,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "8b56dc8917b1e60d86",
+      "name": "FUPC 40K Charity Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/8b56dc8917b1e60d86",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "8b9d25ea24cb218000",
+      "name": "Bastion RTT Novembre",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/8b9d25ea24cb218000",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "8c971453cabf005cfd",
+      "name": "Puma's November Brawl",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/8c971453cabf005cfd",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "8f3c9db2200e6c7ed9",
+      "name": "Jumping Frog Games November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/8f3c9db2200e6c7ed9",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "91e5d0f62085b91b3a",
+      "name": "November RTT at Northern Alliance Games",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/91e5d0f62085b91b3a",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "92493e6b467fa328c2",
+      "name": "West Midlands 40k RTT 11th Edition",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/92493e6b467fa328c2",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "967712a47dfaea40c9",
+      "name": "SilverKing RTT Seahawks Raffle!",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/967712a47dfaea40c9",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "9b274eea48b1229635",
+      "name": "New Dawn - Warhammer 40k 11th - 2K Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/9b274eea48b1229635",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "9c2d8130091b3e58e0",
+      "name": "BOLTERCON 2026: Warhammer 40k GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/9c2d8130091b3e58e0",
+      "lists": 5,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "9d8603f0767417e77d",
+      "name": "Boltermore RTT At Games and Stuff",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/9d8603f0767417e77d",
+      "lists": 5,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "9eb797da6b7641d8fc",
+      "name": "Battlegrounds Shop Championship Qualifier",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/9eb797da6b7641d8fc",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "9ee757aa7376541832",
+      "name": "KVWG 40K Turkey Trot RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/9ee757aa7376541832",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a2bd458a9e7c1f8244",
+      "name": "November RTT at TGR",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/a2bd458a9e7c1f8244",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a386c539b57dc2e8db",
+      "name": "CollectorMania: Escalation RTT!",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/a386c539b57dc2e8db",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a4cec7e065c9fca158",
+      "name": "Nexus Game Lounge Warhammer 40k RTT 11/14",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/a4cec7e065c9fca158",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a4ed4dfde3121fb3e8",
+      "name": "Santa Maria Clash: November '26",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/a4ed4dfde3121fb3e8",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a7eb3a096a992b6a8d",
+      "name": "Meta 40k - November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/a7eb3a096a992b6a8d",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a7fd306903eaf56bbb",
+      "name": "Brave Souls: Reloaded",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/a7fd306903eaf56bbb",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "aa2f5726804afb8204",
+      "name": "Skirmish in the Caribbean VII",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/aa2f5726804afb8204",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ac625f3823d82c3f97",
+      "name": "40k Slap Fight @ VGA",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ac625f3823d82c3f97",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ae3ea504ce65a5f6d8",
+      "name": "Ram Crusade 40,000 vol. 1",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ae3ea504ce65a5f6d8",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ae43bef4b1984ba9ac",
+      "name": "Holoclash Nr.17",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ae43bef4b1984ba9ac",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "b18c6315800ec38ace",
+      "name": "40k Monthly RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/b18c6315800ec38ace",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "b6d555332207820948",
+      "name": "40k November Nemesis Throwdown",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/b6d555332207820948",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "b96a7302166f3afc0f",
+      "name": "Warhammer 40k RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/b96a7302166f3afc0f",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "baec17046ae80f94e5",
+      "name": "Brick City League RTT IV",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/baec17046ae80f94e5",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bb5305ca4a76a694c3",
+      "name": "Last Brethren RTT of 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/bb5305ca4a76a694c3",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bc1ca8b89b2e450f49",
+      "name": "NO QUARTER VIII - 2000 Point 40k Event",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/bc1ca8b89b2e450f49",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bd8fb366856ca6232b",
+      "name": "40k vol.10 Gildia walka o hero",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/bd8fb366856ca6232b",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bf53b6c0c02d0af694",
+      "name": "Miso's 40K RTT November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/bf53b6c0c02d0af694",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bfc7ce43e954bffea9",
+      "name": "Knight of Games GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/bfc7ce43e954bffea9",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c0ce1475c78fdb865f",
+      "name": "Slaughter of Winter-ish",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/c0ce1475c78fdb865f",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c191048ae4198de291",
+      "name": "Game Ogre November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/c191048ae4198de291",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c27b919ef783132df0",
+      "name": "Meals on Wheels Food Drive 40k Event",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/c27b919ef783132df0",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c4ff9c62d4e668d33a",
+      "name": "GT Terra'n'dins 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/c4ff9c62d4e668d33a",
+      "lists": 5,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c604d22c07264c7d11",
+      "name": "2000 pt 40k RTT November 14th, 2026.",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/c604d22c07264c7d11",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "caebea9d26c0d5a8f2",
+      "name": "BERKSHIRE BATTLEGROUNDS RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/caebea9d26c0d5a8f2",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "cb4d658eb4e4dcf2a4",
+      "name": "Dandar's Presents Fall 2026 40k Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/cb4d658eb4e4dcf2a4",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d16fb2e66ed7a57a09",
+      "name": "Mexicali RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/d16fb2e66ed7a57a09",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d30934874cd8df326f",
+      "name": "Marcus Miniatures 40K Golden Rumble (Event 4)",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/d30934874cd8df326f",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d659e9625975a7b73f",
+      "name": "J&B Nov RTT Club Champs",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/d659e9625975a7b73f",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d68ef12ce9693c270c",
+      "name": "KnightFall: The Tracy Crusade GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/d68ef12ce9693c270c",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d8533ca8b7c6e2006b",
+      "name": "Black Hills Turkey Shoot",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/d8533ca8b7c6e2006b",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "d88f56a9e6f9061a00",
+      "name": "Exterminatus 2k26",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/d88f56a9e6f9061a00",
+      "lists": 7,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "dbadc0c7edaeef22de",
+      "name": "THE GREAT DEVOURING",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/dbadc0c7edaeef22de",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "dcbc6e128ea4028cb0",
+      "name": "Battle at the Bunker Nov 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/dcbc6e128ea4028cb0",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "de0216052fa3530313",
+      "name": "Red Raccoon Games November 2026 Warhammer 40k Singles Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/de0216052fa3530313",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e422c37d524bf03e60",
+      "name": "PTG - PARIS - PART 1",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e422c37d524bf03e60",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e437429ad3469238c1",
+      "name": "Twin Dragons November Top Table",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e437429ad3469238c1",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e48f2be1eedc643372",
+      "name": "8.Ruhrpott Fight",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e48f2be1eedc643372",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e666dcb753167c463a",
+      "name": "Armageddon",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e666dcb753167c463a",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e6ae6aac880850991f",
+      "name": "Caledonian Carnage Autumn GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e6ae6aac880850991f",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e79f1410d338785d27",
+      "name": "Harvest of Skulls 40k RTT",
+      "date": "2026-11-14",
+      "url": "",
+      "lists": 0,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e7fccdef7c348df6a9",
+      "name": "Wargamer.lt November RTT 40K",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e7fccdef7c348df6a9",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e89dad75207ef225aa",
+      "name": "Game Garrison Warhammer 40k November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e89dad75207ef225aa",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e938dd8f046cde9001",
+      "name": "Warhammer Gainesville - 40K Invitational Tournament",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e938dd8f046cde9001",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e960978dfd2ef2c796",
+      "name": "40K 11th Ed RTT 2000pts at Flip of a Coin Games",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/e960978dfd2ef2c796",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ead489bf1c19cdc4f4",
+      "name": "Gamehaven Nov RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ead489bf1c19cdc4f4",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "eb4dfc2f45f5717340",
+      "name": "Turn 1 Gaming: Gobble Whopper",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/eb4dfc2f45f5717340",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "eb4ebfe2ca79ebef01",
+      "name": "Geekfest - Arc's of Fire- 40K GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/eb4ebfe2ca79ebef01",
+      "lists": 9,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "eb7be12c9b0a30f3de",
+      "name": "Gem Wargaming RTT Nov 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/eb7be12c9b0a30f3de",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ec896655631abfc7ab",
+      "name": "Treasure Trove Games - Warhammer 40k RTT: November 14, 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ec896655631abfc7ab",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ecca86b19ed3f02ca5",
+      "name": "11.Iron Gate Gamers Shootout",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ecca86b19ed3f02ca5",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ef3d2e0ca634992688",
+      "name": "Meet in the middle",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ef3d2e0ca634992688",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f1f5acf9fb97de50b7",
+      "name": "WARZONE @ Eldritch Bastion",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f1f5acf9fb97de50b7",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f485805aec4619b73c",
+      "name": "Laughing Dragon November 14th RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f485805aec4619b73c",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f5782edefeca5f2bd2",
+      "name": "Ravens Rumble November",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f5782edefeca5f2bd2",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f58de01c56795edd43",
+      "name": "Dakkadakka Cup 2026",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f58de01c56795edd43",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f64235a0ee333a46d7",
+      "name": "79. WH40K Masters of the Universe",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f64235a0ee333a46d7",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f7c76ca5ba7874e8c4",
+      "name": "D6 Games- Cambridge Clash III",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f7c76ca5ba7874e8c4",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "f8d707751ee81f742e",
+      "name": "Gideon Games 40K RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/f8d707751ee81f742e",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "fd32647270d7c01249",
+      "name": "Torneo noviembre RdN",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/fd32647270d7c01249",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "fe2656dccc1d2f6179",
+      "name": "HCW Brasseur GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/fe2656dccc1d2f6179",
+      "lists": 3,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "fe4b6abd0f5f7d6563",
+      "name": "Bam's Birthday Bash GT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/fe4b6abd0f5f7d6563",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ff49a645a30710121d",
+      "name": "TC War Room November RTT",
+      "date": "2026-11-14",
+      "url": "https://listhammer.info/events/ff49a645a30710121d",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "019ed3706a61b63e2c",
+      "name": "Orbital Thunder: Operation Dawnhammer - Good Games 40k GT",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/019ed3706a61b63e2c",
+      "lists": 5,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "0e638aa73b811031b1",
+      "name": "Manawatu Maelstrom 2026",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/0e638aa73b811031b1",
+      "lists": 7,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "7fe3efa2eba02ca731",
+      "name": "ConQuest Auto 2026",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/7fe3efa2eba02ca731",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "93f6d171681c15b8cd",
+      "name": "I Wojna o Magme",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/93f6d171681c15b8cd",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "a46c29f7f35580a638",
+      "name": "Quarter Master Finals - 2026",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/a46c29f7f35580a638",
+      "lists": 1,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "ac7b80a89fd8c56d87",
+      "name": "Krucjata #220",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/ac7b80a89fd8c56d87",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "c49850b7596018c4df",
+      "name": "Gonghammer 2026",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/c49850b7596018c4df",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "e80f2bca720dc0497e",
+      "name": "PostDMP 40k Puggy",
+      "date": "2026-11-13",
+      "url": "https://listhammer.info/events/e80f2bca720dc0497e",
+      "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "b774ef2ad8123ddbaa",
+      "name": "Mid-Week Melta 2",
+      "date": "2026-11-12",
+      "url": "https://listhammer.info/events/b774ef2ad8123ddbaa",
+      "lists": 4,
+      "file": "lists-2026-11.json"
+    },
     {
       "slug": "073c431d3ff57070e4",
       "name": "Kimberlin New Location 1st RTT",
@@ -405,7 +1973,7 @@
       "name": "Team Stonehammer - The Gravel Pit '26",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/1e5498638410a770a4",
-      "lists": 8,
+      "lists": 10,
       "file": "lists-2026-11.json"
     },
     {
@@ -517,7 +2085,7 @@
       "name": "Torneo a Terni Adeptus Ternanus",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/325afd7d0761d7f51a",
-      "lists": 4,
+      "lists": 5,
       "file": "lists-2026-11.json"
     },
     {
@@ -589,7 +2157,7 @@
       "name": "SSG & MM Shuffle Wars IV: Makari's Hope",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/4365b12b2b9fc92a41",
-      "lists": 12,
+      "lists": 13,
       "file": "lists-2026-11.json"
     },
     {
@@ -757,7 +2325,7 @@
       "name": "BrewHammer GT 10",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/6d152f177d5d7d9719",
-      "lists": 6,
+      "lists": 7,
       "file": "lists-2026-11.json"
     },
     {
@@ -965,7 +2533,7 @@
       "name": "Rose City Ruckus Singles",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/9f7bcef430f2416fdc",
-      "lists": 4,
+      "lists": 6,
       "file": "lists-2026-11.json"
     },
     {
@@ -989,7 +2557,7 @@
       "name": "124. Bedburger Scheunenkloppen - Zweitagesturnier",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/a65930ba13ab2a3fd0",
-      "lists": 6,
+      "lists": 8,
       "file": "lists-2026-11.json"
     },
     {
@@ -1013,7 +2581,7 @@
       "name": "Atomic City Warzone 2026",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/aa766a91982d643eda",
-      "lists": 5,
+      "lists": 6,
       "file": "lists-2026-11.json"
     },
     {
@@ -1085,7 +2653,7 @@
       "name": "OGRE 2026, Open du Grand Est 4ème EDITION",
       "date": "2026-11-07",
       "url": "https://listhammer.info/events/b37cce4ba8de6efa23",
-      "lists": 16,
+      "lists": 19,
       "file": "lists-2026-11.json"
     },
     {
@@ -1341,7 +2909,7 @@
       "name": "Raccoon Rumble 2026 40K",
       "date": "2026-11-06",
       "url": "https://listhammer.info/events/0f1e84b350111fff65",
-      "lists": 14,
+      "lists": 18,
       "file": "lists-2026-11.json"
     },
     {
@@ -1373,7 +2941,7 @@
       "name": "Show Me Showdown Warhammer 40k Championships",
       "date": "2026-11-06",
       "url": "https://listhammer.info/events/7fc36ad09cc8f7e92b",
-      "lists": 8,
+      "lists": 10,
       "file": "lists-2026-11.json"
     },
     {
@@ -1390,6 +2958,14 @@
       "date": "2026-11-06",
       "url": "https://listhammer.info/events/b1c165459cc936e23b",
       "lists": 2,
+      "file": "lists-2026-11.json"
+    },
+    {
+      "slug": "bbb577aa31dd4a8099",
+      "name": "The California Cup 2026 - Warhammer 40K",
+      "date": "2026-11-06",
+      "url": "https://listhammer.info/events/bbb577aa31dd4a8099",
+      "lists": 6,
       "file": "lists-2026-11.json"
     },
     {
@@ -23821,8 +25397,8 @@
     {
       "name": "results-2026-11.json",
       "month": "2026-11",
-      "events": 186,
-      "players": 3845
+      "events": 383,
+      "players": 7704
     },
     {
       "name": "results-2026-10.json",
